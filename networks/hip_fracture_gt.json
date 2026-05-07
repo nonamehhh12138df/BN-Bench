@@ -1,0 +1,31 @@
+[
+  ["Age", "History of Fracture", "Vitamin D use"],
+  
+  ["Age", "BMD", "Fracture"],
+  ["Age", "BMD", "Vitamin D use"],
+  ["Age", "BMD", "History of Fracture", "Vitamin D use"],
+  
+  ["Age", "Gait speed", "Fracture"],
+  ["Age", "Gait speed", "History of falls"],
+  
+  ["Age", "Chronic Disease", "BMI", "BMD", "Fracture"],
+  ["Age", "Chronic Disease", "BMI", "BMD", "Vitamin D use"],
+  ["Age", "Chronic Disease", "BMI", "BMD", "History of Fracture", "Vitamin D use"],
+  ["Age", "Chronic Disease", "BMI", "Vitamin D use"],
+  
+  ["Age", "Chronic Disease", "GC use"],
+  
+  ["Age", "Chronic Disease", "5TSTS test", "Gait speed", "Fracture"],
+  ["Age", "Chronic Disease", "5TSTS test", "Gait speed", "History of falls"],
+  
+  ["Age", "Chronic Disease", "Psychotropes use", "5TSTS test", "Gait speed", "Fracture"],
+  ["Age", "Chronic Disease", "Psychotropes use", "5TSTS test", "Gait speed", "History of falls"],
+  ["Age", "Chronic Disease", "Psychotropes use", "Gait speed", "Fracture"],
+  ["Age", "Chronic Disease", "Psychotropes use", "Gait speed", "History of falls"],
+  
+  ["BMI", "BMD", "Fracture"],
+  ["BMI", "BMD", "Vitamin D use"],
+  ["BMI", "BMD", "History of Fracture", "Vitamin D use"],
+  
+  ["BMI", "Vitamin D use"]
+]

@@ -1,0 +1,36 @@
+{
+  "network": "factors_determining_severity_of_burn_injuries",
+  "network_label": "Factors determining Severity of Burn Injuries",
+  "section_id": "2.5",
+  "section_title": "Factors determining Severity of Burn Injuries Network",
+  "model": "ChatGPT 4.0",
+  "expert_type": "llm_simulated_expert",
+  "run_id": "run_001",
+  "prompt_id": "docx_llm_survey_v1",
+  "rating_files": {
+    "ordering_based": "ordering_based_ratings.csv",
+    "edge_based": "edge_based_ratings.csv"
+  },
+  "rating_scales": {
+    "ordering_based": {
+      "column": "raw_score",
+      "description": "integer causal rating in [-10, 10]"
+    },
+    "edge_based": {
+      "column": "direction_label",
+      "labels": {
+        "1": "source -> target",
+        "-1": "target -> source",
+        "0": "no direct causal influence or uncertain"
+      }
+    }
+  },
+  "source_tables": {
+    "causal_rating_table_index": 15,
+    "direct_influence_table_index": 16
+  },
+  "num_pairs": {
+    "ordering_based": 78,
+    "edge_based": 78
+  }
+}

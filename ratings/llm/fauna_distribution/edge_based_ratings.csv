@@ -1,0 +1,16 @@
+network,network_label,section_id,model,expert_type,run_id,pair_id,source,target,prompt_id,protocol,direction_label
+fauna_distribution,Fauna Distribution,2.1,ChatGPT 4.0,llm_simulated_expert,run_001,fauna_distribution_pair_001,Environmental Conditions,Fire,docx_llm_survey_v1,edge_based,1
+fauna_distribution,Fauna Distribution,2.1,ChatGPT 4.0,llm_simulated_expert,run_001,fauna_distribution_pair_002,Fire,Fauna,docx_llm_survey_v1,edge_based,0
+fauna_distribution,Fauna Distribution,2.1,ChatGPT 4.0,llm_simulated_expert,run_001,fauna_distribution_pair_003,Environmental Conditions,Vegetation Community,docx_llm_survey_v1,edge_based,1
+fauna_distribution,Fauna Distribution,2.1,ChatGPT 4.0,llm_simulated_expert,run_001,fauna_distribution_pair_004,Vegetation Community,Habitat,docx_llm_survey_v1,edge_based,1
+fauna_distribution,Fauna Distribution,2.1,ChatGPT 4.0,llm_simulated_expert,run_001,fauna_distribution_pair_005,Environmental Conditions,Habitat,docx_llm_survey_v1,edge_based,1
+fauna_distribution,Fauna Distribution,2.1,ChatGPT 4.0,llm_simulated_expert,run_001,fauna_distribution_pair_006,Vegetation Community,Predators,docx_llm_survey_v1,edge_based,0
+fauna_distribution,Fauna Distribution,2.1,ChatGPT 4.0,llm_simulated_expert,run_001,fauna_distribution_pair_007,Environmental Conditions,Predators,docx_llm_survey_v1,edge_based,0
+fauna_distribution,Fauna Distribution,2.1,ChatGPT 4.0,llm_simulated_expert,run_001,fauna_distribution_pair_008,Vegetation Community,Fauna,docx_llm_survey_v1,edge_based,1
+fauna_distribution,Fauna Distribution,2.1,ChatGPT 4.0,llm_simulated_expert,run_001,fauna_distribution_pair_009,Environmental Conditions,Fauna,docx_llm_survey_v1,edge_based,0
+fauna_distribution,Fauna Distribution,2.1,ChatGPT 4.0,llm_simulated_expert,run_001,fauna_distribution_pair_010,Habitat,Predators,docx_llm_survey_v1,edge_based,1
+fauna_distribution,Fauna Distribution,2.1,ChatGPT 4.0,llm_simulated_expert,run_001,fauna_distribution_pair_011,Fire,Vegetation Community,docx_llm_survey_v1,edge_based,1
+fauna_distribution,Fauna Distribution,2.1,ChatGPT 4.0,llm_simulated_expert,run_001,fauna_distribution_pair_012,Habitat,Fauna,docx_llm_survey_v1,edge_based,1
+fauna_distribution,Fauna Distribution,2.1,ChatGPT 4.0,llm_simulated_expert,run_001,fauna_distribution_pair_013,Fire,Habitat,docx_llm_survey_v1,edge_based,1
+fauna_distribution,Fauna Distribution,2.1,ChatGPT 4.0,llm_simulated_expert,run_001,fauna_distribution_pair_014,Predators,Fauna,docx_llm_survey_v1,edge_based,1
+fauna_distribution,Fauna Distribution,2.1,ChatGPT 4.0,llm_simulated_expert,run_001,fauna_distribution_pair_015,Fire,Predators,docx_llm_survey_v1,edge_based,0

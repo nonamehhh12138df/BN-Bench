@@ -1,0 +1,39 @@
+[
+  ["APOE4","av45","brain volume","ventricular volume","brain MRI"],
+  ["APOE4","av45","brain volume","moca"],
+  ["APOE4","av45","brain volume","brain MRI"],
+  ["APOE4","av45","tau","brain volume","ventricular volume","brain MRI"],
+  ["APOE4","av45","tau","brain volume","moca"],
+  ["APOE4","av45","tau","brain volume","brain MRI"],
+  ["APOE4","av45","tau","ventricular volume","brain MRI"],
+  ["APOE4","av45","tau","moca"],
+  
+  ["sex","ventricular volume","brain MRI"],
+  ["sex","brain volume","ventricular volume","brain MRI"],
+  ["sex","brain volume","moca"],
+  ["sex","brain volume","brain MRI"],
+  
+  ["age","ventricular volume","brain MRI"],
+  ["age","brain volume","ventricular volume","brain MRI"],
+  ["age","brain volume","moca"],
+  ["age","brain volume","brain MRI"],
+  
+  ["age","av45","brain volume","ventricular volume","brain MRI"],
+  ["age","av45","brain volume","moca"],
+  ["age","av45","brain volume","brain MRI"],
+  ["age","av45","tau","brain volume","ventricular volume","brain MRI"],
+  ["age","av45","tau","brain volume","moca"],
+  ["age","av45","tau","brain volume","brain MRI"],
+  ["age","av45","tau","ventricular volume","brain MRI"],
+  ["age","av45","tau","moca"],
+
+  ["age","tau","brain volume","ventricular volume","brain MRI"],
+  ["age","tau","brain volume","moca"],
+  ["age","tau","brain volume","brain MRI"],
+  ["age","tau","ventricular volume","brain MRI"],
+  ["age","tau","moca"],
+  
+  ["age","moca"],
+  ["slice number","brain MRI"],
+  ["education","moca"]
+]

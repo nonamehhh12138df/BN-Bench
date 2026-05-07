@@ -1,0 +1,37 @@
+network,network_label,section_id,model,expert_type,run_id,pair_id,source,target,prompt_id,protocol,direction_label
+depressive_symptoms,Depressive Symptoms,2.8,ChatGPT 4.0,llm_simulated_expert,run_001,depressive_symptoms_pair_001,Depressed Mood,Fatigue,docx_llm_survey_v1,edge_based,1
+depressive_symptoms,Depressive Symptoms,2.8,ChatGPT 4.0,llm_simulated_expert,run_001,depressive_symptoms_pair_002,Poor Self Esteem,Insomnia,docx_llm_survey_v1,edge_based,0
+depressive_symptoms,Depressive Symptoms,2.8,ChatGPT 4.0,llm_simulated_expert,run_001,depressive_symptoms_pair_003,Depressed Mood,Poor Self Esteem,docx_llm_survey_v1,edge_based,1
+depressive_symptoms,Depressive Symptoms,2.8,ChatGPT 4.0,llm_simulated_expert,run_001,depressive_symptoms_pair_004,Poor Self Esteem,Psychomotor Disturbance,docx_llm_survey_v1,edge_based,0
+depressive_symptoms,Depressive Symptoms,2.8,ChatGPT 4.0,llm_simulated_expert,run_001,depressive_symptoms_pair_005,Depressed Mood,Anhedonia,docx_llm_survey_v1,edge_based,1
+depressive_symptoms,Depressive Symptoms,2.8,ChatGPT 4.0,llm_simulated_expert,run_001,depressive_symptoms_pair_006,Poor Self Esteem,Suicidal Ideation,docx_llm_survey_v1,edge_based,1
+depressive_symptoms,Depressive Symptoms,2.8,ChatGPT 4.0,llm_simulated_expert,run_001,depressive_symptoms_pair_007,Depressed Mood,Concentration Problems,docx_llm_survey_v1,edge_based,1
+depressive_symptoms,Depressive Symptoms,2.8,ChatGPT 4.0,llm_simulated_expert,run_001,depressive_symptoms_pair_008,Anhedonia,Concentration Problems,docx_llm_survey_v1,edge_based,1
+depressive_symptoms,Depressive Symptoms,2.8,ChatGPT 4.0,llm_simulated_expert,run_001,depressive_symptoms_pair_009,Depressed Mood,Eating Problems,docx_llm_survey_v1,edge_based,0
+depressive_symptoms,Depressive Symptoms,2.8,ChatGPT 4.0,llm_simulated_expert,run_001,depressive_symptoms_pair_010,Anhedonia,Eating Problems,docx_llm_survey_v1,edge_based,1
+depressive_symptoms,Depressive Symptoms,2.8,ChatGPT 4.0,llm_simulated_expert,run_001,depressive_symptoms_pair_011,Depressed Mood,Insomnia,docx_llm_survey_v1,edge_based,1
+depressive_symptoms,Depressive Symptoms,2.8,ChatGPT 4.0,llm_simulated_expert,run_001,depressive_symptoms_pair_012,Anhedonia,Insomnia,docx_llm_survey_v1,edge_based,0
+depressive_symptoms,Depressive Symptoms,2.8,ChatGPT 4.0,llm_simulated_expert,run_001,depressive_symptoms_pair_013,Depressed Mood,Psychomotor Disturbance,docx_llm_survey_v1,edge_based,1
+depressive_symptoms,Depressive Symptoms,2.8,ChatGPT 4.0,llm_simulated_expert,run_001,depressive_symptoms_pair_014,Anhedonia,Psychomotor Disturbance,docx_llm_survey_v1,edge_based,1
+depressive_symptoms,Depressive Symptoms,2.8,ChatGPT 4.0,llm_simulated_expert,run_001,depressive_symptoms_pair_015,Depressed Mood,Suicidal Ideation,docx_llm_survey_v1,edge_based,1
+depressive_symptoms,Depressive Symptoms,2.8,ChatGPT 4.0,llm_simulated_expert,run_001,depressive_symptoms_pair_016,Anhedonia,Suicidal Ideation,docx_llm_survey_v1,edge_based,1
+depressive_symptoms,Depressive Symptoms,2.8,ChatGPT 4.0,llm_simulated_expert,run_001,depressive_symptoms_pair_017,Fatigue,Poor Self Esteem,docx_llm_survey_v1,edge_based,0
+depressive_symptoms,Depressive Symptoms,2.8,ChatGPT 4.0,llm_simulated_expert,run_001,depressive_symptoms_pair_018,Concentration Problems,Eating Problems,docx_llm_survey_v1,edge_based,0
+depressive_symptoms,Depressive Symptoms,2.8,ChatGPT 4.0,llm_simulated_expert,run_001,depressive_symptoms_pair_019,Fatigue,Anhedonia,docx_llm_survey_v1,edge_based,0
+depressive_symptoms,Depressive Symptoms,2.8,ChatGPT 4.0,llm_simulated_expert,run_001,depressive_symptoms_pair_020,Concentration Problems,Insomnia,docx_llm_survey_v1,edge_based,0
+depressive_symptoms,Depressive Symptoms,2.8,ChatGPT 4.0,llm_simulated_expert,run_001,depressive_symptoms_pair_021,Fatigue,Concentration Problems,docx_llm_survey_v1,edge_based,1
+depressive_symptoms,Depressive Symptoms,2.8,ChatGPT 4.0,llm_simulated_expert,run_001,depressive_symptoms_pair_022,Concentration Problems,Psychomotor Disturbance,docx_llm_survey_v1,edge_based,0
+depressive_symptoms,Depressive Symptoms,2.8,ChatGPT 4.0,llm_simulated_expert,run_001,depressive_symptoms_pair_023,Fatigue,Eating Problems,docx_llm_survey_v1,edge_based,0
+depressive_symptoms,Depressive Symptoms,2.8,ChatGPT 4.0,llm_simulated_expert,run_001,depressive_symptoms_pair_024,Concentration Problems,Suicidal Ideation,docx_llm_survey_v1,edge_based,0
+depressive_symptoms,Depressive Symptoms,2.8,ChatGPT 4.0,llm_simulated_expert,run_001,depressive_symptoms_pair_025,Fatigue,Insomnia,docx_llm_survey_v1,edge_based,-1
+depressive_symptoms,Depressive Symptoms,2.8,ChatGPT 4.0,llm_simulated_expert,run_001,depressive_symptoms_pair_026,Eating Problems,Insomnia,docx_llm_survey_v1,edge_based,1
+depressive_symptoms,Depressive Symptoms,2.8,ChatGPT 4.0,llm_simulated_expert,run_001,depressive_symptoms_pair_027,Fatigue,Psychomotor Disturbance,docx_llm_survey_v1,edge_based,1
+depressive_symptoms,Depressive Symptoms,2.8,ChatGPT 4.0,llm_simulated_expert,run_001,depressive_symptoms_pair_028,Eating Problems,Psychomotor Disturbance,docx_llm_survey_v1,edge_based,0
+depressive_symptoms,Depressive Symptoms,2.8,ChatGPT 4.0,llm_simulated_expert,run_001,depressive_symptoms_pair_029,Fatigue,Suicidal Ideation,docx_llm_survey_v1,edge_based,0
+depressive_symptoms,Depressive Symptoms,2.8,ChatGPT 4.0,llm_simulated_expert,run_001,depressive_symptoms_pair_030,Eating Problems,Suicidal Ideation,docx_llm_survey_v1,edge_based,0
+depressive_symptoms,Depressive Symptoms,2.8,ChatGPT 4.0,llm_simulated_expert,run_001,depressive_symptoms_pair_031,Poor Self Esteem,Anhedonia,docx_llm_survey_v1,edge_based,1
+depressive_symptoms,Depressive Symptoms,2.8,ChatGPT 4.0,llm_simulated_expert,run_001,depressive_symptoms_pair_032,Insomnia,Psychomotor Disturbance,docx_llm_survey_v1,edge_based,1
+depressive_symptoms,Depressive Symptoms,2.8,ChatGPT 4.0,llm_simulated_expert,run_001,depressive_symptoms_pair_033,Poor Self Esteem,Concentration Problems,docx_llm_survey_v1,edge_based,0
+depressive_symptoms,Depressive Symptoms,2.8,ChatGPT 4.0,llm_simulated_expert,run_001,depressive_symptoms_pair_034,Insomnia,Suicidal Ideation,docx_llm_survey_v1,edge_based,1
+depressive_symptoms,Depressive Symptoms,2.8,ChatGPT 4.0,llm_simulated_expert,run_001,depressive_symptoms_pair_035,Poor Self Esteem,Eating Problems,docx_llm_survey_v1,edge_based,1
+depressive_symptoms,Depressive Symptoms,2.8,ChatGPT 4.0,llm_simulated_expert,run_001,depressive_symptoms_pair_036,Psychomotor Disturbance,Suicidal Ideation,docx_llm_survey_v1,edge_based,1

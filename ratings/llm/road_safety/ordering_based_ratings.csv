@@ -1,0 +1,46 @@
+network,network_label,section_id,model,expert_type,run_id,pair_id,source,target,prompt_id,protocol,raw_score
+road_safety,Road Safety,2.10,ChatGPT 4.0,llm_simulated_expert,run_001,road_safety_pair_001,Umbrella Sales,Rain,docx_llm_survey_v1,ordering_based,-9
+road_safety,Road Safety,2.10,ChatGPT 4.0,llm_simulated_expert,run_001,road_safety_pair_002,Visibility,Road Safety,docx_llm_survey_v1,ordering_based,7
+road_safety,Road Safety,2.10,ChatGPT 4.0,llm_simulated_expert,run_001,road_safety_pair_003,Umbrella Sales,Visibility,docx_llm_survey_v1,ordering_based,-9
+road_safety,Road Safety,2.10,ChatGPT 4.0,llm_simulated_expert,run_001,road_safety_pair_004,Surface Water,Speed Limit,docx_llm_survey_v1,ordering_based,4
+road_safety,Road Safety,2.10,ChatGPT 4.0,llm_simulated_expert,run_001,road_safety_pair_005,Umbrella Sales,Surface Water,docx_llm_survey_v1,ordering_based,-8
+road_safety,Road Safety,2.10,ChatGPT 4.0,llm_simulated_expert,run_001,road_safety_pair_006,Surface Water,School Route,docx_llm_survey_v1,ordering_based,0
+road_safety,Road Safety,2.10,ChatGPT 4.0,llm_simulated_expert,run_001,road_safety_pair_007,Umbrella Sales,Speed Limit,docx_llm_survey_v1,ordering_based,0
+road_safety,Road Safety,2.10,ChatGPT 4.0,llm_simulated_expert,run_001,road_safety_pair_008,Surface Water,Cycle Lanes,docx_llm_survey_v1,ordering_based,2
+road_safety,Road Safety,2.10,ChatGPT 4.0,llm_simulated_expert,run_001,road_safety_pair_009,Umbrella Sales,School Route,docx_llm_survey_v1,ordering_based,0
+road_safety,Road Safety,2.10,ChatGPT 4.0,llm_simulated_expert,run_001,road_safety_pair_010,Surface Water,Number of Car Crashes,docx_llm_survey_v1,ordering_based,8
+road_safety,Road Safety,2.10,ChatGPT 4.0,llm_simulated_expert,run_001,road_safety_pair_011,Umbrella Sales,Cycle Lanes,docx_llm_survey_v1,ordering_based,0
+road_safety,Road Safety,2.10,ChatGPT 4.0,llm_simulated_expert,run_001,road_safety_pair_012,Surface Water,Number of Fatalities,docx_llm_survey_v1,ordering_based,6
+road_safety,Road Safety,2.10,ChatGPT 4.0,llm_simulated_expert,run_001,road_safety_pair_013,Umbrella Sales,Number of Car Crashes,docx_llm_survey_v1,ordering_based,-5
+road_safety,Road Safety,2.10,ChatGPT 4.0,llm_simulated_expert,run_001,road_safety_pair_014,Surface Water,Road Safety,docx_llm_survey_v1,ordering_based,7
+road_safety,Road Safety,2.10,ChatGPT 4.0,llm_simulated_expert,run_001,road_safety_pair_015,Umbrella Sales,Number of Fatalities,docx_llm_survey_v1,ordering_based,-4
+road_safety,Road Safety,2.10,ChatGPT 4.0,llm_simulated_expert,run_001,road_safety_pair_016,Speed Limit,School Route,docx_llm_survey_v1,ordering_based,6
+road_safety,Road Safety,2.10,ChatGPT 4.0,llm_simulated_expert,run_001,road_safety_pair_017,Umbrella Sales,Road Safety,docx_llm_survey_v1,ordering_based,-5
+road_safety,Road Safety,2.10,ChatGPT 4.0,llm_simulated_expert,run_001,road_safety_pair_018,Speed Limit,Cycle Lanes,docx_llm_survey_v1,ordering_based,3
+road_safety,Road Safety,2.10,ChatGPT 4.0,llm_simulated_expert,run_001,road_safety_pair_019,Rain,Visibility,docx_llm_survey_v1,ordering_based,9
+road_safety,Road Safety,2.10,ChatGPT 4.0,llm_simulated_expert,run_001,road_safety_pair_020,Speed Limit,Number of Car Crashes,docx_llm_survey_v1,ordering_based,8
+road_safety,Road Safety,2.10,ChatGPT 4.0,llm_simulated_expert,run_001,road_safety_pair_021,Rain,Surface Water,docx_llm_survey_v1,ordering_based,10
+road_safety,Road Safety,2.10,ChatGPT 4.0,llm_simulated_expert,run_001,road_safety_pair_022,Speed Limit,Number of Fatalities,docx_llm_survey_v1,ordering_based,9
+road_safety,Road Safety,2.10,ChatGPT 4.0,llm_simulated_expert,run_001,road_safety_pair_023,Rain,Speed Limit,docx_llm_survey_v1,ordering_based,4
+road_safety,Road Safety,2.10,ChatGPT 4.0,llm_simulated_expert,run_001,road_safety_pair_024,Speed Limit,Road Safety,docx_llm_survey_v1,ordering_based,8
+road_safety,Road Safety,2.10,ChatGPT 4.0,llm_simulated_expert,run_001,road_safety_pair_025,Rain,School Route,docx_llm_survey_v1,ordering_based,1
+road_safety,Road Safety,2.10,ChatGPT 4.0,llm_simulated_expert,run_001,road_safety_pair_026,School Route,Cycle Lanes,docx_llm_survey_v1,ordering_based,4
+road_safety,Road Safety,2.10,ChatGPT 4.0,llm_simulated_expert,run_001,road_safety_pair_027,Rain,Cycle Lanes,docx_llm_survey_v1,ordering_based,2
+road_safety,Road Safety,2.10,ChatGPT 4.0,llm_simulated_expert,run_001,road_safety_pair_028,School Route,Number of Car Crashes,docx_llm_survey_v1,ordering_based,5
+road_safety,Road Safety,2.10,ChatGPT 4.0,llm_simulated_expert,run_001,road_safety_pair_029,Rain,Number of Car Crashes,docx_llm_survey_v1,ordering_based,8
+road_safety,Road Safety,2.10,ChatGPT 4.0,llm_simulated_expert,run_001,road_safety_pair_030,School Route,Number of Fatalities,docx_llm_survey_v1,ordering_based,4
+road_safety,Road Safety,2.10,ChatGPT 4.0,llm_simulated_expert,run_001,road_safety_pair_031,Rain,Number of Fatalities,docx_llm_survey_v1,ordering_based,6
+road_safety,Road Safety,2.10,ChatGPT 4.0,llm_simulated_expert,run_001,road_safety_pair_032,School Route,Road Safety,docx_llm_survey_v1,ordering_based,5
+road_safety,Road Safety,2.10,ChatGPT 4.0,llm_simulated_expert,run_001,road_safety_pair_033,Rain,Road Safety,docx_llm_survey_v1,ordering_based,8
+road_safety,Road Safety,2.10,ChatGPT 4.0,llm_simulated_expert,run_001,road_safety_pair_034,Cycle Lanes,Number of Car Crashes,docx_llm_survey_v1,ordering_based,-6
+road_safety,Road Safety,2.10,ChatGPT 4.0,llm_simulated_expert,run_001,road_safety_pair_035,Visibility,Surface Water,docx_llm_survey_v1,ordering_based,-8
+road_safety,Road Safety,2.10,ChatGPT 4.0,llm_simulated_expert,run_001,road_safety_pair_036,Cycle Lanes,Number of Fatalities,docx_llm_survey_v1,ordering_based,-6
+road_safety,Road Safety,2.10,ChatGPT 4.0,llm_simulated_expert,run_001,road_safety_pair_037,Visibility,Speed Limit,docx_llm_survey_v1,ordering_based,5
+road_safety,Road Safety,2.10,ChatGPT 4.0,llm_simulated_expert,run_001,road_safety_pair_038,Cycle Lanes,Road Safety,docx_llm_survey_v1,ordering_based,7
+road_safety,Road Safety,2.10,ChatGPT 4.0,llm_simulated_expert,run_001,road_safety_pair_039,Visibility,School Route,docx_llm_survey_v1,ordering_based,0
+road_safety,Road Safety,2.10,ChatGPT 4.0,llm_simulated_expert,run_001,road_safety_pair_040,Number of Car Crashes,Number of Fatalities,docx_llm_survey_v1,ordering_based,9
+road_safety,Road Safety,2.10,ChatGPT 4.0,llm_simulated_expert,run_001,road_safety_pair_041,Visibility,Cycle Lanes,docx_llm_survey_v1,ordering_based,0
+road_safety,Road Safety,2.10,ChatGPT 4.0,llm_simulated_expert,run_001,road_safety_pair_042,Number of Car Crashes,Road Safety,docx_llm_survey_v1,ordering_based,8
+road_safety,Road Safety,2.10,ChatGPT 4.0,llm_simulated_expert,run_001,road_safety_pair_043,Visibility,Number of Car Crashes,docx_llm_survey_v1,ordering_based,8
+road_safety,Road Safety,2.10,ChatGPT 4.0,llm_simulated_expert,run_001,road_safety_pair_044,Number of Fatalities,Road Safety,docx_llm_survey_v1,ordering_based,9
+road_safety,Road Safety,2.10,ChatGPT 4.0,llm_simulated_expert,run_001,road_safety_pair_045,Visibility,Number of Fatalities,docx_llm_survey_v1,ordering_based,6

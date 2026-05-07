@@ -1,0 +1,33 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+
+.pytest_cache/
+.venv/
+build/
+dist/
+*.egg-info/
+
+*.Rcheck/
+.r-lib/
+*.tar.gz
+
+# R package scaffold from an earlier prototype; not part of the Python release.
+/.Rbuildignore
+/DESCRIPTION
+/NAMESPACE
+/R/
+/man/
+/data/
+/data-raw/
+/inst/
+
+# Local/package build outputs.
+/build/
+/dist/
+/src/*.egg-info/
+
+# Raw human survey exports are converted to anonymized CSV files before release.
+/ratings/human/*.xlsx
+/ratings/human/asia/Asian_edge_based.csv
+/ratings/human/asia/asian_network_human.csv

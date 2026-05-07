@@ -1,0 +1,501 @@
+network,network_label,participant_id,response_id,pair_id,source,target,prompt_id,protocol,raw_score
+hip_fracture,Hip Fracture,hip_fracture_participant_001,hip_fracture_participant_001,hip_fracture_pair_001,Age,BMI (Body Mass Index),human_survey_v1,ordering_based,2
+hip_fracture,Hip Fracture,hip_fracture_participant_001,hip_fracture_participant_001,hip_fracture_pair_002,Age,Vitamin D Use,human_survey_v1,ordering_based,4
+hip_fracture,Hip Fracture,hip_fracture_participant_001,hip_fracture_participant_001,hip_fracture_pair_003,Age,Chronic Diseases,human_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,hip_fracture_participant_001,hip_fracture_participant_001,hip_fracture_pair_004,Age,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,5
+hip_fracture,Hip Fracture,hip_fracture_participant_001,hip_fracture_participant_001,hip_fracture_pair_005,Age,Gait Speed,human_survey_v1,ordering_based,4
+hip_fracture,Hip Fracture,hip_fracture_participant_001,hip_fracture_participant_001,hip_fracture_pair_006,Age,Hip Fracture,human_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,hip_fracture_participant_001,hip_fracture_participant_001,hip_fracture_pair_007,BMI (Body Mass Index),Vitamin D Use,human_survey_v1,ordering_based,2
+hip_fracture,Hip Fracture,hip_fracture_participant_001,hip_fracture_participant_001,hip_fracture_pair_008,BMI (Body Mass Index),Chronic Diseases,human_survey_v1,ordering_based,4
+hip_fracture,Hip Fracture,hip_fracture_participant_001,hip_fracture_participant_001,hip_fracture_pair_009,BMI (Body Mass Index),5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,5
+hip_fracture,Hip Fracture,hip_fracture_participant_001,hip_fracture_participant_001,hip_fracture_pair_010,BMI (Body Mass Index),Hip Fracture,human_survey_v1,ordering_based,4
+hip_fracture,Hip Fracture,hip_fracture_participant_001,hip_fracture_participant_001,hip_fracture_pair_011,5 Times Sit-to-Stand (5TSTS),Gait Speed,human_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,hip_fracture_participant_001,hip_fracture_participant_001,hip_fracture_pair_012,5 Times Sit-to-Stand (5TSTS),History of Falls,human_survey_v1,ordering_based,-4
+hip_fracture,Hip Fracture,hip_fracture_participant_001,hip_fracture_participant_001,hip_fracture_pair_013,5 Times Sit-to-Stand (5TSTS),Hip Fracture,human_survey_v1,ordering_based,-6
+hip_fracture,Hip Fracture,hip_fracture_participant_001,hip_fracture_participant_001,hip_fracture_pair_014,History of Fracture,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,hip_fracture_participant_001,hip_fracture_participant_001,hip_fracture_pair_015,Vitamin D Use,Chronic Diseases,human_survey_v1,ordering_based,3
+hip_fracture,Hip Fracture,hip_fracture_participant_001,hip_fracture_participant_001,hip_fracture_pair_016,Vitamin D Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,2
+hip_fracture,Hip Fracture,hip_fracture_participant_001,hip_fracture_participant_001,hip_fracture_pair_017,Chronic Diseases,Glucocorticoid (GC) Use,human_survey_v1,ordering_based,4
+hip_fracture,Hip Fracture,hip_fracture_participant_001,hip_fracture_participant_001,hip_fracture_pair_018,Chronic Diseases,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,4
+hip_fracture,Hip Fracture,hip_fracture_participant_001,hip_fracture_participant_001,hip_fracture_pair_019,Chronic Diseases,Gait Speed,human_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,hip_fracture_participant_001,hip_fracture_participant_001,hip_fracture_pair_020,Chronic Diseases,Hip Fracture,human_survey_v1,ordering_based,-2
+hip_fracture,Hip Fracture,hip_fracture_participant_001,hip_fracture_participant_001,hip_fracture_pair_021,Glucocorticoid (GC) Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,-5
+hip_fracture,Hip Fracture,hip_fracture_participant_001,hip_fracture_participant_001,hip_fracture_pair_022,BMD (Bone Mineral Density),Chronic Diseases,human_survey_v1,ordering_based,-5
+hip_fracture,Hip Fracture,hip_fracture_participant_001,hip_fracture_participant_001,hip_fracture_pair_023,BMD (Bone Mineral Density),Hip Fracture,human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_001,hip_fracture_participant_001,hip_fracture_pair_024,Psychotropic Drug Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,4
+hip_fracture,Hip Fracture,hip_fracture_participant_001,hip_fracture_participant_001,hip_fracture_pair_025,Psychotropic Drug Use,Hip Fracture,human_survey_v1,ordering_based,1
+hip_fracture,Hip Fracture,hip_fracture_participant_002,hip_fracture_participant_002,hip_fracture_pair_001,Age,BMI (Body Mass Index),human_survey_v1,ordering_based,5
+hip_fracture,Hip Fracture,hip_fracture_participant_002,hip_fracture_participant_002,hip_fracture_pair_002,Age,Vitamin D Use,human_survey_v1,ordering_based,3
+hip_fracture,Hip Fracture,hip_fracture_participant_002,hip_fracture_participant_002,hip_fracture_pair_003,Age,Chronic Diseases,human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_002,hip_fracture_participant_002,hip_fracture_pair_004,Age,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,hip_fracture_participant_002,hip_fracture_participant_002,hip_fracture_pair_005,Age,Gait Speed,human_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,hip_fracture_participant_002,hip_fracture_participant_002,hip_fracture_pair_006,Age,Hip Fracture,human_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,hip_fracture_participant_002,hip_fracture_participant_002,hip_fracture_pair_007,BMI (Body Mass Index),Vitamin D Use,human_survey_v1,ordering_based,0
+hip_fracture,Hip Fracture,hip_fracture_participant_002,hip_fracture_participant_002,hip_fracture_pair_008,BMI (Body Mass Index),Chronic Diseases,human_survey_v1,ordering_based,5
+hip_fracture,Hip Fracture,hip_fracture_participant_002,hip_fracture_participant_002,hip_fracture_pair_009,BMI (Body Mass Index),5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,hip_fracture_participant_002,hip_fracture_participant_002,hip_fracture_pair_010,BMI (Body Mass Index),Hip Fracture,human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_002,hip_fracture_participant_002,hip_fracture_pair_011,5 Times Sit-to-Stand (5TSTS),Gait Speed,human_survey_v1,ordering_based,3
+hip_fracture,Hip Fracture,hip_fracture_participant_002,hip_fracture_participant_002,hip_fracture_pair_012,5 Times Sit-to-Stand (5TSTS),History of Falls,human_survey_v1,ordering_based,-4
+hip_fracture,Hip Fracture,hip_fracture_participant_002,hip_fracture_participant_002,hip_fracture_pair_013,5 Times Sit-to-Stand (5TSTS),Hip Fracture,human_survey_v1,ordering_based,3
+hip_fracture,Hip Fracture,hip_fracture_participant_002,hip_fracture_participant_002,hip_fracture_pair_014,History of Fracture,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,2
+hip_fracture,Hip Fracture,hip_fracture_participant_002,hip_fracture_participant_002,hip_fracture_pair_015,Vitamin D Use,Chronic Diseases,human_survey_v1,ordering_based,-5
+hip_fracture,Hip Fracture,hip_fracture_participant_002,hip_fracture_participant_002,hip_fracture_pair_016,Vitamin D Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,0
+hip_fracture,Hip Fracture,hip_fracture_participant_002,hip_fracture_participant_002,hip_fracture_pair_017,Chronic Diseases,Glucocorticoid (GC) Use,human_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,hip_fracture_participant_002,hip_fracture_participant_002,hip_fracture_pair_018,Chronic Diseases,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,3
+hip_fracture,Hip Fracture,hip_fracture_participant_002,hip_fracture_participant_002,hip_fracture_pair_019,Chronic Diseases,Gait Speed,human_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,hip_fracture_participant_002,hip_fracture_participant_002,hip_fracture_pair_020,Chronic Diseases,Hip Fracture,human_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,hip_fracture_participant_002,hip_fracture_participant_002,hip_fracture_pair_021,Glucocorticoid (GC) Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,1
+hip_fracture,Hip Fracture,hip_fracture_participant_002,hip_fracture_participant_002,hip_fracture_pair_022,BMD (Bone Mineral Density),Chronic Diseases,human_survey_v1,ordering_based,-4
+hip_fracture,Hip Fracture,hip_fracture_participant_002,hip_fracture_participant_002,hip_fracture_pair_023,BMD (Bone Mineral Density),Hip Fracture,human_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,hip_fracture_participant_002,hip_fracture_participant_002,hip_fracture_pair_024,Psychotropic Drug Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,hip_fracture_participant_002,hip_fracture_participant_002,hip_fracture_pair_025,Psychotropic Drug Use,Hip Fracture,human_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,hip_fracture_participant_003,hip_fracture_participant_003,hip_fracture_pair_001,Age,BMI (Body Mass Index),human_survey_v1,ordering_based,2
+hip_fracture,Hip Fracture,hip_fracture_participant_003,hip_fracture_participant_003,hip_fracture_pair_002,Age,Vitamin D Use,human_survey_v1,ordering_based,2
+hip_fracture,Hip Fracture,hip_fracture_participant_003,hip_fracture_participant_003,hip_fracture_pair_003,Age,Chronic Diseases,human_survey_v1,ordering_based,5
+hip_fracture,Hip Fracture,hip_fracture_participant_003,hip_fracture_participant_003,hip_fracture_pair_004,Age,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,4
+hip_fracture,Hip Fracture,hip_fracture_participant_003,hip_fracture_participant_003,hip_fracture_pair_005,Age,Gait Speed,human_survey_v1,ordering_based,4
+hip_fracture,Hip Fracture,hip_fracture_participant_003,hip_fracture_participant_003,hip_fracture_pair_006,Age,Hip Fracture,human_survey_v1,ordering_based,4
+hip_fracture,Hip Fracture,hip_fracture_participant_003,hip_fracture_participant_003,hip_fracture_pair_007,BMI (Body Mass Index),Vitamin D Use,human_survey_v1,ordering_based,-3
+hip_fracture,Hip Fracture,hip_fracture_participant_003,hip_fracture_participant_003,hip_fracture_pair_008,BMI (Body Mass Index),Chronic Diseases,human_survey_v1,ordering_based,4
+hip_fracture,Hip Fracture,hip_fracture_participant_003,hip_fracture_participant_003,hip_fracture_pair_009,BMI (Body Mass Index),5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,hip_fracture_participant_003,hip_fracture_participant_003,hip_fracture_pair_010,BMI (Body Mass Index),Hip Fracture,human_survey_v1,ordering_based,5
+hip_fracture,Hip Fracture,hip_fracture_participant_003,hip_fracture_participant_003,hip_fracture_pair_011,5 Times Sit-to-Stand (5TSTS),Gait Speed,human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_003,hip_fracture_participant_003,hip_fracture_pair_012,5 Times Sit-to-Stand (5TSTS),History of Falls,human_survey_v1,ordering_based,-5
+hip_fracture,Hip Fracture,hip_fracture_participant_003,hip_fracture_participant_003,hip_fracture_pair_013,5 Times Sit-to-Stand (5TSTS),Hip Fracture,human_survey_v1,ordering_based,-7
+hip_fracture,Hip Fracture,hip_fracture_participant_003,hip_fracture_participant_003,hip_fracture_pair_014,History of Fracture,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,hip_fracture_participant_003,hip_fracture_participant_003,hip_fracture_pair_015,Vitamin D Use,Chronic Diseases,human_survey_v1,ordering_based,3
+hip_fracture,Hip Fracture,hip_fracture_participant_003,hip_fracture_participant_003,hip_fracture_pair_016,Vitamin D Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,1
+hip_fracture,Hip Fracture,hip_fracture_participant_003,hip_fracture_participant_003,hip_fracture_pair_017,Chronic Diseases,Glucocorticoid (GC) Use,human_survey_v1,ordering_based,2
+hip_fracture,Hip Fracture,hip_fracture_participant_003,hip_fracture_participant_003,hip_fracture_pair_018,Chronic Diseases,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,5
+hip_fracture,Hip Fracture,hip_fracture_participant_003,hip_fracture_participant_003,hip_fracture_pair_019,Chronic Diseases,Gait Speed,human_survey_v1,ordering_based,4
+hip_fracture,Hip Fracture,hip_fracture_participant_003,hip_fracture_participant_003,hip_fracture_pair_020,Chronic Diseases,Hip Fracture,human_survey_v1,ordering_based,3
+hip_fracture,Hip Fracture,hip_fracture_participant_003,hip_fracture_participant_003,hip_fracture_pair_021,Glucocorticoid (GC) Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,3
+hip_fracture,Hip Fracture,hip_fracture_participant_003,hip_fracture_participant_003,hip_fracture_pair_022,BMD (Bone Mineral Density),Chronic Diseases,human_survey_v1,ordering_based,-4
+hip_fracture,Hip Fracture,hip_fracture_participant_003,hip_fracture_participant_003,hip_fracture_pair_023,BMD (Bone Mineral Density),Hip Fracture,human_survey_v1,ordering_based,9
+hip_fracture,Hip Fracture,hip_fracture_participant_003,hip_fracture_participant_003,hip_fracture_pair_024,Psychotropic Drug Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,3
+hip_fracture,Hip Fracture,hip_fracture_participant_003,hip_fracture_participant_003,hip_fracture_pair_025,Psychotropic Drug Use,Hip Fracture,human_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,hip_fracture_participant_004,hip_fracture_participant_004,hip_fracture_pair_001,Age,BMI (Body Mass Index),human_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,hip_fracture_participant_004,hip_fracture_participant_004,hip_fracture_pair_002,Age,Vitamin D Use,human_survey_v1,ordering_based,2
+hip_fracture,Hip Fracture,hip_fracture_participant_004,hip_fracture_participant_004,hip_fracture_pair_003,Age,Chronic Diseases,human_survey_v1,ordering_based,9
+hip_fracture,Hip Fracture,hip_fracture_participant_004,hip_fracture_participant_004,hip_fracture_pair_004,Age,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,9
+hip_fracture,Hip Fracture,hip_fracture_participant_004,hip_fracture_participant_004,hip_fracture_pair_005,Age,Gait Speed,human_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,hip_fracture_participant_004,hip_fracture_participant_004,hip_fracture_pair_006,Age,Hip Fracture,human_survey_v1,ordering_based,9
+hip_fracture,Hip Fracture,hip_fracture_participant_004,hip_fracture_participant_004,hip_fracture_pair_007,BMI (Body Mass Index),Vitamin D Use,human_survey_v1,ordering_based,-3
+hip_fracture,Hip Fracture,hip_fracture_participant_004,hip_fracture_participant_004,hip_fracture_pair_008,BMI (Body Mass Index),Chronic Diseases,human_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,hip_fracture_participant_004,hip_fracture_participant_004,hip_fracture_pair_009,BMI (Body Mass Index),5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,hip_fracture_participant_004,hip_fracture_participant_004,hip_fracture_pair_010,BMI (Body Mass Index),Hip Fracture,human_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,hip_fracture_participant_004,hip_fracture_participant_004,hip_fracture_pair_011,5 Times Sit-to-Stand (5TSTS),Gait Speed,human_survey_v1,ordering_based,-2
+hip_fracture,Hip Fracture,hip_fracture_participant_004,hip_fracture_participant_004,hip_fracture_pair_012,5 Times Sit-to-Stand (5TSTS),History of Falls,human_survey_v1,ordering_based,-5
+hip_fracture,Hip Fracture,hip_fracture_participant_004,hip_fracture_participant_004,hip_fracture_pair_013,5 Times Sit-to-Stand (5TSTS),Hip Fracture,human_survey_v1,ordering_based,-9
+hip_fracture,Hip Fracture,hip_fracture_participant_004,hip_fracture_participant_004,hip_fracture_pair_014,History of Fracture,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,hip_fracture_participant_004,hip_fracture_participant_004,hip_fracture_pair_015,Vitamin D Use,Chronic Diseases,human_survey_v1,ordering_based,3
+hip_fracture,Hip Fracture,hip_fracture_participant_004,hip_fracture_participant_004,hip_fracture_pair_016,Vitamin D Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,3
+hip_fracture,Hip Fracture,hip_fracture_participant_004,hip_fracture_participant_004,hip_fracture_pair_017,Chronic Diseases,Glucocorticoid (GC) Use,human_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,hip_fracture_participant_004,hip_fracture_participant_004,hip_fracture_pair_018,Chronic Diseases,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,hip_fracture_participant_004,hip_fracture_participant_004,hip_fracture_pair_019,Chronic Diseases,Gait Speed,human_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,hip_fracture_participant_004,hip_fracture_participant_004,hip_fracture_pair_020,Chronic Diseases,Hip Fracture,human_survey_v1,ordering_based,9
+hip_fracture,Hip Fracture,hip_fracture_participant_004,hip_fracture_participant_004,hip_fracture_pair_021,Glucocorticoid (GC) Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,3
+hip_fracture,Hip Fracture,hip_fracture_participant_004,hip_fracture_participant_004,hip_fracture_pair_022,BMD (Bone Mineral Density),Chronic Diseases,human_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,hip_fracture_participant_004,hip_fracture_participant_004,hip_fracture_pair_023,BMD (Bone Mineral Density),Hip Fracture,human_survey_v1,ordering_based,9
+hip_fracture,Hip Fracture,hip_fracture_participant_004,hip_fracture_participant_004,hip_fracture_pair_024,Psychotropic Drug Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,9
+hip_fracture,Hip Fracture,hip_fracture_participant_004,hip_fracture_participant_004,hip_fracture_pair_025,Psychotropic Drug Use,Hip Fracture,human_survey_v1,ordering_based,9
+hip_fracture,Hip Fracture,hip_fracture_participant_005,hip_fracture_participant_005,hip_fracture_pair_001,Age,BMI (Body Mass Index),human_survey_v1,ordering_based,5
+hip_fracture,Hip Fracture,hip_fracture_participant_005,hip_fracture_participant_005,hip_fracture_pair_002,Age,Vitamin D Use,human_survey_v1,ordering_based,5
+hip_fracture,Hip Fracture,hip_fracture_participant_005,hip_fracture_participant_005,hip_fracture_pair_003,Age,Chronic Diseases,human_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,hip_fracture_participant_005,hip_fracture_participant_005,hip_fracture_pair_004,Age,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_005,hip_fracture_participant_005,hip_fracture_pair_005,Age,Gait Speed,human_survey_v1,ordering_based,9
+hip_fracture,Hip Fracture,hip_fracture_participant_005,hip_fracture_participant_005,hip_fracture_pair_006,Age,Hip Fracture,human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_005,hip_fracture_participant_005,hip_fracture_pair_007,BMI (Body Mass Index),Vitamin D Use,human_survey_v1,ordering_based,3
+hip_fracture,Hip Fracture,hip_fracture_participant_005,hip_fracture_participant_005,hip_fracture_pair_008,BMI (Body Mass Index),Chronic Diseases,human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_005,hip_fracture_participant_005,hip_fracture_pair_009,BMI (Body Mass Index),5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_005,hip_fracture_participant_005,hip_fracture_pair_010,BMI (Body Mass Index),Hip Fracture,human_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,hip_fracture_participant_005,hip_fracture_participant_005,hip_fracture_pair_011,5 Times Sit-to-Stand (5TSTS),Gait Speed,human_survey_v1,ordering_based,9
+hip_fracture,Hip Fracture,hip_fracture_participant_005,hip_fracture_participant_005,hip_fracture_pair_012,5 Times Sit-to-Stand (5TSTS),History of Falls,human_survey_v1,ordering_based,9
+hip_fracture,Hip Fracture,hip_fracture_participant_005,hip_fracture_participant_005,hip_fracture_pair_013,5 Times Sit-to-Stand (5TSTS),Hip Fracture,human_survey_v1,ordering_based,9
+hip_fracture,Hip Fracture,hip_fracture_participant_005,hip_fracture_participant_005,hip_fracture_pair_014,History of Fracture,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,hip_fracture_participant_005,hip_fracture_participant_005,hip_fracture_pair_015,Vitamin D Use,Chronic Diseases,human_survey_v1,ordering_based,3
+hip_fracture,Hip Fracture,hip_fracture_participant_005,hip_fracture_participant_005,hip_fracture_pair_016,Vitamin D Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,-4
+hip_fracture,Hip Fracture,hip_fracture_participant_005,hip_fracture_participant_005,hip_fracture_pair_017,Chronic Diseases,Glucocorticoid (GC) Use,human_survey_v1,ordering_based,3
+hip_fracture,Hip Fracture,hip_fracture_participant_005,hip_fracture_participant_005,hip_fracture_pair_018,Chronic Diseases,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,3
+hip_fracture,Hip Fracture,hip_fracture_participant_005,hip_fracture_participant_005,hip_fracture_pair_019,Chronic Diseases,Gait Speed,human_survey_v1,ordering_based,4
+hip_fracture,Hip Fracture,hip_fracture_participant_005,hip_fracture_participant_005,hip_fracture_pair_020,Chronic Diseases,Hip Fracture,human_survey_v1,ordering_based,3
+hip_fracture,Hip Fracture,hip_fracture_participant_005,hip_fracture_participant_005,hip_fracture_pair_021,Glucocorticoid (GC) Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,2
+hip_fracture,Hip Fracture,hip_fracture_participant_005,hip_fracture_participant_005,hip_fracture_pair_022,BMD (Bone Mineral Density),Chronic Diseases,human_survey_v1,ordering_based,-6
+hip_fracture,Hip Fracture,hip_fracture_participant_005,hip_fracture_participant_005,hip_fracture_pair_023,BMD (Bone Mineral Density),Hip Fracture,human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_005,hip_fracture_participant_005,hip_fracture_pair_024,Psychotropic Drug Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,5
+hip_fracture,Hip Fracture,hip_fracture_participant_005,hip_fracture_participant_005,hip_fracture_pair_025,Psychotropic Drug Use,Hip Fracture,human_survey_v1,ordering_based,4
+hip_fracture,Hip Fracture,hip_fracture_participant_006,hip_fracture_participant_006,hip_fracture_pair_001,Age,BMI (Body Mass Index),human_survey_v1,ordering_based,3
+hip_fracture,Hip Fracture,hip_fracture_participant_006,hip_fracture_participant_006,hip_fracture_pair_002,Age,Vitamin D Use,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_006,hip_fracture_participant_006,hip_fracture_pair_003,Age,Chronic Diseases,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_006,hip_fracture_participant_006,hip_fracture_pair_004,Age,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_006,hip_fracture_participant_006,hip_fracture_pair_005,Age,Gait Speed,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_006,hip_fracture_participant_006,hip_fracture_pair_006,Age,Hip Fracture,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_006,hip_fracture_participant_006,hip_fracture_pair_007,BMI (Body Mass Index),Vitamin D Use,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_006,hip_fracture_participant_006,hip_fracture_pair_008,BMI (Body Mass Index),Chronic Diseases,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_006,hip_fracture_participant_006,hip_fracture_pair_009,BMI (Body Mass Index),5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_006,hip_fracture_participant_006,hip_fracture_pair_010,BMI (Body Mass Index),Hip Fracture,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_006,hip_fracture_participant_006,hip_fracture_pair_011,5 Times Sit-to-Stand (5TSTS),Gait Speed,human_survey_v1,ordering_based,0
+hip_fracture,Hip Fracture,hip_fracture_participant_006,hip_fracture_participant_006,hip_fracture_pair_012,5 Times Sit-to-Stand (5TSTS),History of Falls,human_survey_v1,ordering_based,-10
+hip_fracture,Hip Fracture,hip_fracture_participant_006,hip_fracture_participant_006,hip_fracture_pair_013,5 Times Sit-to-Stand (5TSTS),Hip Fracture,human_survey_v1,ordering_based,-10
+hip_fracture,Hip Fracture,hip_fracture_participant_006,hip_fracture_participant_006,hip_fracture_pair_014,History of Fracture,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_006,hip_fracture_participant_006,hip_fracture_pair_015,Vitamin D Use,Chronic Diseases,human_survey_v1,ordering_based,0
+hip_fracture,Hip Fracture,hip_fracture_participant_006,hip_fracture_participant_006,hip_fracture_pair_016,Vitamin D Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,0
+hip_fracture,Hip Fracture,hip_fracture_participant_006,hip_fracture_participant_006,hip_fracture_pair_017,Chronic Diseases,Glucocorticoid (GC) Use,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_006,hip_fracture_participant_006,hip_fracture_pair_018,Chronic Diseases,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_006,hip_fracture_participant_006,hip_fracture_pair_019,Chronic Diseases,Gait Speed,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_006,hip_fracture_participant_006,hip_fracture_pair_020,Chronic Diseases,Hip Fracture,human_survey_v1,ordering_based,0
+hip_fracture,Hip Fracture,hip_fracture_participant_006,hip_fracture_participant_006,hip_fracture_pair_021,Glucocorticoid (GC) Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,3
+hip_fracture,Hip Fracture,hip_fracture_participant_006,hip_fracture_participant_006,hip_fracture_pair_022,BMD (Bone Mineral Density),Chronic Diseases,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_006,hip_fracture_participant_006,hip_fracture_pair_023,BMD (Bone Mineral Density),Hip Fracture,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_006,hip_fracture_participant_006,hip_fracture_pair_024,Psychotropic Drug Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_006,hip_fracture_participant_006,hip_fracture_pair_025,Psychotropic Drug Use,Hip Fracture,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_007,hip_fracture_participant_007,hip_fracture_pair_001,Age,BMI (Body Mass Index),human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_007,hip_fracture_participant_007,hip_fracture_pair_002,Age,Vitamin D Use,human_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,hip_fracture_participant_007,hip_fracture_participant_007,hip_fracture_pair_003,Age,Chronic Diseases,human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_007,hip_fracture_participant_007,hip_fracture_pair_004,Age,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_007,hip_fracture_participant_007,hip_fracture_pair_005,Age,Gait Speed,human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_007,hip_fracture_participant_007,hip_fracture_pair_006,Age,Hip Fracture,human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_007,hip_fracture_participant_007,hip_fracture_pair_007,BMI (Body Mass Index),Vitamin D Use,human_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,hip_fracture_participant_007,hip_fracture_participant_007,hip_fracture_pair_008,BMI (Body Mass Index),Chronic Diseases,human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_007,hip_fracture_participant_007,hip_fracture_pair_009,BMI (Body Mass Index),5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_007,hip_fracture_participant_007,hip_fracture_pair_010,BMI (Body Mass Index),Hip Fracture,human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_007,hip_fracture_participant_007,hip_fracture_pair_011,5 Times Sit-to-Stand (5TSTS),Gait Speed,human_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,hip_fracture_participant_007,hip_fracture_participant_007,hip_fracture_pair_012,5 Times Sit-to-Stand (5TSTS),History of Falls,human_survey_v1,ordering_based,-6
+hip_fracture,Hip Fracture,hip_fracture_participant_007,hip_fracture_participant_007,hip_fracture_pair_013,5 Times Sit-to-Stand (5TSTS),Hip Fracture,human_survey_v1,ordering_based,-6
+hip_fracture,Hip Fracture,hip_fracture_participant_007,hip_fracture_participant_007,hip_fracture_pair_014,History of Fracture,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_007,hip_fracture_participant_007,hip_fracture_pair_015,Vitamin D Use,Chronic Diseases,human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_007,hip_fracture_participant_007,hip_fracture_pair_016,Vitamin D Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,4
+hip_fracture,Hip Fracture,hip_fracture_participant_007,hip_fracture_participant_007,hip_fracture_pair_017,Chronic Diseases,Glucocorticoid (GC) Use,human_survey_v1,ordering_based,-8
+hip_fracture,Hip Fracture,hip_fracture_participant_007,hip_fracture_participant_007,hip_fracture_pair_018,Chronic Diseases,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_007,hip_fracture_participant_007,hip_fracture_pair_019,Chronic Diseases,Gait Speed,human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_007,hip_fracture_participant_007,hip_fracture_pair_020,Chronic Diseases,Hip Fracture,human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_007,hip_fracture_participant_007,hip_fracture_pair_021,Glucocorticoid (GC) Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,hip_fracture_participant_007,hip_fracture_participant_007,hip_fracture_pair_022,BMD (Bone Mineral Density),Chronic Diseases,human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_007,hip_fracture_participant_007,hip_fracture_pair_023,BMD (Bone Mineral Density),Hip Fracture,human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_007,hip_fracture_participant_007,hip_fracture_pair_024,Psychotropic Drug Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_007,hip_fracture_participant_007,hip_fracture_pair_025,Psychotropic Drug Use,Hip Fracture,human_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,hip_fracture_participant_008,hip_fracture_participant_008,hip_fracture_pair_001,Age,BMI (Body Mass Index),human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_008,hip_fracture_participant_008,hip_fracture_pair_002,Age,Vitamin D Use,human_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,hip_fracture_participant_008,hip_fracture_participant_008,hip_fracture_pair_003,Age,Chronic Diseases,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_008,hip_fracture_participant_008,hip_fracture_pair_004,Age,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_008,hip_fracture_participant_008,hip_fracture_pair_005,Age,Gait Speed,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_008,hip_fracture_participant_008,hip_fracture_pair_006,Age,Hip Fracture,human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_008,hip_fracture_participant_008,hip_fracture_pair_007,BMI (Body Mass Index),Vitamin D Use,human_survey_v1,ordering_based,-1
+hip_fracture,Hip Fracture,hip_fracture_participant_008,hip_fracture_participant_008,hip_fracture_pair_008,BMI (Body Mass Index),Chronic Diseases,human_survey_v1,ordering_based,-8
+hip_fracture,Hip Fracture,hip_fracture_participant_008,hip_fracture_participant_008,hip_fracture_pair_009,BMI (Body Mass Index),5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,4
+hip_fracture,Hip Fracture,hip_fracture_participant_008,hip_fracture_participant_008,hip_fracture_pair_010,BMI (Body Mass Index),Hip Fracture,human_survey_v1,ordering_based,2
+hip_fracture,Hip Fracture,hip_fracture_participant_008,hip_fracture_participant_008,hip_fracture_pair_011,5 Times Sit-to-Stand (5TSTS),Gait Speed,human_survey_v1,ordering_based,-2
+hip_fracture,Hip Fracture,hip_fracture_participant_008,hip_fracture_participant_008,hip_fracture_pair_012,5 Times Sit-to-Stand (5TSTS),History of Falls,human_survey_v1,ordering_based,-8
+hip_fracture,Hip Fracture,hip_fracture_participant_008,hip_fracture_participant_008,hip_fracture_pair_013,5 Times Sit-to-Stand (5TSTS),Hip Fracture,human_survey_v1,ordering_based,-10
+hip_fracture,Hip Fracture,hip_fracture_participant_008,hip_fracture_participant_008,hip_fracture_pair_014,History of Fracture,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_008,hip_fracture_participant_008,hip_fracture_pair_015,Vitamin D Use,Chronic Diseases,human_survey_v1,ordering_based,0
+hip_fracture,Hip Fracture,hip_fracture_participant_008,hip_fracture_participant_008,hip_fracture_pair_016,Vitamin D Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,2
+hip_fracture,Hip Fracture,hip_fracture_participant_008,hip_fracture_participant_008,hip_fracture_pair_017,Chronic Diseases,Glucocorticoid (GC) Use,human_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,hip_fracture_participant_008,hip_fracture_participant_008,hip_fracture_pair_018,Chronic Diseases,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,3
+hip_fracture,Hip Fracture,hip_fracture_participant_008,hip_fracture_participant_008,hip_fracture_pair_019,Chronic Diseases,Gait Speed,human_survey_v1,ordering_based,4
+hip_fracture,Hip Fracture,hip_fracture_participant_008,hip_fracture_participant_008,hip_fracture_pair_020,Chronic Diseases,Hip Fracture,human_survey_v1,ordering_based,-2
+hip_fracture,Hip Fracture,hip_fracture_participant_008,hip_fracture_participant_008,hip_fracture_pair_021,Glucocorticoid (GC) Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,5
+hip_fracture,Hip Fracture,hip_fracture_participant_008,hip_fracture_participant_008,hip_fracture_pair_022,BMD (Bone Mineral Density),Chronic Diseases,human_survey_v1,ordering_based,1
+hip_fracture,Hip Fracture,hip_fracture_participant_008,hip_fracture_participant_008,hip_fracture_pair_023,BMD (Bone Mineral Density),Hip Fracture,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_008,hip_fracture_participant_008,hip_fracture_pair_024,Psychotropic Drug Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_008,hip_fracture_participant_008,hip_fracture_pair_025,Psychotropic Drug Use,Hip Fracture,human_survey_v1,ordering_based,4
+hip_fracture,Hip Fracture,hip_fracture_participant_009,hip_fracture_participant_009,hip_fracture_pair_001,Age,BMI (Body Mass Index),human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_009,hip_fracture_participant_009,hip_fracture_pair_002,Age,Vitamin D Use,human_survey_v1,ordering_based,0
+hip_fracture,Hip Fracture,hip_fracture_participant_009,hip_fracture_participant_009,hip_fracture_pair_003,Age,Chronic Diseases,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_009,hip_fracture_participant_009,hip_fracture_pair_004,Age,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_009,hip_fracture_participant_009,hip_fracture_pair_005,Age,Gait Speed,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_009,hip_fracture_participant_009,hip_fracture_pair_006,Age,Hip Fracture,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_009,hip_fracture_participant_009,hip_fracture_pair_007,BMI (Body Mass Index),Vitamin D Use,human_survey_v1,ordering_based,5
+hip_fracture,Hip Fracture,hip_fracture_participant_009,hip_fracture_participant_009,hip_fracture_pair_008,BMI (Body Mass Index),Chronic Diseases,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_009,hip_fracture_participant_009,hip_fracture_pair_009,BMI (Body Mass Index),5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_009,hip_fracture_participant_009,hip_fracture_pair_010,BMI (Body Mass Index),Hip Fracture,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_009,hip_fracture_participant_009,hip_fracture_pair_011,5 Times Sit-to-Stand (5TSTS),Gait Speed,human_survey_v1,ordering_based,0
+hip_fracture,Hip Fracture,hip_fracture_participant_009,hip_fracture_participant_009,hip_fracture_pair_012,5 Times Sit-to-Stand (5TSTS),History of Falls,human_survey_v1,ordering_based,-5
+hip_fracture,Hip Fracture,hip_fracture_participant_009,hip_fracture_participant_009,hip_fracture_pair_013,5 Times Sit-to-Stand (5TSTS),Hip Fracture,human_survey_v1,ordering_based,-10
+hip_fracture,Hip Fracture,hip_fracture_participant_009,hip_fracture_participant_009,hip_fracture_pair_014,History of Fracture,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_009,hip_fracture_participant_009,hip_fracture_pair_015,Vitamin D Use,Chronic Diseases,human_survey_v1,ordering_based,0
+hip_fracture,Hip Fracture,hip_fracture_participant_009,hip_fracture_participant_009,hip_fracture_pair_016,Vitamin D Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,0
+hip_fracture,Hip Fracture,hip_fracture_participant_009,hip_fracture_participant_009,hip_fracture_pair_017,Chronic Diseases,Glucocorticoid (GC) Use,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_009,hip_fracture_participant_009,hip_fracture_pair_018,Chronic Diseases,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_009,hip_fracture_participant_009,hip_fracture_pair_019,Chronic Diseases,Gait Speed,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_009,hip_fracture_participant_009,hip_fracture_pair_020,Chronic Diseases,Hip Fracture,human_survey_v1,ordering_based,0
+hip_fracture,Hip Fracture,hip_fracture_participant_009,hip_fracture_participant_009,hip_fracture_pair_021,Glucocorticoid (GC) Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_009,hip_fracture_participant_009,hip_fracture_pair_022,BMD (Bone Mineral Density),Chronic Diseases,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_009,hip_fracture_participant_009,hip_fracture_pair_023,BMD (Bone Mineral Density),Hip Fracture,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_009,hip_fracture_participant_009,hip_fracture_pair_024,Psychotropic Drug Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_009,hip_fracture_participant_009,hip_fracture_pair_025,Psychotropic Drug Use,Hip Fracture,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_010,hip_fracture_participant_010,hip_fracture_pair_001,Age,BMI (Body Mass Index),human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_010,hip_fracture_participant_010,hip_fracture_pair_002,Age,Vitamin D Use,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_010,hip_fracture_participant_010,hip_fracture_pair_003,Age,Chronic Diseases,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_010,hip_fracture_participant_010,hip_fracture_pair_004,Age,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_010,hip_fracture_participant_010,hip_fracture_pair_005,Age,Gait Speed,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_010,hip_fracture_participant_010,hip_fracture_pair_006,Age,Hip Fracture,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_010,hip_fracture_participant_010,hip_fracture_pair_007,BMI (Body Mass Index),Vitamin D Use,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_010,hip_fracture_participant_010,hip_fracture_pair_008,BMI (Body Mass Index),Chronic Diseases,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_010,hip_fracture_participant_010,hip_fracture_pair_009,BMI (Body Mass Index),5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_010,hip_fracture_participant_010,hip_fracture_pair_010,BMI (Body Mass Index),Hip Fracture,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_010,hip_fracture_participant_010,hip_fracture_pair_011,5 Times Sit-to-Stand (5TSTS),Gait Speed,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_010,hip_fracture_participant_010,hip_fracture_pair_012,5 Times Sit-to-Stand (5TSTS),History of Falls,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_010,hip_fracture_participant_010,hip_fracture_pair_013,5 Times Sit-to-Stand (5TSTS),Hip Fracture,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_010,hip_fracture_participant_010,hip_fracture_pair_014,History of Fracture,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_010,hip_fracture_participant_010,hip_fracture_pair_015,Vitamin D Use,Chronic Diseases,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_010,hip_fracture_participant_010,hip_fracture_pair_016,Vitamin D Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_010,hip_fracture_participant_010,hip_fracture_pair_017,Chronic Diseases,Glucocorticoid (GC) Use,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_010,hip_fracture_participant_010,hip_fracture_pair_018,Chronic Diseases,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_010,hip_fracture_participant_010,hip_fracture_pair_019,Chronic Diseases,Gait Speed,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_010,hip_fracture_participant_010,hip_fracture_pair_020,Chronic Diseases,Hip Fracture,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_010,hip_fracture_participant_010,hip_fracture_pair_021,Glucocorticoid (GC) Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_010,hip_fracture_participant_010,hip_fracture_pair_022,BMD (Bone Mineral Density),Chronic Diseases,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_010,hip_fracture_participant_010,hip_fracture_pair_023,BMD (Bone Mineral Density),Hip Fracture,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_010,hip_fracture_participant_010,hip_fracture_pair_024,Psychotropic Drug Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_010,hip_fracture_participant_010,hip_fracture_pair_025,Psychotropic Drug Use,Hip Fracture,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_011,hip_fracture_participant_011,hip_fracture_pair_001,Age,BMI (Body Mass Index),human_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,hip_fracture_participant_011,hip_fracture_participant_011,hip_fracture_pair_002,Age,Vitamin D Use,human_survey_v1,ordering_based,2
+hip_fracture,Hip Fracture,hip_fracture_participant_011,hip_fracture_participant_011,hip_fracture_pair_003,Age,Chronic Diseases,human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_011,hip_fracture_participant_011,hip_fracture_pair_004,Age,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,9
+hip_fracture,Hip Fracture,hip_fracture_participant_011,hip_fracture_participant_011,hip_fracture_pair_005,Age,Gait Speed,human_survey_v1,ordering_based,9
+hip_fracture,Hip Fracture,hip_fracture_participant_011,hip_fracture_participant_011,hip_fracture_pair_006,Age,Hip Fracture,human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_011,hip_fracture_participant_011,hip_fracture_pair_007,BMI (Body Mass Index),Vitamin D Use,human_survey_v1,ordering_based,-3
+hip_fracture,Hip Fracture,hip_fracture_participant_011,hip_fracture_participant_011,hip_fracture_pair_008,BMI (Body Mass Index),Chronic Diseases,human_survey_v1,ordering_based,4
+hip_fracture,Hip Fracture,hip_fracture_participant_011,hip_fracture_participant_011,hip_fracture_pair_009,BMI (Body Mass Index),5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,hip_fracture_participant_011,hip_fracture_participant_011,hip_fracture_pair_010,BMI (Body Mass Index),Hip Fracture,human_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,hip_fracture_participant_011,hip_fracture_participant_011,hip_fracture_pair_011,5 Times Sit-to-Stand (5TSTS),Gait Speed,human_survey_v1,ordering_based,-2
+hip_fracture,Hip Fracture,hip_fracture_participant_011,hip_fracture_participant_011,hip_fracture_pair_012,5 Times Sit-to-Stand (5TSTS),History of Falls,human_survey_v1,ordering_based,-5
+hip_fracture,Hip Fracture,hip_fracture_participant_011,hip_fracture_participant_011,hip_fracture_pair_013,5 Times Sit-to-Stand (5TSTS),Hip Fracture,human_survey_v1,ordering_based,-9
+hip_fracture,Hip Fracture,hip_fracture_participant_011,hip_fracture_participant_011,hip_fracture_pair_014,History of Fracture,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,9
+hip_fracture,Hip Fracture,hip_fracture_participant_011,hip_fracture_participant_011,hip_fracture_pair_015,Vitamin D Use,Chronic Diseases,human_survey_v1,ordering_based,2
+hip_fracture,Hip Fracture,hip_fracture_participant_011,hip_fracture_participant_011,hip_fracture_pair_016,Vitamin D Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,1
+hip_fracture,Hip Fracture,hip_fracture_participant_011,hip_fracture_participant_011,hip_fracture_pair_017,Chronic Diseases,Glucocorticoid (GC) Use,human_survey_v1,ordering_based,-6
+hip_fracture,Hip Fracture,hip_fracture_participant_011,hip_fracture_participant_011,hip_fracture_pair_018,Chronic Diseases,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,hip_fracture_participant_011,hip_fracture_participant_011,hip_fracture_pair_019,Chronic Diseases,Gait Speed,human_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,hip_fracture_participant_011,hip_fracture_participant_011,hip_fracture_pair_020,Chronic Diseases,Hip Fracture,human_survey_v1,ordering_based,4
+hip_fracture,Hip Fracture,hip_fracture_participant_011,hip_fracture_participant_011,hip_fracture_pair_021,Glucocorticoid (GC) Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,4
+hip_fracture,Hip Fracture,hip_fracture_participant_011,hip_fracture_participant_011,hip_fracture_pair_022,BMD (Bone Mineral Density),Chronic Diseases,human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_011,hip_fracture_participant_011,hip_fracture_pair_023,BMD (Bone Mineral Density),Hip Fracture,human_survey_v1,ordering_based,9
+hip_fracture,Hip Fracture,hip_fracture_participant_011,hip_fracture_participant_011,hip_fracture_pair_024,Psychotropic Drug Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_011,hip_fracture_participant_011,hip_fracture_pair_025,Psychotropic Drug Use,Hip Fracture,human_survey_v1,ordering_based,3
+hip_fracture,Hip Fracture,hip_fracture_participant_012,hip_fracture_participant_012,hip_fracture_pair_001,Age,BMI (Body Mass Index),human_survey_v1,ordering_based,4
+hip_fracture,Hip Fracture,hip_fracture_participant_012,hip_fracture_participant_012,hip_fracture_pair_002,Age,Vitamin D Use,human_survey_v1,ordering_based,3
+hip_fracture,Hip Fracture,hip_fracture_participant_012,hip_fracture_participant_012,hip_fracture_pair_003,Age,Chronic Diseases,human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_012,hip_fracture_participant_012,hip_fracture_pair_004,Age,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_012,hip_fracture_participant_012,hip_fracture_pair_005,Age,Gait Speed,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_012,hip_fracture_participant_012,hip_fracture_pair_006,Age,Hip Fracture,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_012,hip_fracture_participant_012,hip_fracture_pair_007,BMI (Body Mass Index),Vitamin D Use,human_survey_v1,ordering_based,-5
+hip_fracture,Hip Fracture,hip_fracture_participant_012,hip_fracture_participant_012,hip_fracture_pair_008,BMI (Body Mass Index),Chronic Diseases,human_survey_v1,ordering_based,-3
+hip_fracture,Hip Fracture,hip_fracture_participant_012,hip_fracture_participant_012,hip_fracture_pair_009,BMI (Body Mass Index),5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,-5
+hip_fracture,Hip Fracture,hip_fracture_participant_012,hip_fracture_participant_012,hip_fracture_pair_010,BMI (Body Mass Index),Hip Fracture,human_survey_v1,ordering_based,-1
+hip_fracture,Hip Fracture,hip_fracture_participant_012,hip_fracture_participant_012,hip_fracture_pair_011,5 Times Sit-to-Stand (5TSTS),Gait Speed,human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_012,hip_fracture_participant_012,hip_fracture_pair_012,5 Times Sit-to-Stand (5TSTS),History of Falls,human_survey_v1,ordering_based,-8
+hip_fracture,Hip Fracture,hip_fracture_participant_012,hip_fracture_participant_012,hip_fracture_pair_013,5 Times Sit-to-Stand (5TSTS),Hip Fracture,human_survey_v1,ordering_based,-10
+hip_fracture,Hip Fracture,hip_fracture_participant_012,hip_fracture_participant_012,hip_fracture_pair_014,History of Fracture,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_012,hip_fracture_participant_012,hip_fracture_pair_015,Vitamin D Use,Chronic Diseases,human_survey_v1,ordering_based,-7
+hip_fracture,Hip Fracture,hip_fracture_participant_012,hip_fracture_participant_012,hip_fracture_pair_016,Vitamin D Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,1
+hip_fracture,Hip Fracture,hip_fracture_participant_012,hip_fracture_participant_012,hip_fracture_pair_017,Chronic Diseases,Glucocorticoid (GC) Use,human_survey_v1,ordering_based,0
+hip_fracture,Hip Fracture,hip_fracture_participant_012,hip_fracture_participant_012,hip_fracture_pair_018,Chronic Diseases,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,5
+hip_fracture,Hip Fracture,hip_fracture_participant_012,hip_fracture_participant_012,hip_fracture_pair_019,Chronic Diseases,Gait Speed,human_survey_v1,ordering_based,5
+hip_fracture,Hip Fracture,hip_fracture_participant_012,hip_fracture_participant_012,hip_fracture_pair_020,Chronic Diseases,Hip Fracture,human_survey_v1,ordering_based,2
+hip_fracture,Hip Fracture,hip_fracture_participant_012,hip_fracture_participant_012,hip_fracture_pair_021,Glucocorticoid (GC) Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,3
+hip_fracture,Hip Fracture,hip_fracture_participant_012,hip_fracture_participant_012,hip_fracture_pair_022,BMD (Bone Mineral Density),Chronic Diseases,human_survey_v1,ordering_based,-2
+hip_fracture,Hip Fracture,hip_fracture_participant_012,hip_fracture_participant_012,hip_fracture_pair_023,BMD (Bone Mineral Density),Hip Fracture,human_survey_v1,ordering_based,-7
+hip_fracture,Hip Fracture,hip_fracture_participant_012,hip_fracture_participant_012,hip_fracture_pair_024,Psychotropic Drug Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_012,hip_fracture_participant_012,hip_fracture_pair_025,Psychotropic Drug Use,Hip Fracture,human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_013,hip_fracture_participant_013,hip_fracture_pair_001,Age,BMI (Body Mass Index),human_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,hip_fracture_participant_013,hip_fracture_participant_013,hip_fracture_pair_002,Age,Vitamin D Use,human_survey_v1,ordering_based,1
+hip_fracture,Hip Fracture,hip_fracture_participant_013,hip_fracture_participant_013,hip_fracture_pair_003,Age,Chronic Diseases,human_survey_v1,ordering_based,9
+hip_fracture,Hip Fracture,hip_fracture_participant_013,hip_fracture_participant_013,hip_fracture_pair_004,Age,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_013,hip_fracture_participant_013,hip_fracture_pair_005,Age,Gait Speed,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_013,hip_fracture_participant_013,hip_fracture_pair_006,Age,Hip Fracture,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_013,hip_fracture_participant_013,hip_fracture_pair_007,BMI (Body Mass Index),Vitamin D Use,human_survey_v1,ordering_based,0
+hip_fracture,Hip Fracture,hip_fracture_participant_013,hip_fracture_participant_013,hip_fracture_pair_008,BMI (Body Mass Index),Chronic Diseases,human_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,hip_fracture_participant_013,hip_fracture_participant_013,hip_fracture_pair_009,BMI (Body Mass Index),5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,9
+hip_fracture,Hip Fracture,hip_fracture_participant_013,hip_fracture_participant_013,hip_fracture_pair_010,BMI (Body Mass Index),Hip Fracture,human_survey_v1,ordering_based,9
+hip_fracture,Hip Fracture,hip_fracture_participant_013,hip_fracture_participant_013,hip_fracture_pair_011,5 Times Sit-to-Stand (5TSTS),Gait Speed,human_survey_v1,ordering_based,3
+hip_fracture,Hip Fracture,hip_fracture_participant_013,hip_fracture_participant_013,hip_fracture_pair_012,5 Times Sit-to-Stand (5TSTS),History of Falls,human_survey_v1,ordering_based,2
+hip_fracture,Hip Fracture,hip_fracture_participant_013,hip_fracture_participant_013,hip_fracture_pair_013,5 Times Sit-to-Stand (5TSTS),Hip Fracture,human_survey_v1,ordering_based,4
+hip_fracture,Hip Fracture,hip_fracture_participant_013,hip_fracture_participant_013,hip_fracture_pair_014,History of Fracture,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,5
+hip_fracture,Hip Fracture,hip_fracture_participant_013,hip_fracture_participant_013,hip_fracture_pair_015,Vitamin D Use,Chronic Diseases,human_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,hip_fracture_participant_013,hip_fracture_participant_013,hip_fracture_pair_016,Vitamin D Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,3
+hip_fracture,Hip Fracture,hip_fracture_participant_013,hip_fracture_participant_013,hip_fracture_pair_017,Chronic Diseases,Glucocorticoid (GC) Use,human_survey_v1,ordering_based,-5
+hip_fracture,Hip Fracture,hip_fracture_participant_013,hip_fracture_participant_013,hip_fracture_pair_018,Chronic Diseases,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,4
+hip_fracture,Hip Fracture,hip_fracture_participant_013,hip_fracture_participant_013,hip_fracture_pair_019,Chronic Diseases,Gait Speed,human_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,hip_fracture_participant_013,hip_fracture_participant_013,hip_fracture_pair_020,Chronic Diseases,Hip Fracture,human_survey_v1,ordering_based,5
+hip_fracture,Hip Fracture,hip_fracture_participant_013,hip_fracture_participant_013,hip_fracture_pair_021,Glucocorticoid (GC) Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,4
+hip_fracture,Hip Fracture,hip_fracture_participant_013,hip_fracture_participant_013,hip_fracture_pair_022,BMD (Bone Mineral Density),Chronic Diseases,human_survey_v1,ordering_based,4
+hip_fracture,Hip Fracture,hip_fracture_participant_013,hip_fracture_participant_013,hip_fracture_pair_023,BMD (Bone Mineral Density),Hip Fracture,human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_013,hip_fracture_participant_013,hip_fracture_pair_024,Psychotropic Drug Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,9
+hip_fracture,Hip Fracture,hip_fracture_participant_013,hip_fracture_participant_013,hip_fracture_pair_025,Psychotropic Drug Use,Hip Fracture,human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_014,hip_fracture_participant_014,hip_fracture_pair_001,Age,BMI (Body Mass Index),human_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,hip_fracture_participant_014,hip_fracture_participant_014,hip_fracture_pair_002,Age,Vitamin D Use,human_survey_v1,ordering_based,5
+hip_fracture,Hip Fracture,hip_fracture_participant_014,hip_fracture_participant_014,hip_fracture_pair_003,Age,Chronic Diseases,human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_014,hip_fracture_participant_014,hip_fracture_pair_004,Age,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_014,hip_fracture_participant_014,hip_fracture_pair_005,Age,Gait Speed,human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_014,hip_fracture_participant_014,hip_fracture_pair_006,Age,Hip Fracture,human_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,hip_fracture_participant_014,hip_fracture_participant_014,hip_fracture_pair_007,BMI (Body Mass Index),Vitamin D Use,human_survey_v1,ordering_based,5
+hip_fracture,Hip Fracture,hip_fracture_participant_014,hip_fracture_participant_014,hip_fracture_pair_008,BMI (Body Mass Index),Chronic Diseases,human_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,hip_fracture_participant_014,hip_fracture_participant_014,hip_fracture_pair_009,BMI (Body Mass Index),5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,hip_fracture_participant_014,hip_fracture_participant_014,hip_fracture_pair_010,BMI (Body Mass Index),Hip Fracture,human_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,hip_fracture_participant_014,hip_fracture_participant_014,hip_fracture_pair_011,5 Times Sit-to-Stand (5TSTS),Gait Speed,human_survey_v1,ordering_based,-6
+hip_fracture,Hip Fracture,hip_fracture_participant_014,hip_fracture_participant_014,hip_fracture_pair_012,5 Times Sit-to-Stand (5TSTS),History of Falls,human_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,hip_fracture_participant_014,hip_fracture_participant_014,hip_fracture_pair_013,5 Times Sit-to-Stand (5TSTS),Hip Fracture,human_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,hip_fracture_participant_014,hip_fracture_participant_014,hip_fracture_pair_014,History of Fracture,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,5
+hip_fracture,Hip Fracture,hip_fracture_participant_014,hip_fracture_participant_014,hip_fracture_pair_015,Vitamin D Use,Chronic Diseases,human_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,hip_fracture_participant_014,hip_fracture_participant_014,hip_fracture_pair_016,Vitamin D Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,hip_fracture_participant_014,hip_fracture_participant_014,hip_fracture_pair_017,Chronic Diseases,Glucocorticoid (GC) Use,human_survey_v1,ordering_based,2
+hip_fracture,Hip Fracture,hip_fracture_participant_014,hip_fracture_participant_014,hip_fracture_pair_018,Chronic Diseases,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,hip_fracture_participant_014,hip_fracture_participant_014,hip_fracture_pair_019,Chronic Diseases,Gait Speed,human_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,hip_fracture_participant_014,hip_fracture_participant_014,hip_fracture_pair_020,Chronic Diseases,Hip Fracture,human_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,hip_fracture_participant_014,hip_fracture_participant_014,hip_fracture_pair_021,Glucocorticoid (GC) Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,hip_fracture_participant_014,hip_fracture_participant_014,hip_fracture_pair_022,BMD (Bone Mineral Density),Chronic Diseases,human_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,hip_fracture_participant_014,hip_fracture_participant_014,hip_fracture_pair_023,BMD (Bone Mineral Density),Hip Fracture,human_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,hip_fracture_participant_014,hip_fracture_participant_014,hip_fracture_pair_024,Psychotropic Drug Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,hip_fracture_participant_014,hip_fracture_participant_014,hip_fracture_pair_025,Psychotropic Drug Use,Hip Fracture,human_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,hip_fracture_participant_015,hip_fracture_participant_015,hip_fracture_pair_001,Age,BMI (Body Mass Index),human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_015,hip_fracture_participant_015,hip_fracture_pair_002,Age,Vitamin D Use,human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_015,hip_fracture_participant_015,hip_fracture_pair_003,Age,Chronic Diseases,human_survey_v1,ordering_based,0
+hip_fracture,Hip Fracture,hip_fracture_participant_015,hip_fracture_participant_015,hip_fracture_pair_004,Age,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,5
+hip_fracture,Hip Fracture,hip_fracture_participant_015,hip_fracture_participant_015,hip_fracture_pair_005,Age,Gait Speed,human_survey_v1,ordering_based,5
+hip_fracture,Hip Fracture,hip_fracture_participant_015,hip_fracture_participant_015,hip_fracture_pair_006,Age,Hip Fracture,human_survey_v1,ordering_based,5
+hip_fracture,Hip Fracture,hip_fracture_participant_015,hip_fracture_participant_015,hip_fracture_pair_007,BMI (Body Mass Index),Vitamin D Use,human_survey_v1,ordering_based,2
+hip_fracture,Hip Fracture,hip_fracture_participant_015,hip_fracture_participant_015,hip_fracture_pair_008,BMI (Body Mass Index),Chronic Diseases,human_survey_v1,ordering_based,2
+hip_fracture,Hip Fracture,hip_fracture_participant_015,hip_fracture_participant_015,hip_fracture_pair_009,BMI (Body Mass Index),5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,hip_fracture_participant_015,hip_fracture_participant_015,hip_fracture_pair_010,BMI (Body Mass Index),Hip Fracture,human_survey_v1,ordering_based,9
+hip_fracture,Hip Fracture,hip_fracture_participant_015,hip_fracture_participant_015,hip_fracture_pair_011,5 Times Sit-to-Stand (5TSTS),Gait Speed,human_survey_v1,ordering_based,-6
+hip_fracture,Hip Fracture,hip_fracture_participant_015,hip_fracture_participant_015,hip_fracture_pair_012,5 Times Sit-to-Stand (5TSTS),History of Falls,human_survey_v1,ordering_based,5
+hip_fracture,Hip Fracture,hip_fracture_participant_015,hip_fracture_participant_015,hip_fracture_pair_013,5 Times Sit-to-Stand (5TSTS),Hip Fracture,human_survey_v1,ordering_based,5
+hip_fracture,Hip Fracture,hip_fracture_participant_015,hip_fracture_participant_015,hip_fracture_pair_014,History of Fracture,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,-5
+hip_fracture,Hip Fracture,hip_fracture_participant_015,hip_fracture_participant_015,hip_fracture_pair_015,Vitamin D Use,Chronic Diseases,human_survey_v1,ordering_based,-5
+hip_fracture,Hip Fracture,hip_fracture_participant_015,hip_fracture_participant_015,hip_fracture_pair_016,Vitamin D Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_015,hip_fracture_participant_015,hip_fracture_pair_017,Chronic Diseases,Glucocorticoid (GC) Use,human_survey_v1,ordering_based,2
+hip_fracture,Hip Fracture,hip_fracture_participant_015,hip_fracture_participant_015,hip_fracture_pair_018,Chronic Diseases,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,2
+hip_fracture,Hip Fracture,hip_fracture_participant_015,hip_fracture_participant_015,hip_fracture_pair_019,Chronic Diseases,Gait Speed,human_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,hip_fracture_participant_015,hip_fracture_participant_015,hip_fracture_pair_020,Chronic Diseases,Hip Fracture,human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_015,hip_fracture_participant_015,hip_fracture_pair_021,Glucocorticoid (GC) Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,-5
+hip_fracture,Hip Fracture,hip_fracture_participant_015,hip_fracture_participant_015,hip_fracture_pair_022,BMD (Bone Mineral Density),Chronic Diseases,human_survey_v1,ordering_based,-6
+hip_fracture,Hip Fracture,hip_fracture_participant_015,hip_fracture_participant_015,hip_fracture_pair_023,BMD (Bone Mineral Density),Hip Fracture,human_survey_v1,ordering_based,-9
+hip_fracture,Hip Fracture,hip_fracture_participant_015,hip_fracture_participant_015,hip_fracture_pair_024,Psychotropic Drug Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,-8
+hip_fracture,Hip Fracture,hip_fracture_participant_015,hip_fracture_participant_015,hip_fracture_pair_025,Psychotropic Drug Use,Hip Fracture,human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_016,hip_fracture_participant_016,hip_fracture_pair_001,Age,BMI (Body Mass Index),human_survey_v1,ordering_based,4
+hip_fracture,Hip Fracture,hip_fracture_participant_016,hip_fracture_participant_016,hip_fracture_pair_002,Age,Vitamin D Use,human_survey_v1,ordering_based,1
+hip_fracture,Hip Fracture,hip_fracture_participant_016,hip_fracture_participant_016,hip_fracture_pair_003,Age,Chronic Diseases,human_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,hip_fracture_participant_016,hip_fracture_participant_016,hip_fracture_pair_004,Age,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,4
+hip_fracture,Hip Fracture,hip_fracture_participant_016,hip_fracture_participant_016,hip_fracture_pair_005,Age,Gait Speed,human_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,hip_fracture_participant_016,hip_fracture_participant_016,hip_fracture_pair_006,Age,Hip Fracture,human_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,hip_fracture_participant_016,hip_fracture_participant_016,hip_fracture_pair_007,BMI (Body Mass Index),Vitamin D Use,human_survey_v1,ordering_based,0
+hip_fracture,Hip Fracture,hip_fracture_participant_016,hip_fracture_participant_016,hip_fracture_pair_008,BMI (Body Mass Index),Chronic Diseases,human_survey_v1,ordering_based,5
+hip_fracture,Hip Fracture,hip_fracture_participant_016,hip_fracture_participant_016,hip_fracture_pair_009,BMI (Body Mass Index),5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,3
+hip_fracture,Hip Fracture,hip_fracture_participant_016,hip_fracture_participant_016,hip_fracture_pair_010,BMI (Body Mass Index),Hip Fracture,human_survey_v1,ordering_based,4
+hip_fracture,Hip Fracture,hip_fracture_participant_016,hip_fracture_participant_016,hip_fracture_pair_011,5 Times Sit-to-Stand (5TSTS),Gait Speed,human_survey_v1,ordering_based,-4
+hip_fracture,Hip Fracture,hip_fracture_participant_016,hip_fracture_participant_016,hip_fracture_pair_012,5 Times Sit-to-Stand (5TSTS),History of Falls,human_survey_v1,ordering_based,-7
+hip_fracture,Hip Fracture,hip_fracture_participant_016,hip_fracture_participant_016,hip_fracture_pair_013,5 Times Sit-to-Stand (5TSTS),Hip Fracture,human_survey_v1,ordering_based,-9
+hip_fracture,Hip Fracture,hip_fracture_participant_016,hip_fracture_participant_016,hip_fracture_pair_014,History of Fracture,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,4
+hip_fracture,Hip Fracture,hip_fracture_participant_016,hip_fracture_participant_016,hip_fracture_pair_015,Vitamin D Use,Chronic Diseases,human_survey_v1,ordering_based,2
+hip_fracture,Hip Fracture,hip_fracture_participant_016,hip_fracture_participant_016,hip_fracture_pair_016,Vitamin D Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,2
+hip_fracture,Hip Fracture,hip_fracture_participant_016,hip_fracture_participant_016,hip_fracture_pair_017,Chronic Diseases,Glucocorticoid (GC) Use,human_survey_v1,ordering_based,-3
+hip_fracture,Hip Fracture,hip_fracture_participant_016,hip_fracture_participant_016,hip_fracture_pair_018,Chronic Diseases,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,3
+hip_fracture,Hip Fracture,hip_fracture_participant_016,hip_fracture_participant_016,hip_fracture_pair_019,Chronic Diseases,Gait Speed,human_survey_v1,ordering_based,1
+hip_fracture,Hip Fracture,hip_fracture_participant_016,hip_fracture_participant_016,hip_fracture_pair_020,Chronic Diseases,Hip Fracture,human_survey_v1,ordering_based,2
+hip_fracture,Hip Fracture,hip_fracture_participant_016,hip_fracture_participant_016,hip_fracture_pair_021,Glucocorticoid (GC) Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,1
+hip_fracture,Hip Fracture,hip_fracture_participant_016,hip_fracture_participant_016,hip_fracture_pair_022,BMD (Bone Mineral Density),Chronic Diseases,human_survey_v1,ordering_based,-3
+hip_fracture,Hip Fracture,hip_fracture_participant_016,hip_fracture_participant_016,hip_fracture_pair_023,BMD (Bone Mineral Density),Hip Fracture,human_survey_v1,ordering_based,-6
+hip_fracture,Hip Fracture,hip_fracture_participant_016,hip_fracture_participant_016,hip_fracture_pair_024,Psychotropic Drug Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_016,hip_fracture_participant_016,hip_fracture_pair_025,Psychotropic Drug Use,Hip Fracture,human_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,hip_fracture_participant_017,hip_fracture_participant_017,hip_fracture_pair_001,Age,BMI (Body Mass Index),human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_017,hip_fracture_participant_017,hip_fracture_pair_002,Age,Vitamin D Use,human_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,hip_fracture_participant_017,hip_fracture_participant_017,hip_fracture_pair_003,Age,Chronic Diseases,human_survey_v1,ordering_based,9
+hip_fracture,Hip Fracture,hip_fracture_participant_017,hip_fracture_participant_017,hip_fracture_pair_004,Age,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,-10
+hip_fracture,Hip Fracture,hip_fracture_participant_017,hip_fracture_participant_017,hip_fracture_pair_005,Age,Gait Speed,human_survey_v1,ordering_based,-7
+hip_fracture,Hip Fracture,hip_fracture_participant_017,hip_fracture_participant_017,hip_fracture_pair_006,Age,Hip Fracture,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_017,hip_fracture_participant_017,hip_fracture_pair_007,BMI (Body Mass Index),Vitamin D Use,human_survey_v1,ordering_based,5
+hip_fracture,Hip Fracture,hip_fracture_participant_017,hip_fracture_participant_017,hip_fracture_pair_008,BMI (Body Mass Index),Chronic Diseases,human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_017,hip_fracture_participant_017,hip_fracture_pair_009,BMI (Body Mass Index),5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,-7
+hip_fracture,Hip Fracture,hip_fracture_participant_017,hip_fracture_participant_017,hip_fracture_pair_010,BMI (Body Mass Index),Hip Fracture,human_survey_v1,ordering_based,9
+hip_fracture,Hip Fracture,hip_fracture_participant_017,hip_fracture_participant_017,hip_fracture_pair_011,5 Times Sit-to-Stand (5TSTS),Gait Speed,human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_017,hip_fracture_participant_017,hip_fracture_pair_012,5 Times Sit-to-Stand (5TSTS),History of Falls,human_survey_v1,ordering_based,-8
+hip_fracture,Hip Fracture,hip_fracture_participant_017,hip_fracture_participant_017,hip_fracture_pair_013,5 Times Sit-to-Stand (5TSTS),Hip Fracture,human_survey_v1,ordering_based,-6
+hip_fracture,Hip Fracture,hip_fracture_participant_017,hip_fracture_participant_017,hip_fracture_pair_014,History of Fracture,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,-6
+hip_fracture,Hip Fracture,hip_fracture_participant_017,hip_fracture_participant_017,hip_fracture_pair_015,Vitamin D Use,Chronic Diseases,human_survey_v1,ordering_based,-5
+hip_fracture,Hip Fracture,hip_fracture_participant_017,hip_fracture_participant_017,hip_fracture_pair_016,Vitamin D Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,hip_fracture_participant_017,hip_fracture_participant_017,hip_fracture_pair_017,Chronic Diseases,Glucocorticoid (GC) Use,human_survey_v1,ordering_based,0
+hip_fracture,Hip Fracture,hip_fracture_participant_017,hip_fracture_participant_017,hip_fracture_pair_018,Chronic Diseases,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,3
+hip_fracture,Hip Fracture,hip_fracture_participant_017,hip_fracture_participant_017,hip_fracture_pair_019,Chronic Diseases,Gait Speed,human_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,hip_fracture_participant_017,hip_fracture_participant_017,hip_fracture_pair_020,Chronic Diseases,Hip Fracture,human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_017,hip_fracture_participant_017,hip_fracture_pair_021,Glucocorticoid (GC) Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,-10
+hip_fracture,Hip Fracture,hip_fracture_participant_017,hip_fracture_participant_017,hip_fracture_pair_022,BMD (Bone Mineral Density),Chronic Diseases,human_survey_v1,ordering_based,1
+hip_fracture,Hip Fracture,hip_fracture_participant_017,hip_fracture_participant_017,hip_fracture_pair_023,BMD (Bone Mineral Density),Hip Fracture,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_017,hip_fracture_participant_017,hip_fracture_pair_024,Psychotropic Drug Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,-7
+hip_fracture,Hip Fracture,hip_fracture_participant_017,hip_fracture_participant_017,hip_fracture_pair_025,Psychotropic Drug Use,Hip Fracture,human_survey_v1,ordering_based,9
+hip_fracture,Hip Fracture,hip_fracture_participant_018,hip_fracture_participant_018,hip_fracture_pair_001,Age,BMI (Body Mass Index),human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_018,hip_fracture_participant_018,hip_fracture_pair_002,Age,Vitamin D Use,human_survey_v1,ordering_based,4
+hip_fracture,Hip Fracture,hip_fracture_participant_018,hip_fracture_participant_018,hip_fracture_pair_003,Age,Chronic Diseases,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_018,hip_fracture_participant_018,hip_fracture_pair_004,Age,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,hip_fracture_participant_018,hip_fracture_participant_018,hip_fracture_pair_005,Age,Gait Speed,human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_018,hip_fracture_participant_018,hip_fracture_pair_006,Age,Hip Fracture,human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_018,hip_fracture_participant_018,hip_fracture_pair_007,BMI (Body Mass Index),Vitamin D Use,human_survey_v1,ordering_based,0
+hip_fracture,Hip Fracture,hip_fracture_participant_018,hip_fracture_participant_018,hip_fracture_pair_008,BMI (Body Mass Index),Chronic Diseases,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_018,hip_fracture_participant_018,hip_fracture_pair_009,BMI (Body Mass Index),5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_018,hip_fracture_participant_018,hip_fracture_pair_010,BMI (Body Mass Index),Hip Fracture,human_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,hip_fracture_participant_018,hip_fracture_participant_018,hip_fracture_pair_011,5 Times Sit-to-Stand (5TSTS),Gait Speed,human_survey_v1,ordering_based,-3
+hip_fracture,Hip Fracture,hip_fracture_participant_018,hip_fracture_participant_018,hip_fracture_pair_012,5 Times Sit-to-Stand (5TSTS),History of Falls,human_survey_v1,ordering_based,-7
+hip_fracture,Hip Fracture,hip_fracture_participant_018,hip_fracture_participant_018,hip_fracture_pair_013,5 Times Sit-to-Stand (5TSTS),Hip Fracture,human_survey_v1,ordering_based,-8
+hip_fracture,Hip Fracture,hip_fracture_participant_018,hip_fracture_participant_018,hip_fracture_pair_014,History of Fracture,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_018,hip_fracture_participant_018,hip_fracture_pair_015,Vitamin D Use,Chronic Diseases,human_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,hip_fracture_participant_018,hip_fracture_participant_018,hip_fracture_pair_016,Vitamin D Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,3
+hip_fracture,Hip Fracture,hip_fracture_participant_018,hip_fracture_participant_018,hip_fracture_pair_017,Chronic Diseases,Glucocorticoid (GC) Use,human_survey_v1,ordering_based,2
+hip_fracture,Hip Fracture,hip_fracture_participant_018,hip_fracture_participant_018,hip_fracture_pair_018,Chronic Diseases,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,hip_fracture_participant_018,hip_fracture_participant_018,hip_fracture_pair_019,Chronic Diseases,Gait Speed,human_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,hip_fracture_participant_018,hip_fracture_participant_018,hip_fracture_pair_020,Chronic Diseases,Hip Fracture,human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_018,hip_fracture_participant_018,hip_fracture_pair_021,Glucocorticoid (GC) Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,4
+hip_fracture,Hip Fracture,hip_fracture_participant_018,hip_fracture_participant_018,hip_fracture_pair_022,BMD (Bone Mineral Density),Chronic Diseases,human_survey_v1,ordering_based,-4
+hip_fracture,Hip Fracture,hip_fracture_participant_018,hip_fracture_participant_018,hip_fracture_pair_023,BMD (Bone Mineral Density),Hip Fracture,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_018,hip_fracture_participant_018,hip_fracture_pair_024,Psychotropic Drug Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,4
+hip_fracture,Hip Fracture,hip_fracture_participant_018,hip_fracture_participant_018,hip_fracture_pair_025,Psychotropic Drug Use,Hip Fracture,human_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,hip_fracture_participant_019,hip_fracture_participant_019,hip_fracture_pair_001,Age,BMI (Body Mass Index),human_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,hip_fracture_participant_019,hip_fracture_participant_019,hip_fracture_pair_002,Age,Vitamin D Use,human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_019,hip_fracture_participant_019,hip_fracture_pair_003,Age,Chronic Diseases,human_survey_v1,ordering_based,9
+hip_fracture,Hip Fracture,hip_fracture_participant_019,hip_fracture_participant_019,hip_fracture_pair_004,Age,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_019,hip_fracture_participant_019,hip_fracture_pair_005,Age,Gait Speed,human_survey_v1,ordering_based,9
+hip_fracture,Hip Fracture,hip_fracture_participant_019,hip_fracture_participant_019,hip_fracture_pair_006,Age,Hip Fracture,human_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,hip_fracture_participant_019,hip_fracture_participant_019,hip_fracture_pair_007,BMI (Body Mass Index),Vitamin D Use,human_survey_v1,ordering_based,0
+hip_fracture,Hip Fracture,hip_fracture_participant_019,hip_fracture_participant_019,hip_fracture_pair_008,BMI (Body Mass Index),Chronic Diseases,human_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,hip_fracture_participant_019,hip_fracture_participant_019,hip_fracture_pair_009,BMI (Body Mass Index),5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,hip_fracture_participant_019,hip_fracture_participant_019,hip_fracture_pair_010,BMI (Body Mass Index),Hip Fracture,human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_019,hip_fracture_participant_019,hip_fracture_pair_011,5 Times Sit-to-Stand (5TSTS),Gait Speed,human_survey_v1,ordering_based,0
+hip_fracture,Hip Fracture,hip_fracture_participant_019,hip_fracture_participant_019,hip_fracture_pair_012,5 Times Sit-to-Stand (5TSTS),History of Falls,human_survey_v1,ordering_based,-2
+hip_fracture,Hip Fracture,hip_fracture_participant_019,hip_fracture_participant_019,hip_fracture_pair_013,5 Times Sit-to-Stand (5TSTS),Hip Fracture,human_survey_v1,ordering_based,5
+hip_fracture,Hip Fracture,hip_fracture_participant_019,hip_fracture_participant_019,hip_fracture_pair_014,History of Fracture,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,5
+hip_fracture,Hip Fracture,hip_fracture_participant_019,hip_fracture_participant_019,hip_fracture_pair_015,Vitamin D Use,Chronic Diseases,human_survey_v1,ordering_based,4
+hip_fracture,Hip Fracture,hip_fracture_participant_019,hip_fracture_participant_019,hip_fracture_pair_016,Vitamin D Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,1
+hip_fracture,Hip Fracture,hip_fracture_participant_019,hip_fracture_participant_019,hip_fracture_pair_017,Chronic Diseases,Glucocorticoid (GC) Use,human_survey_v1,ordering_based,1
+hip_fracture,Hip Fracture,hip_fracture_participant_019,hip_fracture_participant_019,hip_fracture_pair_018,Chronic Diseases,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,5
+hip_fracture,Hip Fracture,hip_fracture_participant_019,hip_fracture_participant_019,hip_fracture_pair_019,Chronic Diseases,Gait Speed,human_survey_v1,ordering_based,5
+hip_fracture,Hip Fracture,hip_fracture_participant_019,hip_fracture_participant_019,hip_fracture_pair_020,Chronic Diseases,Hip Fracture,human_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,hip_fracture_participant_019,hip_fracture_participant_019,hip_fracture_pair_021,Glucocorticoid (GC) Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,hip_fracture_participant_019,hip_fracture_participant_019,hip_fracture_pair_022,BMD (Bone Mineral Density),Chronic Diseases,human_survey_v1,ordering_based,-4
+hip_fracture,Hip Fracture,hip_fracture_participant_019,hip_fracture_participant_019,hip_fracture_pair_023,BMD (Bone Mineral Density),Hip Fracture,human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_019,hip_fracture_participant_019,hip_fracture_pair_024,Psychotropic Drug Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,hip_fracture_participant_019,hip_fracture_participant_019,hip_fracture_pair_025,Psychotropic Drug Use,Hip Fracture,human_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,hip_fracture_participant_020,hip_fracture_participant_020,hip_fracture_pair_001,Age,BMI (Body Mass Index),human_survey_v1,ordering_based,4
+hip_fracture,Hip Fracture,hip_fracture_participant_020,hip_fracture_participant_020,hip_fracture_pair_002,Age,Vitamin D Use,human_survey_v1,ordering_based,2
+hip_fracture,Hip Fracture,hip_fracture_participant_020,hip_fracture_participant_020,hip_fracture_pair_003,Age,Chronic Diseases,human_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,hip_fracture_participant_020,hip_fracture_participant_020,hip_fracture_pair_004,Age,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,hip_fracture_participant_020,hip_fracture_participant_020,hip_fracture_pair_005,Age,Gait Speed,human_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,hip_fracture_participant_020,hip_fracture_participant_020,hip_fracture_pair_006,Age,Hip Fracture,human_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,hip_fracture_participant_020,hip_fracture_participant_020,hip_fracture_pair_007,BMI (Body Mass Index),Vitamin D Use,human_survey_v1,ordering_based,0
+hip_fracture,Hip Fracture,hip_fracture_participant_020,hip_fracture_participant_020,hip_fracture_pair_008,BMI (Body Mass Index),Chronic Diseases,human_survey_v1,ordering_based,5
+hip_fracture,Hip Fracture,hip_fracture_participant_020,hip_fracture_participant_020,hip_fracture_pair_009,BMI (Body Mass Index),5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,hip_fracture_participant_020,hip_fracture_participant_020,hip_fracture_pair_010,BMI (Body Mass Index),Hip Fracture,human_survey_v1,ordering_based,5
+hip_fracture,Hip Fracture,hip_fracture_participant_020,hip_fracture_participant_020,hip_fracture_pair_011,5 Times Sit-to-Stand (5TSTS),Gait Speed,human_survey_v1,ordering_based,0
+hip_fracture,Hip Fracture,hip_fracture_participant_020,hip_fracture_participant_020,hip_fracture_pair_012,5 Times Sit-to-Stand (5TSTS),History of Falls,human_survey_v1,ordering_based,-4
+hip_fracture,Hip Fracture,hip_fracture_participant_020,hip_fracture_participant_020,hip_fracture_pair_013,5 Times Sit-to-Stand (5TSTS),Hip Fracture,human_survey_v1,ordering_based,-8
+hip_fracture,Hip Fracture,hip_fracture_participant_020,hip_fracture_participant_020,hip_fracture_pair_014,History of Fracture,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,3
+hip_fracture,Hip Fracture,hip_fracture_participant_020,hip_fracture_participant_020,hip_fracture_pair_015,Vitamin D Use,Chronic Diseases,human_survey_v1,ordering_based,3
+hip_fracture,Hip Fracture,hip_fracture_participant_020,hip_fracture_participant_020,hip_fracture_pair_016,Vitamin D Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,1
+hip_fracture,Hip Fracture,hip_fracture_participant_020,hip_fracture_participant_020,hip_fracture_pair_017,Chronic Diseases,Glucocorticoid (GC) Use,human_survey_v1,ordering_based,-5
+hip_fracture,Hip Fracture,hip_fracture_participant_020,hip_fracture_participant_020,hip_fracture_pair_018,Chronic Diseases,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,hip_fracture_participant_020,hip_fracture_participant_020,hip_fracture_pair_019,Chronic Diseases,Gait Speed,human_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,hip_fracture_participant_020,hip_fracture_participant_020,hip_fracture_pair_020,Chronic Diseases,Hip Fracture,human_survey_v1,ordering_based,4
+hip_fracture,Hip Fracture,hip_fracture_participant_020,hip_fracture_participant_020,hip_fracture_pair_021,Glucocorticoid (GC) Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,5
+hip_fracture,Hip Fracture,hip_fracture_participant_020,hip_fracture_participant_020,hip_fracture_pair_022,BMD (Bone Mineral Density),Chronic Diseases,human_survey_v1,ordering_based,-4
+hip_fracture,Hip Fracture,hip_fracture_participant_020,hip_fracture_participant_020,hip_fracture_pair_023,BMD (Bone Mineral Density),Hip Fracture,human_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,hip_fracture_participant_020,hip_fracture_participant_020,hip_fracture_pair_024,Psychotropic Drug Use,5 Times Sit-to-Stand (5TSTS),human_survey_v1,ordering_based,4
+hip_fracture,Hip Fracture,hip_fracture_participant_020,hip_fracture_participant_020,hip_fracture_pair_025,Psychotropic Drug Use,Hip Fracture,human_survey_v1,ordering_based,3

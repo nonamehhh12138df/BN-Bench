@@ -1,0 +1,37 @@
+network,network_label,section_id,model,expert_type,run_id,pair_id,source,target,prompt_id,protocol,direction_label
+system_safety_assessment,System Safety Assessment,2.11,ChatGPT 4.0,llm_simulated_expert,run_001,system_safety_assessment_pair_001,Correctness of Solution,Complexity of Solution,docx_llm_survey_v1,edge_based,-1
+system_safety_assessment,System Safety Assessment,2.11,ChatGPT 4.0,llm_simulated_expert,run_001,system_safety_assessment_pair_002,Intrinsic Complexity,Faults in Test/Review,docx_llm_survey_v1,edge_based,1
+system_safety_assessment,System Safety Assessment,2.11,ChatGPT 4.0,llm_simulated_expert,run_001,system_safety_assessment_pair_003,Correctness of Solution,Intrinsic Complexity,docx_llm_survey_v1,edge_based,-1
+system_safety_assessment,System Safety Assessment,2.11,ChatGPT 4.0,llm_simulated_expert,run_001,system_safety_assessment_pair_004,Intrinsic Complexity,Operational Usage,docx_llm_survey_v1,edge_based,0
+system_safety_assessment,System Safety Assessment,2.11,ChatGPT 4.0,llm_simulated_expert,run_001,system_safety_assessment_pair_005,Correctness of Solution,Quality of Supplier,docx_llm_survey_v1,edge_based,-1
+system_safety_assessment,System Safety Assessment,2.11,ChatGPT 4.0,llm_simulated_expert,run_001,system_safety_assessment_pair_006,Intrinsic Complexity,System Safety,docx_llm_survey_v1,edge_based,1
+system_safety_assessment,System Safety Assessment,2.11,ChatGPT 4.0,llm_simulated_expert,run_001,system_safety_assessment_pair_007,Correctness of Solution,Quality of Test Team,docx_llm_survey_v1,edge_based,0
+system_safety_assessment,System Safety Assessment,2.11,ChatGPT 4.0,llm_simulated_expert,run_001,system_safety_assessment_pair_008,Quality of Supplier,Quality of Test Team,docx_llm_survey_v1,edge_based,0
+system_safety_assessment,System Safety Assessment,2.11,ChatGPT 4.0,llm_simulated_expert,run_001,system_safety_assessment_pair_009,Correctness of Solution,Accuracy of Testing,docx_llm_survey_v1,edge_based,0
+system_safety_assessment,System Safety Assessment,2.11,ChatGPT 4.0,llm_simulated_expert,run_001,system_safety_assessment_pair_010,Quality of Supplier,Accuracy of Testing,docx_llm_survey_v1,edge_based,0
+system_safety_assessment,System Safety Assessment,2.11,ChatGPT 4.0,llm_simulated_expert,run_001,system_safety_assessment_pair_011,Correctness of Solution,Faults in Test/Review,docx_llm_survey_v1,edge_based,1
+system_safety_assessment,System Safety Assessment,2.11,ChatGPT 4.0,llm_simulated_expert,run_001,system_safety_assessment_pair_012,Quality of Supplier,Faults in Test/Review,docx_llm_survey_v1,edge_based,1
+system_safety_assessment,System Safety Assessment,2.11,ChatGPT 4.0,llm_simulated_expert,run_001,system_safety_assessment_pair_013,Correctness of Solution,Operational Usage,docx_llm_survey_v1,edge_based,0
+system_safety_assessment,System Safety Assessment,2.11,ChatGPT 4.0,llm_simulated_expert,run_001,system_safety_assessment_pair_014,Quality of Supplier,Operational Usage,docx_llm_survey_v1,edge_based,0
+system_safety_assessment,System Safety Assessment,2.11,ChatGPT 4.0,llm_simulated_expert,run_001,system_safety_assessment_pair_015,Correctness of Solution,System Safety,docx_llm_survey_v1,edge_based,1
+system_safety_assessment,System Safety Assessment,2.11,ChatGPT 4.0,llm_simulated_expert,run_001,system_safety_assessment_pair_016,Quality of Supplier,System Safety,docx_llm_survey_v1,edge_based,1
+system_safety_assessment,System Safety Assessment,2.11,ChatGPT 4.0,llm_simulated_expert,run_001,system_safety_assessment_pair_017,Complexity of Solution,Intrinsic Complexity,docx_llm_survey_v1,edge_based,-1
+system_safety_assessment,System Safety Assessment,2.11,ChatGPT 4.0,llm_simulated_expert,run_001,system_safety_assessment_pair_018,Quality of Test Team,Accuracy of Testing,docx_llm_survey_v1,edge_based,1
+system_safety_assessment,System Safety Assessment,2.11,ChatGPT 4.0,llm_simulated_expert,run_001,system_safety_assessment_pair_019,Complexity of Solution,Quality of Supplier,docx_llm_survey_v1,edge_based,0
+system_safety_assessment,System Safety Assessment,2.11,ChatGPT 4.0,llm_simulated_expert,run_001,system_safety_assessment_pair_020,Quality of Test Team,Faults in Test/Review,docx_llm_survey_v1,edge_based,1
+system_safety_assessment,System Safety Assessment,2.11,ChatGPT 4.0,llm_simulated_expert,run_001,system_safety_assessment_pair_021,Complexity of Solution,Quality of Test Team,docx_llm_survey_v1,edge_based,0
+system_safety_assessment,System Safety Assessment,2.11,ChatGPT 4.0,llm_simulated_expert,run_001,system_safety_assessment_pair_022,Quality of Test Team,Operational Usage,docx_llm_survey_v1,edge_based,0
+system_safety_assessment,System Safety Assessment,2.11,ChatGPT 4.0,llm_simulated_expert,run_001,system_safety_assessment_pair_023,Complexity of Solution,Accuracy of Testing,docx_llm_survey_v1,edge_based,1
+system_safety_assessment,System Safety Assessment,2.11,ChatGPT 4.0,llm_simulated_expert,run_001,system_safety_assessment_pair_024,Quality of Test Team,System Safety,docx_llm_survey_v1,edge_based,1
+system_safety_assessment,System Safety Assessment,2.11,ChatGPT 4.0,llm_simulated_expert,run_001,system_safety_assessment_pair_025,Complexity of Solution,Faults in Test/Review,docx_llm_survey_v1,edge_based,1
+system_safety_assessment,System Safety Assessment,2.11,ChatGPT 4.0,llm_simulated_expert,run_001,system_safety_assessment_pair_026,Accuracy of Testing,Faults in Test/Review,docx_llm_survey_v1,edge_based,1
+system_safety_assessment,System Safety Assessment,2.11,ChatGPT 4.0,llm_simulated_expert,run_001,system_safety_assessment_pair_027,Complexity of Solution,Operational Usage,docx_llm_survey_v1,edge_based,0
+system_safety_assessment,System Safety Assessment,2.11,ChatGPT 4.0,llm_simulated_expert,run_001,system_safety_assessment_pair_028,Accuracy of Testing,Operational Usage,docx_llm_survey_v1,edge_based,0
+system_safety_assessment,System Safety Assessment,2.11,ChatGPT 4.0,llm_simulated_expert,run_001,system_safety_assessment_pair_029,Complexity of Solution,System Safety,docx_llm_survey_v1,edge_based,1
+system_safety_assessment,System Safety Assessment,2.11,ChatGPT 4.0,llm_simulated_expert,run_001,system_safety_assessment_pair_030,Accuracy of Testing,System Safety,docx_llm_survey_v1,edge_based,1
+system_safety_assessment,System Safety Assessment,2.11,ChatGPT 4.0,llm_simulated_expert,run_001,system_safety_assessment_pair_031,Intrinsic Complexity,Quality of Supplier,docx_llm_survey_v1,edge_based,1
+system_safety_assessment,System Safety Assessment,2.11,ChatGPT 4.0,llm_simulated_expert,run_001,system_safety_assessment_pair_032,Faults in Test/Review,Operational Usage,docx_llm_survey_v1,edge_based,0
+system_safety_assessment,System Safety Assessment,2.11,ChatGPT 4.0,llm_simulated_expert,run_001,system_safety_assessment_pair_033,Intrinsic Complexity,Quality of Test Team,docx_llm_survey_v1,edge_based,1
+system_safety_assessment,System Safety Assessment,2.11,ChatGPT 4.0,llm_simulated_expert,run_001,system_safety_assessment_pair_034,Faults in Test/Review,System Safety,docx_llm_survey_v1,edge_based,1
+system_safety_assessment,System Safety Assessment,2.11,ChatGPT 4.0,llm_simulated_expert,run_001,system_safety_assessment_pair_035,Intrinsic Complexity,Accuracy of Testing,docx_llm_survey_v1,edge_based,1
+system_safety_assessment,System Safety Assessment,2.11,ChatGPT 4.0,llm_simulated_expert,run_001,system_safety_assessment_pair_036,Operational Usage,System Safety,docx_llm_survey_v1,edge_based,1

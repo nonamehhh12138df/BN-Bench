@@ -1,0 +1,121 @@
+network,network_label,section_id,model,expert_type,run_id,pair_id,source,target,prompt_id,protocol,direction_label
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_001,Infrastructure Failure,Fuel Price,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_002,Technology Implementation,Inaccurate Forecasting,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_003,Infrastructure Failure,Delay in Transport,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_004,Technology Implementation,Supplier Risk,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_005,Infrastructure Failure,Technology Risk,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_006,Technology Implementation,Input Price,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_007,Infrastructure Failure,Technology Implementation,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_008,Technology Implementation,Product Quality,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_009,Infrastructure Failure,Transport Risk,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_010,Technology Implementation,Product Technology,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_011,Infrastructure Failure,Manufacturer,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_012,Transport Risk,Manufacturer,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_013,Infrastructure Failure,Profitability,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_014,Transport Risk,Profitability,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_015,Infrastructure Failure,Business Continuity,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_016,Transport Risk,Business Continuity,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_017,Infrastructure Failure,Inventory Risk,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_018,Transport Risk,Inventory Risk,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_019,Infrastructure Failure,Lead Time,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_020,Transport Risk,Lead Time,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_021,Infrastructure Failure,Inaccurate Forecasting,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_022,Transport Risk,Inaccurate Forecasting,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_023,Infrastructure Failure,Supplier Risk,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_024,Transport Risk,Supplier Risk,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_025,Infrastructure Failure,Input Price,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_026,Transport Risk,Input Price,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_027,Infrastructure Failure,Product Quality,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_028,Transport Risk,Product Quality,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_029,Infrastructure Failure,Product Technology,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_030,Transport Risk,Product Technology,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_031,Fuel Price,Delay in Transport,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_032,Manufacturer,Profitability,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_033,Fuel Price,Technology Risk,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_034,Manufacturer,Business Continuity,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_035,Fuel Price,Technology Implementation,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_036,Manufacturer,Inventory Risk,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_037,Fuel Price,Transport Risk,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_038,Manufacturer,Lead Time,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_039,Fuel Price,Manufacturer,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_040,Manufacturer,Inaccurate Forecasting,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_041,Fuel Price,Profitability,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_042,Manufacturer,Supplier Risk,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_043,Fuel Price,Business Continuity,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_044,Manufacturer,Input Price,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_045,Fuel Price,Inventory Risk,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_046,Manufacturer,Product Quality,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_047,Fuel Price,Lead Time,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_048,Manufacturer,Product Technology,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_049,Fuel Price,Inaccurate Forecasting,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_050,Profitability,Business Continuity,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_051,Fuel Price,Supplier Risk,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_052,Profitability,Inventory Risk,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_053,Fuel Price,Input Price,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_054,Profitability,Lead Time,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_055,Fuel Price,Product Quality,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_056,Profitability,Inaccurate Forecasting,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_057,Fuel Price,Product Technology,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_058,Profitability,Supplier Risk,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_059,Delay in Transport,Technology Risk,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_060,Profitability,Input Price,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_061,Delay in Transport,Technology Implementation,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_062,Profitability,Product Quality,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_063,Delay in Transport,Transport Risk,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_064,Profitability,Product Technology,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_065,Delay in Transport,Manufacturer,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_066,Business Continuity,Inventory Risk,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_067,Delay in Transport,Profitability,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_068,Business Continuity,Lead Time,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_069,Delay in Transport,Business Continuity,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_070,Business Continuity,Inaccurate Forecasting,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_071,Delay in Transport,Inventory Risk,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_072,Business Continuity,Supplier Risk,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_073,Delay in Transport,Lead Time,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_074,Business Continuity,Input Price,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_075,Delay in Transport,Inaccurate Forecasting,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_076,Business Continuity,Product Quality,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_077,Delay in Transport,Supplier Risk,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_078,Business Continuity,Product Technology,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_079,Delay in Transport,Input Price,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_080,Inventory Risk,Lead Time,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_081,Delay in Transport,Product Quality,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_082,Inventory Risk,Inaccurate Forecasting,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_083,Delay in Transport,Product Technology,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_084,Inventory Risk,Supplier Risk,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_085,Technology Risk,Technology Implementation,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_086,Inventory Risk,Input Price,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_087,Technology Risk,Transport Risk,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_088,Inventory Risk,Product Quality,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_089,Technology Risk,Manufacturer,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_090,Inventory Risk,Product Technology,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_091,Technology Risk,Profitability,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_092,Lead Time,Inaccurate Forecasting,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_093,Technology Risk,Business Continuity,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_094,Lead Time,Supplier Risk,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_095,Technology Risk,Inventory Risk,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_096,Lead Time,Input Price,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_097,Technology Risk,Lead Time,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_098,Lead Time,Product Quality,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_099,Technology Risk,Inaccurate Forecasting,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_100,Lead Time,Product Technology,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_101,Technology Risk,Supplier Risk,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_102,Inaccurate Forecasting,Supplier Risk,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_103,Technology Risk,Input Price,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_104,Inaccurate Forecasting,Input Price,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_105,Technology Risk,Product Quality,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_106,Inaccurate Forecasting,Product Quality,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_107,Technology Risk,Product Technology,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_108,Inaccurate Forecasting,Product Technology,docx_llm_survey_v1,edge_based,0
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_109,Technology Implementation,Transport Risk,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_110,Supplier Risk,Input Price,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_111,Technology Implementation,Manufacturer,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_112,Supplier Risk,Product Quality,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_113,Technology Implementation,Profitability,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_114,Supplier Risk,Product Technology,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_115,Technology Implementation,Business Continuity,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_116,Input Price,Product Quality,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_117,Technology Implementation,Inventory Risk,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_118,Input Price,Product Technology,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_119,Technology Implementation,Lead Time,docx_llm_survey_v1,edge_based,1
+supply_chain,Supply Chain,2.17,ChatGPT 4.0,llm_simulated_expert,run_001,supply_chain_pair_120,Product Quality,Product Technology,docx_llm_survey_v1,edge_based,1

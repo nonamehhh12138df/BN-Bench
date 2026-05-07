@@ -1,0 +1,10 @@
+[
+  ["Asia", "Tuberculosis"],
+  ["Tuberculosis", "Either"],
+  ["Smoking", "Lung Cancer"],
+  ["Lung Cancer", "Either"],
+  ["Either", "Xray"],
+  ["Bronchitis", "Dyspnoea"],
+  ["Either", "Dyspnoea"],
+  ["Smoking", "Bronchitis"]
+]

@@ -1,0 +1,16 @@
+[
+  ["Umbrella Sales", "Rain", "Visibility", "# Car Crashes", "Road Safety"],
+  ["Umbrella Sales", "Rain", "Visibility", "# Car Crashes", "# Fatalities", "Road Safety"],
+  ["Umbrella Sales", "Rain", "Visibility", "# Car Crashes", "Road Safety"],
+  
+  ["Umbrella Sales", "Rain", "Surface Water", "# Car Crashes", "Road Safety"],
+  ["Umbrella Sales", "Rain", "Surface Water", "# Car Crashes", "# Fatalities", "Road Safety"],
+  ["Umbrella Sales", "Rain", "Surface Water", "# Car Crashes", "Road Safety"],
+
+  ["Speed Limit", "# Car Crashes", "Road Safety"],
+  ["Speed Limit", "# Car Crashes", "# Fatalities", "Road Safety"],
+  ["Speed Limit", "# Car Crashes", "Road Safety"],
+
+  ["School Route", "Road Safety"],
+  ["Cycle Lanes", "Road Safety"]
+]

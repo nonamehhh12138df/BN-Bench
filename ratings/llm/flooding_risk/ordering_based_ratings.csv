@@ -1,0 +1,37 @@
+network,network_label,section_id,model,expert_type,run_id,pair_id,source,target,prompt_id,protocol,raw_score
+flooding_risk,Flooding Risk,2.13,ChatGPT 4.0,llm_simulated_expert,run_001,flooding_risk_pair_001,Naturally Variability,Climate Change,docx_llm_survey_v1,ordering_based,-7
+flooding_risk,Flooding Risk,2.13,ChatGPT 4.0,llm_simulated_expert,run_001,flooding_risk_pair_002,Jet Stream,River Flows,docx_llm_survey_v1,ordering_based,5
+flooding_risk,Flooding Risk,2.13,ChatGPT 4.0,llm_simulated_expert,run_001,flooding_risk_pair_003,Naturally Variability,Jet Stream,docx_llm_survey_v1,ordering_based,7
+flooding_risk,Flooding Risk,2.13,ChatGPT 4.0,llm_simulated_expert,run_001,flooding_risk_pair_004,Jet Stream,Flood Zone Maps,docx_llm_survey_v1,ordering_based,1
+flooding_risk,Flooding Risk,2.13,ChatGPT 4.0,llm_simulated_expert,run_001,flooding_risk_pair_005,Naturally Variability,Warming,docx_llm_survey_v1,ordering_based,-8
+flooding_risk,Flooding Risk,2.13,ChatGPT 4.0,llm_simulated_expert,run_001,flooding_risk_pair_006,Jet Stream,Properties at Risk,docx_llm_survey_v1,ordering_based,1
+flooding_risk,Flooding Risk,2.13,ChatGPT 4.0,llm_simulated_expert,run_001,flooding_risk_pair_007,Naturally Variability,Extreme Rainfall,docx_llm_survey_v1,ordering_based,6
+flooding_risk,Flooding Risk,2.13,ChatGPT 4.0,llm_simulated_expert,run_001,flooding_risk_pair_008,Warming,Extreme Rainfall,docx_llm_survey_v1,ordering_based,9
+flooding_risk,Flooding Risk,2.13,ChatGPT 4.0,llm_simulated_expert,run_001,flooding_risk_pair_009,Naturally Variability,Thames Hydrology,docx_llm_survey_v1,ordering_based,4
+flooding_risk,Flooding Risk,2.13,ChatGPT 4.0,llm_simulated_expert,run_001,flooding_risk_pair_010,Warming,Thames Hydrology,docx_llm_survey_v1,ordering_based,6
+flooding_risk,Flooding Risk,2.13,ChatGPT 4.0,llm_simulated_expert,run_001,flooding_risk_pair_011,Naturally Variability,River Flows,docx_llm_survey_v1,ordering_based,4
+flooding_risk,Flooding Risk,2.13,ChatGPT 4.0,llm_simulated_expert,run_001,flooding_risk_pair_012,Warming,River Flows,docx_llm_survey_v1,ordering_based,6
+flooding_risk,Flooding Risk,2.13,ChatGPT 4.0,llm_simulated_expert,run_001,flooding_risk_pair_013,Naturally Variability,Flood Zone Maps,docx_llm_survey_v1,ordering_based,0
+flooding_risk,Flooding Risk,2.13,ChatGPT 4.0,llm_simulated_expert,run_001,flooding_risk_pair_014,Warming,Flood Zone Maps,docx_llm_survey_v1,ordering_based,3
+flooding_risk,Flooding Risk,2.13,ChatGPT 4.0,llm_simulated_expert,run_001,flooding_risk_pair_015,Naturally Variability,Properties at Risk,docx_llm_survey_v1,ordering_based,0
+flooding_risk,Flooding Risk,2.13,ChatGPT 4.0,llm_simulated_expert,run_001,flooding_risk_pair_016,Warming,Properties at Risk,docx_llm_survey_v1,ordering_based,4
+flooding_risk,Flooding Risk,2.13,ChatGPT 4.0,llm_simulated_expert,run_001,flooding_risk_pair_017,Climate Change,Jet Stream,docx_llm_survey_v1,ordering_based,7
+flooding_risk,Flooding Risk,2.13,ChatGPT 4.0,llm_simulated_expert,run_001,flooding_risk_pair_018,Extreme Rainfall,Thames Hydrology,docx_llm_survey_v1,ordering_based,7
+flooding_risk,Flooding Risk,2.13,ChatGPT 4.0,llm_simulated_expert,run_001,flooding_risk_pair_019,Climate Change,Warming,docx_llm_survey_v1,ordering_based,9
+flooding_risk,Flooding Risk,2.13,ChatGPT 4.0,llm_simulated_expert,run_001,flooding_risk_pair_020,Extreme Rainfall,River Flows,docx_llm_survey_v1,ordering_based,9
+flooding_risk,Flooding Risk,2.13,ChatGPT 4.0,llm_simulated_expert,run_001,flooding_risk_pair_021,Climate Change,Extreme Rainfall,docx_llm_survey_v1,ordering_based,8
+flooding_risk,Flooding Risk,2.13,ChatGPT 4.0,llm_simulated_expert,run_001,flooding_risk_pair_022,Extreme Rainfall,Flood Zone Maps,docx_llm_survey_v1,ordering_based,5
+flooding_risk,Flooding Risk,2.13,ChatGPT 4.0,llm_simulated_expert,run_001,flooding_risk_pair_023,Climate Change,Thames Hydrology,docx_llm_survey_v1,ordering_based,5
+flooding_risk,Flooding Risk,2.13,ChatGPT 4.0,llm_simulated_expert,run_001,flooding_risk_pair_024,Extreme Rainfall,Properties at Risk,docx_llm_survey_v1,ordering_based,8
+flooding_risk,Flooding Risk,2.13,ChatGPT 4.0,llm_simulated_expert,run_001,flooding_risk_pair_025,Climate Change,River Flows,docx_llm_survey_v1,ordering_based,6
+flooding_risk,Flooding Risk,2.13,ChatGPT 4.0,llm_simulated_expert,run_001,flooding_risk_pair_026,Thames Hydrology,River Flows,docx_llm_survey_v1,ordering_based,9
+flooding_risk,Flooding Risk,2.13,ChatGPT 4.0,llm_simulated_expert,run_001,flooding_risk_pair_027,Climate Change,Flood Zone Maps,docx_llm_survey_v1,ordering_based,3
+flooding_risk,Flooding Risk,2.13,ChatGPT 4.0,llm_simulated_expert,run_001,flooding_risk_pair_028,Thames Hydrology,Flood Zone Maps,docx_llm_survey_v1,ordering_based,6
+flooding_risk,Flooding Risk,2.13,ChatGPT 4.0,llm_simulated_expert,run_001,flooding_risk_pair_029,Climate Change,Properties at Risk,docx_llm_survey_v1,ordering_based,4
+flooding_risk,Flooding Risk,2.13,ChatGPT 4.0,llm_simulated_expert,run_001,flooding_risk_pair_030,Thames Hydrology,Properties at Risk,docx_llm_survey_v1,ordering_based,5
+flooding_risk,Flooding Risk,2.13,ChatGPT 4.0,llm_simulated_expert,run_001,flooding_risk_pair_031,Jet Stream,Warming,docx_llm_survey_v1,ordering_based,-6
+flooding_risk,Flooding Risk,2.13,ChatGPT 4.0,llm_simulated_expert,run_001,flooding_risk_pair_032,River Flows,Flood Zone Maps,docx_llm_survey_v1,ordering_based,7
+flooding_risk,Flooding Risk,2.13,ChatGPT 4.0,llm_simulated_expert,run_001,flooding_risk_pair_033,Jet Stream,Extreme Rainfall,docx_llm_survey_v1,ordering_based,8
+flooding_risk,Flooding Risk,2.13,ChatGPT 4.0,llm_simulated_expert,run_001,flooding_risk_pair_034,River Flows,Properties at Risk,docx_llm_survey_v1,ordering_based,9
+flooding_risk,Flooding Risk,2.13,ChatGPT 4.0,llm_simulated_expert,run_001,flooding_risk_pair_035,Jet Stream,Thames Hydrology,docx_llm_survey_v1,ordering_based,5
+flooding_risk,Flooding Risk,2.13,ChatGPT 4.0,llm_simulated_expert,run_001,flooding_risk_pair_036,Flood Zone Maps,Properties at Risk,docx_llm_survey_v1,ordering_based,6

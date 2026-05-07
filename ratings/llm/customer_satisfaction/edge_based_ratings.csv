@@ -1,0 +1,106 @@
+network,network_label,section_id,model,expert_type,run_id,pair_id,source,target,prompt_id,protocol,direction_label
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_001,Supplies,Equipment,docx_llm_survey_v1,edge_based,0
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_002,Solutions,Sales,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_003,Supplies,Training,docx_llm_survey_v1,edge_based,0
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_004,Solutions,Overall Satisfaction,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_005,Supplies,Portal,docx_llm_survey_v1,edge_based,0
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_006,Solutions,Best Supplier,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_007,Supplies,Solutions,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_008,Solutions,Country,docx_llm_survey_v1,edge_based,0
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_009,Supplies,Technical Support,docx_llm_survey_v1,edge_based,0
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_010,Solutions,Satisfaction from Improvement,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_011,Supplies,Admin and Support,docx_llm_survey_v1,edge_based,0
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_012,Solutions,Recommendation,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_013,Supplies,Terms and Conditions,docx_llm_survey_v1,edge_based,0
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_014,Solutions,Repurchasing,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_015,Supplies,Sales,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_016,Technical Support,Admin and Support,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_017,Supplies,Overall Satisfaction,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_018,Technical Support,Terms and Conditions,docx_llm_survey_v1,edge_based,0
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_019,Supplies,Best Supplier,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_020,Technical Support,Sales,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_021,Supplies,Country,docx_llm_survey_v1,edge_based,0
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_022,Technical Support,Overall Satisfaction,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_023,Supplies,Satisfaction from Improvement,docx_llm_survey_v1,edge_based,0
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_024,Technical Support,Best Supplier,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_025,Supplies,Recommendation,docx_llm_survey_v1,edge_based,0
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_026,Technical Support,Country,docx_llm_survey_v1,edge_based,0
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_027,Supplies,Repurchasing,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_028,Technical Support,Satisfaction from Improvement,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_029,Equipment,Training,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_030,Technical Support,Recommendation,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_031,Equipment,Portal,docx_llm_survey_v1,edge_based,0
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_032,Technical Support,Repurchasing,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_033,Equipment,Solutions,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_034,Admin and Support,Terms and Conditions,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_035,Equipment,Technical Support,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_036,Admin and Support,Sales,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_037,Equipment,Admin and Support,docx_llm_survey_v1,edge_based,0
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_038,Admin and Support,Overall Satisfaction,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_039,Equipment,Terms and Conditions,docx_llm_survey_v1,edge_based,0
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_040,Admin and Support,Best Supplier,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_041,Equipment,Sales,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_042,Admin and Support,Country,docx_llm_survey_v1,edge_based,0
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_043,Equipment,Overall Satisfaction,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_044,Admin and Support,Satisfaction from Improvement,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_045,Equipment,Best Supplier,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_046,Admin and Support,Recommendation,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_047,Equipment,Country,docx_llm_survey_v1,edge_based,0
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_048,Admin and Support,Repurchasing,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_049,Equipment,Satisfaction from Improvement,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_050,Terms and Conditions,Sales,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_051,Equipment,Recommendation,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_052,Terms and Conditions,Overall Satisfaction,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_053,Equipment,Repurchasing,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_054,Terms and Conditions,Best Supplier,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_055,Training,Portal,docx_llm_survey_v1,edge_based,0
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_056,Terms and Conditions,Country,docx_llm_survey_v1,edge_based,0
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_057,Training,Solutions,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_058,Terms and Conditions,Satisfaction from Improvement,docx_llm_survey_v1,edge_based,0
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_059,Training,Technical Support,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_060,Terms and Conditions,Recommendation,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_061,Training,Admin and Support,docx_llm_survey_v1,edge_based,0
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_062,Terms and Conditions,Repurchasing,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_063,Training,Terms and Conditions,docx_llm_survey_v1,edge_based,0
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_064,Sales,Overall Satisfaction,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_065,Training,Sales,docx_llm_survey_v1,edge_based,0
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_066,Sales,Best Supplier,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_067,Training,Overall Satisfaction,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_068,Sales,Country,docx_llm_survey_v1,edge_based,0
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_069,Training,Best Supplier,docx_llm_survey_v1,edge_based,0
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_070,Sales,Satisfaction from Improvement,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_071,Training,Country,docx_llm_survey_v1,edge_based,0
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_072,Sales,Recommendation,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_073,Training,Satisfaction from Improvement,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_074,Sales,Repurchasing,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_075,Training,Recommendation,docx_llm_survey_v1,edge_based,0
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_076,Overall Satisfaction,Best Supplier,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_077,Training,Repurchasing,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_078,Overall Satisfaction,Country,docx_llm_survey_v1,edge_based,0
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_079,Portal,Solutions,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_080,Overall Satisfaction,Satisfaction from Improvement,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_081,Portal,Technical Support,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_082,Overall Satisfaction,Recommendation,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_083,Portal,Admin and Support,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_084,Overall Satisfaction,Repurchasing,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_085,Portal,Terms and Conditions,docx_llm_survey_v1,edge_based,0
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_086,Best Supplier,Country,docx_llm_survey_v1,edge_based,0
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_087,Portal,Sales,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_088,Best Supplier,Satisfaction from Improvement,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_089,Portal,Overall Satisfaction,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_090,Best Supplier,Recommendation,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_091,Portal,Best Supplier,docx_llm_survey_v1,edge_based,0
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_092,Best Supplier,Repurchasing,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_093,Portal,Country,docx_llm_survey_v1,edge_based,0
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_094,Country,Satisfaction from Improvement,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_095,Portal,Satisfaction from Improvement,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_096,Country,Recommendation,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_097,Portal,Recommendation,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_098,Country,Repurchasing,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_099,Portal,Repurchasing,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_100,Satisfaction from Improvement,Recommendation,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_101,Solutions,Technical Support,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_102,Satisfaction from Improvement,Repurchasing,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_103,Solutions,Admin and Support,docx_llm_survey_v1,edge_based,0
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_104,Recommendation,Repurchasing,docx_llm_survey_v1,edge_based,1
+customer_satisfaction,Customer Satisfaction,2.9,ChatGPT 4.0,llm_simulated_expert,run_001,customer_satisfaction_pair_105,Solutions,Terms and Conditions,docx_llm_survey_v1,edge_based,0

@@ -1,0 +1,11 @@
+network,network_label,section_id,model,expert_type,run_id,pair_id,source,target,prompt_id,protocol,raw_score
+earthquake_risk,Earthquake Risk,2.14,ChatGPT 4.0,llm_simulated_expert,run_001,earthquake_risk_pair_001,Earthquake,Liquefaction,docx_llm_survey_v1,ordering_based,8
+earthquake_risk,Earthquake Risk,2.14,ChatGPT 4.0,llm_simulated_expert,run_001,earthquake_risk_pair_002,Liquefaction,Building Damage,docx_llm_survey_v1,ordering_based,8
+earthquake_risk,Earthquake Risk,2.14,ChatGPT 4.0,llm_simulated_expert,run_001,earthquake_risk_pair_003,Earthquake,Landslide,docx_llm_survey_v1,ordering_based,8
+earthquake_risk,Earthquake Risk,2.14,ChatGPT 4.0,llm_simulated_expert,run_001,earthquake_risk_pair_004,Liquefaction,Remote Sensing Observation,docx_llm_survey_v1,ordering_based,6
+earthquake_risk,Earthquake Risk,2.14,ChatGPT 4.0,llm_simulated_expert,run_001,earthquake_risk_pair_005,Earthquake,Building Damage,docx_llm_survey_v1,ordering_based,9
+earthquake_risk,Earthquake Risk,2.14,ChatGPT 4.0,llm_simulated_expert,run_001,earthquake_risk_pair_006,Landslide,Building Damage,docx_llm_survey_v1,ordering_based,8
+earthquake_risk,Earthquake Risk,2.14,ChatGPT 4.0,llm_simulated_expert,run_001,earthquake_risk_pair_007,Earthquake,Remote Sensing Observation,docx_llm_survey_v1,ordering_based,8
+earthquake_risk,Earthquake Risk,2.14,ChatGPT 4.0,llm_simulated_expert,run_001,earthquake_risk_pair_008,Landslide,Remote Sensing Observation,docx_llm_survey_v1,ordering_based,7
+earthquake_risk,Earthquake Risk,2.14,ChatGPT 4.0,llm_simulated_expert,run_001,earthquake_risk_pair_009,Liquefaction,Landslide,docx_llm_survey_v1,ordering_based,6
+earthquake_risk,Earthquake Risk,2.14,ChatGPT 4.0,llm_simulated_expert,run_001,earthquake_risk_pair_010,Building Damage,Remote Sensing Observation,docx_llm_survey_v1,ordering_based,8

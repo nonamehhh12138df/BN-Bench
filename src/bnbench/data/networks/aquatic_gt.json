@@ -1,0 +1,15 @@
+[
+  ["Water Temperature", "Sediment Oxygen Demand", "Frequency of Hypoxia", "Frequency of Fish Kills"],
+  ["Water Temperature", "Sediment Oxygen Demand", "Frequency of Hypoxia", "Fish Population Health"],
+  ["Water Temperature", "Sediment Oxygen Demand", "Frequency of Hypoxia", "Shellfish Abundance", "Fish Population Health"],
+
+  ["Frequency of Mixing Events", "Frequency of Hypoxia", "Frequency of Fish Kills"],
+  ["Frequency of Mixing Events", "Frequency of Hypoxia", "Fish Population Health"],
+  ["Frequency of Mixing Events", "Frequency of Hypoxia", "Shellfish Abundance", "Fish Population Health"],
+
+  ["Algal Productivity", "Sediment Oxygen Demand", "Frequency of Hypoxia", "Frequency of Fish Kills"],
+  ["Algal Productivity", "Sediment Oxygen Demand", "Frequency of Hypoxia", "Fish Population Health"],
+  ["Algal Productivity", "Sediment Oxygen Demand", "Frequency of Hypoxia", "Shellfish Abundance", "Fish Population Health"],
+  ["Algal Productivity", "Pfiesteria Presence", "Fish Population Health"],
+  ["Algal Productivity", "Pfiesteria Presence", "Human Health Effects"]
+]

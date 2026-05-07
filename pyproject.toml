@@ -1,0 +1,42 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bnbench"
+version = "0.1.0"
+description = "Expert-elicited and benchmark Bayesian network data for Python."
+readme = "README.md"
+requires-python = ">=3.9"
+license = "MIT"
+authors = [
+  { name = "Anonymous Authors" }
+]
+keywords = ["bayesian-networks", "causal-discovery", "benchmark", "datasets"]
+classifiers = [
+  "Development Status :: 3 - Alpha",
+  "Intended Audience :: Science/Research",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3 :: Only",
+  "Topic :: Scientific/Engineering :: Artificial Intelligence"
+]
+dependencies = []
+
+[project.optional-dependencies]
+networkx = ["networkx>=3.0"]
+pandas = ["pandas>=2.0"]
+dev = ["pytest>=8.0", "build>=1.0", "twine>=5.0"]
+
+[project.urls]
+Homepage = "https://github.com/anonymous-bnbench/bnbench"
+Repository = "https://github.com/anonymous-bnbench/bnbench"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+bnbench = ["data/networks/*.json"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]

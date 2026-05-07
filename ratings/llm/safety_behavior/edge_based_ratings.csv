@@ -1,0 +1,46 @@
+network,network_label,section_id,model,expert_type,run_id,pair_id,source,target,prompt_id,protocol,direction_label
+safety_behavior,Safety Behavior,2.7,ChatGPT 4.0,llm_simulated_expert,run_001,safety_behavior_pair_001,Management Commitment,Resource Allocation,docx_llm_survey_v1,edge_based,1
+safety_behavior,Safety Behavior,2.7,ChatGPT 4.0,llm_simulated_expert,run_001,safety_behavior_pair_002,Safety Management System,Safety Behavior,docx_llm_survey_v1,edge_based,1
+safety_behavior,Safety Behavior,2.7,ChatGPT 4.0,llm_simulated_expert,run_001,safety_behavior_pair_003,Management Commitment,Safety Management System,docx_llm_survey_v1,edge_based,1
+safety_behavior,Safety Behavior,2.7,ChatGPT 4.0,llm_simulated_expert,run_001,safety_behavior_pair_004,Supporting Environment,Employee Participation,docx_llm_survey_v1,edge_based,1
+safety_behavior,Safety Behavior,2.7,ChatGPT 4.0,llm_simulated_expert,run_001,safety_behavior_pair_005,Management Commitment,Supporting Environment,docx_llm_survey_v1,edge_based,1
+safety_behavior,Safety Behavior,2.7,ChatGPT 4.0,llm_simulated_expert,run_001,safety_behavior_pair_006,Supporting Environment,Safety Knowledge,docx_llm_survey_v1,edge_based,1
+safety_behavior,Safety Behavior,2.7,ChatGPT 4.0,llm_simulated_expert,run_001,safety_behavior_pair_007,Management Commitment,Employee Participation,docx_llm_survey_v1,edge_based,1
+safety_behavior,Safety Behavior,2.7,ChatGPT 4.0,llm_simulated_expert,run_001,safety_behavior_pair_008,Supporting Environment,Safety Attitude,docx_llm_survey_v1,edge_based,1
+safety_behavior,Safety Behavior,2.7,ChatGPT 4.0,llm_simulated_expert,run_001,safety_behavior_pair_009,Management Commitment,Safety Knowledge,docx_llm_survey_v1,edge_based,0
+safety_behavior,Safety Behavior,2.7,ChatGPT 4.0,llm_simulated_expert,run_001,safety_behavior_pair_010,Supporting Environment,Motivation,docx_llm_survey_v1,edge_based,1
+safety_behavior,Safety Behavior,2.7,ChatGPT 4.0,llm_simulated_expert,run_001,safety_behavior_pair_011,Management Commitment,Safety Attitude,docx_llm_survey_v1,edge_based,1
+safety_behavior,Safety Behavior,2.7,ChatGPT 4.0,llm_simulated_expert,run_001,safety_behavior_pair_012,Supporting Environment,Work Pressure,docx_llm_survey_v1,edge_based,1
+safety_behavior,Safety Behavior,2.7,ChatGPT 4.0,llm_simulated_expert,run_001,safety_behavior_pair_013,Management Commitment,Motivation,docx_llm_survey_v1,edge_based,1
+safety_behavior,Safety Behavior,2.7,ChatGPT 4.0,llm_simulated_expert,run_001,safety_behavior_pair_014,Supporting Environment,Safety Behavior,docx_llm_survey_v1,edge_based,1
+safety_behavior,Safety Behavior,2.7,ChatGPT 4.0,llm_simulated_expert,run_001,safety_behavior_pair_015,Management Commitment,Work Pressure,docx_llm_survey_v1,edge_based,1
+safety_behavior,Safety Behavior,2.7,ChatGPT 4.0,llm_simulated_expert,run_001,safety_behavior_pair_016,Employee Participation,Safety Knowledge,docx_llm_survey_v1,edge_based,1
+safety_behavior,Safety Behavior,2.7,ChatGPT 4.0,llm_simulated_expert,run_001,safety_behavior_pair_017,Management Commitment,Safety Behavior,docx_llm_survey_v1,edge_based,0
+safety_behavior,Safety Behavior,2.7,ChatGPT 4.0,llm_simulated_expert,run_001,safety_behavior_pair_018,Employee Participation,Safety Attitude,docx_llm_survey_v1,edge_based,1
+safety_behavior,Safety Behavior,2.7,ChatGPT 4.0,llm_simulated_expert,run_001,safety_behavior_pair_019,Resource Allocation,Safety Management System,docx_llm_survey_v1,edge_based,1
+safety_behavior,Safety Behavior,2.7,ChatGPT 4.0,llm_simulated_expert,run_001,safety_behavior_pair_020,Employee Participation,Motivation,docx_llm_survey_v1,edge_based,1
+safety_behavior,Safety Behavior,2.7,ChatGPT 4.0,llm_simulated_expert,run_001,safety_behavior_pair_021,Resource Allocation,Supporting Environment,docx_llm_survey_v1,edge_based,1
+safety_behavior,Safety Behavior,2.7,ChatGPT 4.0,llm_simulated_expert,run_001,safety_behavior_pair_022,Employee Participation,Work Pressure,docx_llm_survey_v1,edge_based,0
+safety_behavior,Safety Behavior,2.7,ChatGPT 4.0,llm_simulated_expert,run_001,safety_behavior_pair_023,Resource Allocation,Employee Participation,docx_llm_survey_v1,edge_based,1
+safety_behavior,Safety Behavior,2.7,ChatGPT 4.0,llm_simulated_expert,run_001,safety_behavior_pair_024,Employee Participation,Safety Behavior,docx_llm_survey_v1,edge_based,1
+safety_behavior,Safety Behavior,2.7,ChatGPT 4.0,llm_simulated_expert,run_001,safety_behavior_pair_025,Resource Allocation,Safety Knowledge,docx_llm_survey_v1,edge_based,1
+safety_behavior,Safety Behavior,2.7,ChatGPT 4.0,llm_simulated_expert,run_001,safety_behavior_pair_026,Safety Knowledge,Safety Attitude,docx_llm_survey_v1,edge_based,1
+safety_behavior,Safety Behavior,2.7,ChatGPT 4.0,llm_simulated_expert,run_001,safety_behavior_pair_027,Resource Allocation,Safety Attitude,docx_llm_survey_v1,edge_based,0
+safety_behavior,Safety Behavior,2.7,ChatGPT 4.0,llm_simulated_expert,run_001,safety_behavior_pair_028,Safety Knowledge,Motivation,docx_llm_survey_v1,edge_based,1
+safety_behavior,Safety Behavior,2.7,ChatGPT 4.0,llm_simulated_expert,run_001,safety_behavior_pair_029,Resource Allocation,Motivation,docx_llm_survey_v1,edge_based,1
+safety_behavior,Safety Behavior,2.7,ChatGPT 4.0,llm_simulated_expert,run_001,safety_behavior_pair_030,Safety Knowledge,Work Pressure,docx_llm_survey_v1,edge_based,0
+safety_behavior,Safety Behavior,2.7,ChatGPT 4.0,llm_simulated_expert,run_001,safety_behavior_pair_031,Resource Allocation,Work Pressure,docx_llm_survey_v1,edge_based,1
+safety_behavior,Safety Behavior,2.7,ChatGPT 4.0,llm_simulated_expert,run_001,safety_behavior_pair_032,Safety Knowledge,Safety Behavior,docx_llm_survey_v1,edge_based,1
+safety_behavior,Safety Behavior,2.7,ChatGPT 4.0,llm_simulated_expert,run_001,safety_behavior_pair_033,Resource Allocation,Safety Behavior,docx_llm_survey_v1,edge_based,1
+safety_behavior,Safety Behavior,2.7,ChatGPT 4.0,llm_simulated_expert,run_001,safety_behavior_pair_034,Safety Attitude,Motivation,docx_llm_survey_v1,edge_based,1
+safety_behavior,Safety Behavior,2.7,ChatGPT 4.0,llm_simulated_expert,run_001,safety_behavior_pair_035,Safety Management System,Supporting Environment,docx_llm_survey_v1,edge_based,1
+safety_behavior,Safety Behavior,2.7,ChatGPT 4.0,llm_simulated_expert,run_001,safety_behavior_pair_036,Safety Attitude,Work Pressure,docx_llm_survey_v1,edge_based,0
+safety_behavior,Safety Behavior,2.7,ChatGPT 4.0,llm_simulated_expert,run_001,safety_behavior_pair_037,Safety Management System,Employee Participation,docx_llm_survey_v1,edge_based,1
+safety_behavior,Safety Behavior,2.7,ChatGPT 4.0,llm_simulated_expert,run_001,safety_behavior_pair_038,Safety Attitude,Safety Behavior,docx_llm_survey_v1,edge_based,1
+safety_behavior,Safety Behavior,2.7,ChatGPT 4.0,llm_simulated_expert,run_001,safety_behavior_pair_039,Safety Management System,Safety Knowledge,docx_llm_survey_v1,edge_based,1
+safety_behavior,Safety Behavior,2.7,ChatGPT 4.0,llm_simulated_expert,run_001,safety_behavior_pair_040,Motivation,Work Pressure,docx_llm_survey_v1,edge_based,0
+safety_behavior,Safety Behavior,2.7,ChatGPT 4.0,llm_simulated_expert,run_001,safety_behavior_pair_041,Safety Management System,Safety Attitude,docx_llm_survey_v1,edge_based,0
+safety_behavior,Safety Behavior,2.7,ChatGPT 4.0,llm_simulated_expert,run_001,safety_behavior_pair_042,Motivation,Safety Behavior,docx_llm_survey_v1,edge_based,1
+safety_behavior,Safety Behavior,2.7,ChatGPT 4.0,llm_simulated_expert,run_001,safety_behavior_pair_043,Safety Management System,Motivation,docx_llm_survey_v1,edge_based,0
+safety_behavior,Safety Behavior,2.7,ChatGPT 4.0,llm_simulated_expert,run_001,safety_behavior_pair_044,Work Pressure,Safety Behavior,docx_llm_survey_v1,edge_based,1
+safety_behavior,Safety Behavior,2.7,ChatGPT 4.0,llm_simulated_expert,run_001,safety_behavior_pair_045,Safety Management System,Work Pressure,docx_llm_survey_v1,edge_based,0

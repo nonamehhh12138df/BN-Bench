@@ -1,0 +1,6 @@
+[
+  ["Difficulty", "Grade"],
+  ["Grade", "Letter"],
+  ["IQ", "Grade"],
+  ["IQ", "SAT"]
+]

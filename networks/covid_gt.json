@@ -1,0 +1,38 @@
+[
+  ["Virus enters URT", "URT epithelial infection", "Infection of olfactory epithelium", "Anosmia and/or ageusia"],
+  ["Virus enters URT", "URT epithelial infection", "Viremia", "Systemic immune/inflam. response", "Pul. capillary leakage", "Dry cough"],
+  ["Virus enters URT", "URT epithelial infection", "Viremia", "Systemic immune/inflam. response", "Pul. capillary leakage", "Productive cough"],
+  ["Virus enters URT", "URT epithelial infection", "Systemic immune/inflam. response", "Pul. capillary leakage", "Dry cough"],
+  ["Virus enters URT", "URT epithelial infection", "Systemic immune/inflam. response", "Pul. capillary leakage", "Productive cough"],
+  ["Virus enters URT", "URT epithelial infection", "Dry cough"],
+  
+  ["Virus enters URT", "URT epithelial infection", "Alveolar epithelial infection", "Alveolar endothelial infection", "Viremia", "Systemic immune/inflam. response", "Pul. capillary leakage", "Dry cough"],
+  ["Virus enters URT", "URT epithelial infection", "Alveolar epithelial infection", "Alveolar endothelial infection", "Viremia", "Systemic immune/inflam. response", "Pul. capillary leakage", "Productive cough"],
+  ["Virus enters URT", "URT epithelial infection", "Alveolar epithelial infection", "Alveolar endothelial infection", "Systemic immune/inflam. response", "Pul. capillary leakage", "Dry cough"],
+  ["Virus enters URT", "URT epithelial infection", "Alveolar epithelial infection", "Alveolar endothelial infection", "Systemic immune/inflam. response", "Pul. capillary leakage", "Productive cough"],
+  ["Virus enters URT", "URT epithelial infection", "Alveolar epithelial infection", "Alveolar endothelial infection", "Pul. capillary leakage", "Productive cough"],
+  ["Virus enters URT", "URT epithelial infection", "Alveolar epithelial infection", "Alveolar endothelial infection", "Pul. capillary leakage", "Productive cough"],
+
+  ["Virus enters URT", "URT epithelial infection", "Alveolar epithelial infection", "Viremia", "Systemic immune/inflam. response", "Pul. capillary leakage", "Dry cough"],
+  ["Virus enters URT", "URT epithelial infection", "Alveolar epithelial infection", "Viremia", "Systemic immune/inflam. response", "Pul. capillary leakage", "Productive cough"],
+  ["Virus enters URT", "URT epithelial infection", "Alveolar epithelial infection", "Systemic immune/inflam. response", "Pul. capillary leakage", "Dry cough"],
+  ["Virus enters URT", "URT epithelial infection", "Alveolar epithelial infection", "Systemic immune/inflam. response", "Pul. capillary leakage", "Productive cough"],
+  ["Virus enters URT", "URT epithelial infection", "Alveolar epithelial infection", "Pul. capillary leakage", "Dry cough"],
+  ["Virus enters URT", "URT epithelial infection", "Alveolar epithelial infection", "Pul. capillary leakage", "Productive cough"],
+  ["Virus enters URT", "URT epithelial infection", "Alveolar epithelial infection", "Productive cough"],
+
+  ["Virus enters URT", "Alveolar epithelial infection", "Alveolar endothelial infection", "Viremia", "Systemic immune/inflam. response", "Pul. capillary leakage", "Dry cough"],
+  ["Virus enters URT", "Alveolar epithelial infection", "Alveolar endothelial infection", "Viremia", "Systemic immune/inflam. response", "Pul. capillary leakage", "Productive cough"],
+  ["Virus enters URT", "Alveolar epithelial infection", "Alveolar endothelial infection", "Systemic immune/inflam. response", "Pul. capillary leakage", "Dry cough"],
+  ["Virus enters URT", "Alveolar epithelial infection", "Alveolar endothelial infection", "Systemic immune/inflam. response", "Pul. capillary leakage", "Productive cough"],
+  ["Virus enters URT", "Alveolar epithelial infection", "Alveolar endothelial infection", "Pul. capillary leakage", "Productive cough"],
+  ["Virus enters URT", "Alveolar epithelial infection", "Alveolar endothelial infection", "Pul. capillary leakage", "Productive cough"],
+
+  ["Virus enters URT", "Alveolar epithelial infection", "Viremia", "Systemic immune/inflam. response", "Pul. capillary leakage", "Dry cough"],
+  ["Virus enters URT", "Alveolar epithelial infection", "Viremia", "Systemic immune/inflam. response", "Pul. capillary leakage", "Productive cough"],
+  ["Virus enters URT", "Alveolar epithelial infection", "Systemic immune/inflam. response", "Pul. capillary leakage", "Dry cough"],
+  ["Virus enters URT", "Alveolar epithelial infection", "Systemic immune/inflam. response", "Pul. capillary leakage", "Productive cough"],
+  ["Virus enters URT", "Alveolar epithelial infection", "Pul. capillary leakage", "Dry cough"],
+  ["Virus enters URT", "Alveolar epithelial infection", "Pul. capillary leakage", "Productive cough"],
+  ["Virus enters URT", "Alveolar epithelial infection", "Productive cough"]
+]

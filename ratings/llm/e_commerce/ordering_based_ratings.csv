@@ -1,0 +1,46 @@
+network,network_label,section_id,model,expert_type,run_id,pair_id,source,target,prompt_id,protocol,raw_score
+e_commerce,E-commerce,2.16,ChatGPT 4.0,llm_simulated_expert,run_001,e_commerce_pair_001,Ease of Navigation,Web Look and Feel,docx_llm_survey_v1,ordering_based,-3
+e_commerce,E-commerce,2.16,ChatGPT 4.0,llm_simulated_expert,run_001,e_commerce_pair_002,Online Help Information,Customer Satisfaction,docx_llm_survey_v1,ordering_based,5
+e_commerce,E-commerce,2.16,ChatGPT 4.0,llm_simulated_expert,run_001,e_commerce_pair_003,Ease of Navigation,Online Help Information,docx_llm_survey_v1,ordering_based,2
+e_commerce,E-commerce,2.16,ChatGPT 4.0,llm_simulated_expert,run_001,e_commerce_pair_004,Ease of Checkout,Quality of Web Design,docx_llm_survey_v1,ordering_based,-6
+e_commerce,E-commerce,2.16,ChatGPT 4.0,llm_simulated_expert,run_001,e_commerce_pair_005,Ease of Navigation,Ease of Checkout,docx_llm_survey_v1,ordering_based,5
+e_commerce,E-commerce,2.16,ChatGPT 4.0,llm_simulated_expert,run_001,e_commerce_pair_006,Ease of Checkout,Accuracy of Shipment,docx_llm_survey_v1,ordering_based,5
+e_commerce,E-commerce,2.16,ChatGPT 4.0,llm_simulated_expert,run_001,e_commerce_pair_007,Ease of Navigation,Quality of Web Design,docx_llm_survey_v1,ordering_based,-7
+e_commerce,E-commerce,2.16,ChatGPT 4.0,llm_simulated_expert,run_001,e_commerce_pair_008,Ease of Checkout,Timeliness of Delivery,docx_llm_survey_v1,ordering_based,3
+e_commerce,E-commerce,2.16,ChatGPT 4.0,llm_simulated_expert,run_001,e_commerce_pair_009,Ease of Navigation,Accuracy of Shipment,docx_llm_survey_v1,ordering_based,0
+e_commerce,E-commerce,2.16,ChatGPT 4.0,llm_simulated_expert,run_001,e_commerce_pair_010,Ease of Checkout,Quality of Packaging,docx_llm_survey_v1,ordering_based,1
+e_commerce,E-commerce,2.16,ChatGPT 4.0,llm_simulated_expert,run_001,e_commerce_pair_011,Ease of Navigation,Timeliness of Delivery,docx_llm_survey_v1,ordering_based,0
+e_commerce,E-commerce,2.16,ChatGPT 4.0,llm_simulated_expert,run_001,e_commerce_pair_012,Ease of Checkout,Efficiency of Product Delivery,docx_llm_survey_v1,ordering_based,4
+e_commerce,E-commerce,2.16,ChatGPT 4.0,llm_simulated_expert,run_001,e_commerce_pair_013,Ease of Navigation,Quality of Packaging,docx_llm_survey_v1,ordering_based,0
+e_commerce,E-commerce,2.16,ChatGPT 4.0,llm_simulated_expert,run_001,e_commerce_pair_014,Ease of Checkout,Customer Satisfaction,docx_llm_survey_v1,ordering_based,8
+e_commerce,E-commerce,2.16,ChatGPT 4.0,llm_simulated_expert,run_001,e_commerce_pair_015,Ease of Navigation,Efficiency of Product Delivery,docx_llm_survey_v1,ordering_based,0
+e_commerce,E-commerce,2.16,ChatGPT 4.0,llm_simulated_expert,run_001,e_commerce_pair_016,Quality of Web Design,Accuracy of Shipment,docx_llm_survey_v1,ordering_based,5
+e_commerce,E-commerce,2.16,ChatGPT 4.0,llm_simulated_expert,run_001,e_commerce_pair_017,Ease of Navigation,Customer Satisfaction,docx_llm_survey_v1,ordering_based,7
+e_commerce,E-commerce,2.16,ChatGPT 4.0,llm_simulated_expert,run_001,e_commerce_pair_018,Quality of Web Design,Timeliness of Delivery,docx_llm_survey_v1,ordering_based,4
+e_commerce,E-commerce,2.16,ChatGPT 4.0,llm_simulated_expert,run_001,e_commerce_pair_019,Web Look and Feel,Online Help Information,docx_llm_survey_v1,ordering_based,2
+e_commerce,E-commerce,2.16,ChatGPT 4.0,llm_simulated_expert,run_001,e_commerce_pair_020,Quality of Web Design,Quality of Packaging,docx_llm_survey_v1,ordering_based,1
+e_commerce,E-commerce,2.16,ChatGPT 4.0,llm_simulated_expert,run_001,e_commerce_pair_021,Web Look and Feel,Ease of Checkout,docx_llm_survey_v1,ordering_based,2
+e_commerce,E-commerce,2.16,ChatGPT 4.0,llm_simulated_expert,run_001,e_commerce_pair_022,Quality of Web Design,Efficiency of Product Delivery,docx_llm_survey_v1,ordering_based,5
+e_commerce,E-commerce,2.16,ChatGPT 4.0,llm_simulated_expert,run_001,e_commerce_pair_023,Web Look and Feel,Quality of Web Design,docx_llm_survey_v1,ordering_based,-7
+e_commerce,E-commerce,2.16,ChatGPT 4.0,llm_simulated_expert,run_001,e_commerce_pair_024,Quality of Web Design,Customer Satisfaction,docx_llm_survey_v1,ordering_based,8
+e_commerce,E-commerce,2.16,ChatGPT 4.0,llm_simulated_expert,run_001,e_commerce_pair_025,Web Look and Feel,Accuracy of Shipment,docx_llm_survey_v1,ordering_based,0
+e_commerce,E-commerce,2.16,ChatGPT 4.0,llm_simulated_expert,run_001,e_commerce_pair_026,Accuracy of Shipment,Timeliness of Delivery,docx_llm_survey_v1,ordering_based,4
+e_commerce,E-commerce,2.16,ChatGPT 4.0,llm_simulated_expert,run_001,e_commerce_pair_027,Web Look and Feel,Timeliness of Delivery,docx_llm_survey_v1,ordering_based,0
+e_commerce,E-commerce,2.16,ChatGPT 4.0,llm_simulated_expert,run_001,e_commerce_pair_028,Accuracy of Shipment,Quality of Packaging,docx_llm_survey_v1,ordering_based,1
+e_commerce,E-commerce,2.16,ChatGPT 4.0,llm_simulated_expert,run_001,e_commerce_pair_029,Web Look and Feel,Quality of Packaging,docx_llm_survey_v1,ordering_based,0
+e_commerce,E-commerce,2.16,ChatGPT 4.0,llm_simulated_expert,run_001,e_commerce_pair_030,Accuracy of Shipment,Efficiency of Product Delivery,docx_llm_survey_v1,ordering_based,7
+e_commerce,E-commerce,2.16,ChatGPT 4.0,llm_simulated_expert,run_001,e_commerce_pair_031,Web Look and Feel,Efficiency of Product Delivery,docx_llm_survey_v1,ordering_based,0
+e_commerce,E-commerce,2.16,ChatGPT 4.0,llm_simulated_expert,run_001,e_commerce_pair_032,Accuracy of Shipment,Customer Satisfaction,docx_llm_survey_v1,ordering_based,9
+e_commerce,E-commerce,2.16,ChatGPT 4.0,llm_simulated_expert,run_001,e_commerce_pair_033,Web Look and Feel,Customer Satisfaction,docx_llm_survey_v1,ordering_based,5
+e_commerce,E-commerce,2.16,ChatGPT 4.0,llm_simulated_expert,run_001,e_commerce_pair_034,Timeliness of Delivery,Quality of Packaging,docx_llm_survey_v1,ordering_based,-2
+e_commerce,E-commerce,2.16,ChatGPT 4.0,llm_simulated_expert,run_001,e_commerce_pair_035,Online Help Information,Ease of Checkout,docx_llm_survey_v1,ordering_based,4
+e_commerce,E-commerce,2.16,ChatGPT 4.0,llm_simulated_expert,run_001,e_commerce_pair_036,Timeliness of Delivery,Efficiency of Product Delivery,docx_llm_survey_v1,ordering_based,-7
+e_commerce,E-commerce,2.16,ChatGPT 4.0,llm_simulated_expert,run_001,e_commerce_pair_037,Online Help Information,Quality of Web Design,docx_llm_survey_v1,ordering_based,-5
+e_commerce,E-commerce,2.16,ChatGPT 4.0,llm_simulated_expert,run_001,e_commerce_pair_038,Timeliness of Delivery,Customer Satisfaction,docx_llm_survey_v1,ordering_based,9
+e_commerce,E-commerce,2.16,ChatGPT 4.0,llm_simulated_expert,run_001,e_commerce_pair_039,Online Help Information,Accuracy of Shipment,docx_llm_survey_v1,ordering_based,2
+e_commerce,E-commerce,2.16,ChatGPT 4.0,llm_simulated_expert,run_001,e_commerce_pair_040,Quality of Packaging,Efficiency of Product Delivery,docx_llm_survey_v1,ordering_based,5
+e_commerce,E-commerce,2.16,ChatGPT 4.0,llm_simulated_expert,run_001,e_commerce_pair_041,Online Help Information,Timeliness of Delivery,docx_llm_survey_v1,ordering_based,1
+e_commerce,E-commerce,2.16,ChatGPT 4.0,llm_simulated_expert,run_001,e_commerce_pair_042,Quality of Packaging,Customer Satisfaction,docx_llm_survey_v1,ordering_based,6
+e_commerce,E-commerce,2.16,ChatGPT 4.0,llm_simulated_expert,run_001,e_commerce_pair_043,Online Help Information,Quality of Packaging,docx_llm_survey_v1,ordering_based,0
+e_commerce,E-commerce,2.16,ChatGPT 4.0,llm_simulated_expert,run_001,e_commerce_pair_044,Efficiency of Product Delivery,Customer Satisfaction,docx_llm_survey_v1,ordering_based,9
+e_commerce,E-commerce,2.16,ChatGPT 4.0,llm_simulated_expert,run_001,e_commerce_pair_045,Online Help Information,Efficiency of Product Delivery,docx_llm_survey_v1,ordering_based,1

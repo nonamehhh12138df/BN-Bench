@@ -1,0 +1,20 @@
+{
+  "network": "hip_fracture",
+  "network_label": "Hip Fracture",
+  "rating_files": {
+    "ordering_based": "ordering_based_ratings.csv"
+  },
+  "rating_scales": {
+    "ordering_based": {
+      "column": "raw_score",
+      "description": "human ordering-based causal rating, typically in [-10, 10]"
+    }
+  },
+  "num_participants": 20,
+  "num_pairs": {
+    "ordering_based": 25
+  },
+  "num_ratings": {
+    "ordering_based": 500
+  }
+}

@@ -1,0 +1,56 @@
+network,network_label,section_id,model,expert_type,run_id,pair_id,source,target,prompt_id,protocol,raw_score
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_001,Natural Variability,Climate Change,docx_llm_survey_v1,ordering_based,-7
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_002,Open Water Season,Tide,docx_llm_survey_v1,ordering_based,0
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_003,Natural Variability,Arctic Storms,docx_llm_survey_v1,ordering_based,5
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_004,Open Water Season,Sea Level,docx_llm_survey_v1,ordering_based,2
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_005,Natural Variability,Open Water Season,docx_llm_survey_v1,ordering_based,4
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_006,Open Water Season,Saltwater Inundation,docx_llm_survey_v1,ordering_based,6
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_007,Natural Variability,Storm Surge,docx_llm_survey_v1,ordering_based,3
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_008,Open Water Season,Coastal Retreat,docx_llm_survey_v1,ordering_based,5
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_009,Natural Variability,Tide,docx_llm_survey_v1,ordering_based,0
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_010,Open Water Season,Nature of Ecosystem,docx_llm_survey_v1,ordering_based,4
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_011,Natural Variability,Sea Level,docx_llm_survey_v1,ordering_based,3
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_012,Open Water Season,Ecosystem Damage,docx_llm_survey_v1,ordering_based,6
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_013,Natural Variability,Saltwater Inundation,docx_llm_survey_v1,ordering_based,3
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_014,Storm Surge,Tide,docx_llm_survey_v1,ordering_based,0
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_015,Natural Variability,Coastal Retreat,docx_llm_survey_v1,ordering_based,2
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_016,Storm Surge,Sea Level,docx_llm_survey_v1,ordering_based,0
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_017,Natural Variability,Nature of Ecosystem,docx_llm_survey_v1,ordering_based,2
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_018,Storm Surge,Saltwater Inundation,docx_llm_survey_v1,ordering_based,9
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_019,Natural Variability,Ecosystem Damage,docx_llm_survey_v1,ordering_based,3
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_020,Storm Surge,Coastal Retreat,docx_llm_survey_v1,ordering_based,7
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_021,Climate Change,Arctic Storms,docx_llm_survey_v1,ordering_based,5
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_022,Storm Surge,Nature of Ecosystem,docx_llm_survey_v1,ordering_based,5
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_023,Climate Change,Open Water Season,docx_llm_survey_v1,ordering_based,9
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_024,Storm Surge,Ecosystem Damage,docx_llm_survey_v1,ordering_based,8
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_025,Climate Change,Storm Surge,docx_llm_survey_v1,ordering_based,5
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_026,Tide,Sea Level,docx_llm_survey_v1,ordering_based,0
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_027,Climate Change,Tide,docx_llm_survey_v1,ordering_based,0
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_028,Tide,Saltwater Inundation,docx_llm_survey_v1,ordering_based,6
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_029,Climate Change,Sea Level,docx_llm_survey_v1,ordering_based,10
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_030,Tide,Coastal Retreat,docx_llm_survey_v1,ordering_based,4
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_031,Climate Change,Saltwater Inundation,docx_llm_survey_v1,ordering_based,9
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_032,Tide,Nature of Ecosystem,docx_llm_survey_v1,ordering_based,4
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_033,Climate Change,Coastal Retreat,docx_llm_survey_v1,ordering_based,8
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_034,Tide,Ecosystem Damage,docx_llm_survey_v1,ordering_based,5
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_035,Climate Change,Nature of Ecosystem,docx_llm_survey_v1,ordering_based,6
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_036,Sea Level,Saltwater Inundation,docx_llm_survey_v1,ordering_based,9
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_037,Climate Change,Ecosystem Damage,docx_llm_survey_v1,ordering_based,9
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_038,Sea Level,Coastal Retreat,docx_llm_survey_v1,ordering_based,8
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_039,Arctic Storms,Open Water Season,docx_llm_survey_v1,ordering_based,4
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_040,Sea Level,Nature of Ecosystem,docx_llm_survey_v1,ordering_based,6
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_041,Arctic Storms,Storm Surge,docx_llm_survey_v1,ordering_based,9
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_042,Sea Level,Ecosystem Damage,docx_llm_survey_v1,ordering_based,8
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_043,Arctic Storms,Tide,docx_llm_survey_v1,ordering_based,0
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_044,Saltwater Inundation,Coastal Retreat,docx_llm_survey_v1,ordering_based,5
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_045,Arctic Storms,Sea Level,docx_llm_survey_v1,ordering_based,3
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_046,Saltwater Inundation,Nature of Ecosystem,docx_llm_survey_v1,ordering_based,7
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_047,Arctic Storms,Saltwater Inundation,docx_llm_survey_v1,ordering_based,9
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_048,Saltwater Inundation,Ecosystem Damage,docx_llm_survey_v1,ordering_based,9
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_049,Arctic Storms,Coastal Retreat,docx_llm_survey_v1,ordering_based,7
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_050,Coastal Retreat,Nature of Ecosystem,docx_llm_survey_v1,ordering_based,6
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_051,Arctic Storms,Nature of Ecosystem,docx_llm_survey_v1,ordering_based,4
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_052,Coastal Retreat,Ecosystem Damage,docx_llm_survey_v1,ordering_based,8
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_053,Arctic Storms,Ecosystem Damage,docx_llm_survey_v1,ordering_based,8
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_054,Nature of Ecosystem,Ecosystem Damage,docx_llm_survey_v1,ordering_based,7
+storm_risk,Storm Risk,2.15,ChatGPT 4.0,llm_simulated_expert,run_001,storm_risk_pair_055,Open Water Season,Storm Surge,docx_llm_survey_v1,ordering_based,5

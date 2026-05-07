@@ -1,0 +1,83 @@
+[
+  ["Age", "SocioEcon", "Anti Theft", "Theft", "ThisCarCost", "PropCost"],
+  ["Age", "SocioEcon", "HomeBase", "Theft", "ThisCarCost", "PropCost"],
+  ["Age", "SocioEcon", "OtherCar"],
+  ["Age", "SocioEcon", "GoodStudent"],
+
+  ["Age", "SocioEcon", "VehicleYear", "CarValue", "Theft", "ThisCarCost", "PropCost"],
+  ["Age", "SocioEcon", "VehicleYear", "CarValue", "ThisCarCost", "PropCost"],
+  ["Age", "SocioEcon", "VehicleYear", "RuggedAuto", "ThisCarDam", "ThisCarCost", "PropCost"],
+  ["Age", "SocioEcon", "VehicleYear", "RuggedAuto", "OtherCarCost", "PropCost"],
+  ["Age", "SocioEcon", "VehicleYear", "RuggedAuto", "Cushioning", "MedCost"],
+  ["Age", "SocioEcon", "VehicleYear", "Antilock", "Accident", "ThisCarDam", "ThisCarCost", "PropCost"],
+  ["Age", "SocioEcon", "VehicleYear", "Antilock", "Accident", "OtherCarCost", "PropCost"],
+  ["Age", "SocioEcon", "VehicleYear", "Antilock", "Accident", "ILiCost"],
+  ["Age", "SocioEcon", "VehicleYear", "Antilock", "Accident", "MedCost"],
+  ["Age", "SocioEcon", "VehicleYear", "Airbag", "Cushioning", "MedCost"],
+
+  ["Age", "SocioEcon", "RiskAversion", "Anti Theft", "Theft", "ThisCarCost", "PropCost"],
+  ["Age", "SocioEcon", "RiskAversion", "HomeBase", "Theft", "ThisCarCost", "PropCost"],
+  ["Age", "SocioEcon", "RiskAversion", "VehicleYear", "CarValue", "Theft", "ThisCarCost", "PropCost"],
+  ["Age", "SocioEcon", "RiskAversion", "VehicleYear", "CarValue", "ThisCarCost", "PropCost"],
+  ["Age", "SocioEcon", "RiskAversion", "VehicleYear", "RuggedAuto", "ThisCarDam", "ThisCarCost", "PropCost"],
+  ["Age", "SocioEcon", "RiskAversion", "VehicleYear", "RuggedAuto", "OtherCarCost", "PropCost"],
+  ["Age", "SocioEcon", "RiskAversion", "VehicleYear", "RuggedAuto", "Cushioning", "MedCost"],
+  ["Age", "SocioEcon", "RiskAversion", "VehicleYear", "Antilock", "Accident", "ThisCarDam", "ThisCarCost", "PropCost"],
+  ["Age", "SocioEcon", "RiskAversion", "VehicleYear", "Antilock", "Accident", "OtherCarCost", "PropCost"],
+  ["Age", "SocioEcon", "RiskAversion", "VehicleYear", "Antilock", "Accident", "ILiCost"],
+  ["Age", "SocioEcon", "RiskAversion", "VehicleYear", "Antilock", "Accident", "MedCost"],
+  ["Age", "SocioEcon", "RiskAversion", "VehicleYear", "Airbag", "Cushioning", "MedCost"],
+  
+  ["Age", "SocioEcon", "RiskAversion", "MakeModel", "CarValue", "Theft", "ThisCarCost", "PropCost"],
+  ["Age", "SocioEcon", "RiskAversion", "MakeModel", "CarValue", "ThisCarCost", "PropCost"],
+  ["Age", "SocioEcon", "RiskAversion", "MakeModel", "RuggedAuto", "ThisCarDam", "ThisCarCost", "PropCost"],
+  ["Age", "SocioEcon", "RiskAversion", "MakeModel", "RuggedAuto", "OtherCarCost", "PropCost"],
+  ["Age", "SocioEcon", "RiskAversion", "MakeModel", "RuggedAuto", "Cushioning", "MedCost"],
+  ["Age", "SocioEcon", "RiskAversion", "MakeModel", "Antilock", "Accident", "ThisCarDam", "ThisCarCost", "PropCost"],
+  ["Age", "SocioEcon", "RiskAversion", "MakeModel", "Antilock", "Accident", "OtherCarCost", "PropCost"],
+  ["Age", "SocioEcon", "RiskAversion", "MakeModel", "Antilock", "Accident", "ILiCost"],
+  ["Age", "SocioEcon", "RiskAversion", "MakeModel", "Antilock", "Accident", "MedCost"],
+  ["Age", "SocioEcon", "RiskAversion", "MakeModel", "Airbag", "Cushioning", "MedCost"],
+  
+  ["Age", "SocioEcon", "RiskAversion", "DrivQuality", "Accident", "ThisCarDam", "ThisCarCost", "PropCost"],
+  ["Age", "SocioEcon", "RiskAversion", "DrivQuality", "Accident", "OtherCarCost", "PropCost"],
+  ["Age", "SocioEcon", "RiskAversion", "DrivQuality", "Accident", "ILiCost"],
+  ["Age", "SocioEcon", "RiskAversion", "DrivQuality", "Accident", "MedCost"],
+  
+  ["Age", "SocioEcon", "RiskAversion", "DrivHist"],
+
+  ["Age", "SocioEcon", "RiskAversion", "SeniorTrain", "DrivingSkill", "DrivHist"],
+  ["Age", "SocioEcon", "RiskAversion", "SeniorTrain", "DrivingSkill", "DrivQuality", "Accident", "ThisCarDam", "ThisCarCost", "PropCost"],
+  ["Age", "SocioEcon", "RiskAversion", "SeniorTrain", "DrivingSkill", "DrivQuality", "Accident", "OtherCarCost", "PropCost"],
+  ["Age", "SocioEcon", "RiskAversion", "SeniorTrain", "DrivingSkill", "DrivQuality", "Accident", "ILiCost"],
+  ["Age", "SocioEcon", "RiskAversion", "SeniorTrain", "DrivingSkill", "DrivQuality", "Accident", "MedCost"],
+
+  
+  ["Age", "GoodStudent"],
+
+  
+  ["Age", "SeniorTrain", "DrivingSkill", "DrivHist"],
+  ["Age", "SeniorTrain", "DrivingSkill", "DrivQuality", "Accident", "ThisCarDam", "ThisCarCost", "PropCost"],
+  ["Age", "SeniorTrain", "DrivingSkill", "DrivQuality", "Accident", "OtherCarCost", "PropCost"],
+  ["Age", "SeniorTrain", "DrivingSkill", "DrivQuality", "Accident", "ILiCost"],
+  ["Age", "SeniorTrain", "DrivingSkill", "DrivQuality", "Accident", "MedCost"],
+
+
+  ["Age", "DrivingSkill", "DrivHist"],
+  ["Age", "DrivingSkill", "DrivQuality", "Accident", "ThisCarDam", "ThisCarCost", "PropCost"],
+  ["Age", "DrivingSkill", "DrivQuality", "Accident", "OtherCarCost", "PropCost"],
+  ["Age", "DrivingSkill", "DrivQuality", "Accident", "ILiCost"],
+  ["Age", "DrivingSkill", "DrivQuality", "Accident", "MedCost"],
+
+
+  ["Age", "MedCost"],
+
+
+  ["Mileage", "Accident", "ThisCarDam", "ThisCarCost", "PropCost"],
+  ["Mileage", "Accident", "OtherCarCost", "PropCost"],
+  ["Mileage", "Accident", "ILiCost"],
+  ["Mileage", "Accident", "MedCost"],
+
+  ["Mileage", "CarValue", "Theft", "ThisCarCost", "PropCost"],
+  ["Mileage", "CarValue", "ThisCarCost", "PropCost"]
+]

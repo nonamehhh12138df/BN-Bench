@@ -1,0 +1,36 @@
+[
+  ["Rainfall", "Flooding", "Nitrogen", "Diarrhoea"],
+  ["Rainfall", "Flooding", "Nitrogen", "Typhoid"],
+  ["Rainfall", "Flooding", "Fat/oil", "Diarrhoea"],
+  ["Rainfall", "Flooding", "Fat/oil", "Typhoid"],
+  ["Rainfall", "Flooding", "Bacteria", "Diarrhoea"],
+  ["Rainfall", "Flooding", "Bacteria", "Typhoid"],
+
+  ["Percolation", "Flooding", "Nitrogen", "Diarrhoea"],
+  ["Percolation", "Flooding", "Nitrogen", "Typhoid"],
+  ["Percolation", "Flooding", "Fat/oil", "Diarrhoea"],
+  ["Percolation", "Flooding", "Fat/oil", "Typhoid"],
+  ["Percolation", "Flooding", "Bacteria", "Diarrhoea"],
+  ["Percolation", "Flooding", "Bacteria", "Typhoid"],
+
+  ["Elevation", "Nitrogen", "Diarrhoea"],
+  ["Elevation", "Nitrogen", "Typhoid"],
+  ["Elevation", "Fat/oil", "Diarrhoea"],
+  ["Elevation", "Fat/oil", "Typhoid"],
+  ["Elevation", "Bacteria", "Diarrhoea"],
+  ["Elevation", "Bacteria", "Typhoid"],
+
+  ["Population density", "Nitrogen", "Diarrhoea"],
+  ["Population density", "Nitrogen", "Typhoid"],
+  ["Population density", "Fat/oil", "Diarrhoea"],
+  ["Population density", "Fat/oil", "Typhoid"],
+  ["Population density", "Bacteria", "Diarrhoea"],
+  ["Population density", "Bacteria", "Typhoid"],
+
+  ["Land use", "Nitrogen", "Diarrhoea"],
+  ["Land use", "Nitrogen", "Typhoid"],
+  ["Land use", "Fat/oil", "Diarrhoea"],
+  ["Land use", "Fat/oil", "Typhoid"],
+  ["Land use", "Bacteria", "Diarrhoea"],
+  ["Land use", "Bacteria", "Typhoid"]
+]

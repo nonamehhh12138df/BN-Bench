@@ -1,0 +1,34 @@
+{
+  "network": "asia",
+  "network_label": "Asia",
+  "rating_files": {
+    "ordering_based": "ordering_based_ratings.csv",
+    "edge_based": "edge_based_ratings.csv"
+  },
+  "rating_scales": {
+    "ordering_based": {
+      "column": "raw_score",
+      "description": "human ordering-based causal rating"
+    },
+    "edge_based": {
+      "column": "direction_label",
+      "labels": {
+        "1": "source -> target",
+        "-1": "target -> source",
+        "0": "no direct causal influence or uncertain"
+      }
+    }
+  },
+  "num_participants": {
+    "ordering_based": 37,
+    "edge_based": 39
+  },
+  "num_pairs": {
+    "ordering_based": 28,
+    "edge_based": 28
+  },
+  "num_ratings": {
+    "ordering_based": 1036,
+    "edge_based": 1092
+  }
+}

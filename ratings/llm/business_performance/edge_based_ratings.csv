@@ -1,0 +1,16 @@
+network,network_label,section_id,model,expert_type,run_id,pair_id,source,target,prompt_id,protocol,direction_label
+business_performance,Business Performance,2.18,ChatGPT 4.0,llm_simulated_expert,run_001,business_performance_pair_001,Supply Chain Strategy,Supply Chain Network Design,docx_llm_survey_v1,edge_based,1
+business_performance,Business Performance,2.18,ChatGPT 4.0,llm_simulated_expert,run_001,business_performance_pair_002,Supply Chain Network Design,Financial Performance,docx_llm_survey_v1,edge_based,0
+business_performance,Business Performance,2.18,ChatGPT 4.0,llm_simulated_expert,run_001,business_performance_pair_003,Supply Chain Strategy,Information System,docx_llm_survey_v1,edge_based,1
+business_performance,Business Performance,2.18,ChatGPT 4.0,llm_simulated_expert,run_001,business_performance_pair_004,Information System,Organizational Structure,docx_llm_survey_v1,edge_based,0
+business_performance,Business Performance,2.18,ChatGPT 4.0,llm_simulated_expert,run_001,business_performance_pair_005,Supply Chain Strategy,Organizational Structure,docx_llm_survey_v1,edge_based,1
+business_performance,Business Performance,2.18,ChatGPT 4.0,llm_simulated_expert,run_001,business_performance_pair_006,Information System,Operational Performance,docx_llm_survey_v1,edge_based,1
+business_performance,Business Performance,2.18,ChatGPT 4.0,llm_simulated_expert,run_001,business_performance_pair_007,Supply Chain Strategy,Operational Performance,docx_llm_survey_v1,edge_based,0
+business_performance,Business Performance,2.18,ChatGPT 4.0,llm_simulated_expert,run_001,business_performance_pair_008,Information System,Financial Performance,docx_llm_survey_v1,edge_based,0
+business_performance,Business Performance,2.18,ChatGPT 4.0,llm_simulated_expert,run_001,business_performance_pair_009,Supply Chain Strategy,Financial Performance,docx_llm_survey_v1,edge_based,0
+business_performance,Business Performance,2.18,ChatGPT 4.0,llm_simulated_expert,run_001,business_performance_pair_010,Organizational Structure,Operational Performance,docx_llm_survey_v1,edge_based,1
+business_performance,Business Performance,2.18,ChatGPT 4.0,llm_simulated_expert,run_001,business_performance_pair_011,Supply Chain Network Design,Information System,docx_llm_survey_v1,edge_based,0
+business_performance,Business Performance,2.18,ChatGPT 4.0,llm_simulated_expert,run_001,business_performance_pair_012,Organizational Structure,Financial Performance,docx_llm_survey_v1,edge_based,0
+business_performance,Business Performance,2.18,ChatGPT 4.0,llm_simulated_expert,run_001,business_performance_pair_013,Supply Chain Network Design,Organizational Structure,docx_llm_survey_v1,edge_based,0
+business_performance,Business Performance,2.18,ChatGPT 4.0,llm_simulated_expert,run_001,business_performance_pair_014,Operational Performance,Financial Performance,docx_llm_survey_v1,edge_based,1
+business_performance,Business Performance,2.18,ChatGPT 4.0,llm_simulated_expert,run_001,business_performance_pair_015,Supply Chain Network Design,Operational Performance,docx_llm_survey_v1,edge_based,1

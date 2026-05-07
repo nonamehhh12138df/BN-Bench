@@ -1,0 +1,17 @@
+[
+  ["Plcg", "PIP3", "PIP2"],
+  ["Plcg", "PIP2"],
+  
+  ["PKC", "P38"],
+  ["PKC", "Jnk"],
+  
+  ["PKC", "PKA", "P38"],
+  ["PKC", "PKA", "Jnk"],
+  ["PKC", "PKA", "Akt"],
+  ["PKC", "PKA", "Erk", "Akt"],
+  ["PKC", "PKA", "Mek", "Erk", "Akt"],
+  ["PKC", "PKA", "Raf", "Mek", "Erk", "Akt"],
+  
+  ["PKC", "Raf", "Mek", "Erk", "Akt"],
+  ["PKC", "Mek", "Erk", "Akt"]
+]

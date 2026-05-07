@@ -1,0 +1,79 @@
+network,network_label,section_id,model,expert_type,run_id,pair_id,source,target,prompt_id,protocol,direction_label
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_001,Anesthesia Type,Failure in Anesthesia Equipment,docx_llm_survey_v1,edge_based,0
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_002,Patient Fall,Patient Risk,docx_llm_survey_v1,edge_based,0
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_003,Anesthesia Type,Wrong Site,docx_llm_survey_v1,edge_based,0
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_004,Patient Fall,Patient Injury,docx_llm_survey_v1,edge_based,1
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_005,Anesthesia Type,Patient Fall,docx_llm_survey_v1,edge_based,1
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_006,Patient Fall,Patient Death,docx_llm_survey_v1,edge_based,1
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_007,Anesthesia Type,Surgery Infection,docx_llm_survey_v1,edge_based,0
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_008,Surgery Infection,Foreign Bodies,docx_llm_survey_v1,edge_based,0
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_009,Anesthesia Type,Foreign Bodies,docx_llm_survey_v1,edge_based,0
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_010,Surgery Infection,Operation Error,docx_llm_survey_v1,edge_based,0
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_011,Anesthesia Type,Operation Error,docx_llm_survey_v1,edge_based,0
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_012,Surgery Infection,Medication Error,docx_llm_survey_v1,edge_based,0
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_013,Anesthesia Type,Medication Error,docx_llm_survey_v1,edge_based,1
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_014,Surgery Infection,Age,docx_llm_survey_v1,edge_based,0
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_015,Anesthesia Type,Age,docx_llm_survey_v1,edge_based,-1
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_016,Surgery Infection,Physical State of Patient,docx_llm_survey_v1,edge_based,1
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_017,Anesthesia Type,Physical State of Patient,docx_llm_survey_v1,edge_based,-1
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_018,Surgery Infection,Patient Risk,docx_llm_survey_v1,edge_based,0
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_019,Anesthesia Type,Patient Risk,docx_llm_survey_v1,edge_based,0
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_020,Surgery Infection,Patient Injury,docx_llm_survey_v1,edge_based,1
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_021,Anesthesia Type,Patient Injury,docx_llm_survey_v1,edge_based,0
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_022,Surgery Infection,Patient Death,docx_llm_survey_v1,edge_based,1
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_023,Anesthesia Type,Patient Death,docx_llm_survey_v1,edge_based,0
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_024,Foreign Bodies,Operation Error,docx_llm_survey_v1,edge_based,1
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_025,Failure in Anesthesia Equipment,Wrong Site,docx_llm_survey_v1,edge_based,0
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_026,Foreign Bodies,Medication Error,docx_llm_survey_v1,edge_based,0
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_027,Failure in Anesthesia Equipment,Patient Fall,docx_llm_survey_v1,edge_based,1
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_028,Foreign Bodies,Age,docx_llm_survey_v1,edge_based,0
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_029,Failure in Anesthesia Equipment,Surgery Infection,docx_llm_survey_v1,edge_based,0
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_030,Foreign Bodies,Physical State of Patient,docx_llm_survey_v1,edge_based,1
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_031,Failure in Anesthesia Equipment,Foreign Bodies,docx_llm_survey_v1,edge_based,0
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_032,Foreign Bodies,Patient Risk,docx_llm_survey_v1,edge_based,0
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_033,Failure in Anesthesia Equipment,Operation Error,docx_llm_survey_v1,edge_based,1
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_034,Foreign Bodies,Patient Injury,docx_llm_survey_v1,edge_based,1
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_035,Failure in Anesthesia Equipment,Medication Error,docx_llm_survey_v1,edge_based,1
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_036,Foreign Bodies,Patient Death,docx_llm_survey_v1,edge_based,1
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_037,Failure in Anesthesia Equipment,Age,docx_llm_survey_v1,edge_based,0
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_038,Operation Error,Medication Error,docx_llm_survey_v1,edge_based,1
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_039,Failure in Anesthesia Equipment,Physical State of Patient,docx_llm_survey_v1,edge_based,0
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_040,Operation Error,Age,docx_llm_survey_v1,edge_based,0
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_041,Failure in Anesthesia Equipment,Patient Risk,docx_llm_survey_v1,edge_based,0
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_042,Operation Error,Physical State of Patient,docx_llm_survey_v1,edge_based,1
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_043,Failure in Anesthesia Equipment,Patient Injury,docx_llm_survey_v1,edge_based,1
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_044,Operation Error,Patient Risk,docx_llm_survey_v1,edge_based,0
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_045,Failure in Anesthesia Equipment,Patient Death,docx_llm_survey_v1,edge_based,1
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_046,Operation Error,Patient Injury,docx_llm_survey_v1,edge_based,1
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_047,Wrong Site,Patient Fall,docx_llm_survey_v1,edge_based,0
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_048,Operation Error,Patient Death,docx_llm_survey_v1,edge_based,1
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_049,Wrong Site,Surgery Infection,docx_llm_survey_v1,edge_based,1
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_050,Medication Error,Age,docx_llm_survey_v1,edge_based,0
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_051,Wrong Site,Foreign Bodies,docx_llm_survey_v1,edge_based,1
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_052,Medication Error,Physical State of Patient,docx_llm_survey_v1,edge_based,1
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_053,Wrong Site,Operation Error,docx_llm_survey_v1,edge_based,1
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_054,Medication Error,Patient Risk,docx_llm_survey_v1,edge_based,1
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_055,Wrong Site,Medication Error,docx_llm_survey_v1,edge_based,0
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_056,Medication Error,Patient Injury,docx_llm_survey_v1,edge_based,1
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_057,Wrong Site,Age,docx_llm_survey_v1,edge_based,0
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_058,Medication Error,Patient Death,docx_llm_survey_v1,edge_based,1
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_059,Wrong Site,Physical State of Patient,docx_llm_survey_v1,edge_based,0
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_060,Age,Physical State of Patient,docx_llm_survey_v1,edge_based,1
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_061,Wrong Site,Patient Risk,docx_llm_survey_v1,edge_based,0
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_062,Age,Patient Risk,docx_llm_survey_v1,edge_based,1
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_063,Wrong Site,Patient Injury,docx_llm_survey_v1,edge_based,1
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_064,Age,Patient Injury,docx_llm_survey_v1,edge_based,1
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_065,Wrong Site,Patient Death,docx_llm_survey_v1,edge_based,1
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_066,Age,Patient Death,docx_llm_survey_v1,edge_based,1
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_067,Patient Fall,Surgery Infection,docx_llm_survey_v1,edge_based,0
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_068,Physical State of Patient,Patient Risk,docx_llm_survey_v1,edge_based,1
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_069,Patient Fall,Foreign Bodies,docx_llm_survey_v1,edge_based,0
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_070,Physical State of Patient,Patient Injury,docx_llm_survey_v1,edge_based,1
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_071,Patient Fall,Operation Error,docx_llm_survey_v1,edge_based,0
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_072,Physical State of Patient,Patient Death,docx_llm_survey_v1,edge_based,1
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_073,Patient Fall,Medication Error,docx_llm_survey_v1,edge_based,0
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_074,Patient Risk,Patient Injury,docx_llm_survey_v1,edge_based,1
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_075,Patient Fall,Age,docx_llm_survey_v1,edge_based,-1
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_076,Patient Risk,Patient Death,docx_llm_survey_v1,edge_based,1
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_077,Patient Fall,Physical State of Patient,docx_llm_survey_v1,edge_based,-1
+patients_safety,Patient’s Safety,2.12,ChatGPT 4.0,llm_simulated_expert,run_001,patients_safety_pair_078,Patient Injury,Patient Death,docx_llm_survey_v1,edge_based,1

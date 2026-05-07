@@ -1,0 +1,67 @@
+network,network_label,section_id,model,expert_type,run_id,pair_id,source,target,prompt_id,protocol,raw_score
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_001,Age,BMI (Body Mass Index),docx_llm_survey_v1,ordering_based,3
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_002,History of Fracture (personal/parental),Psychotropic Drug Use,docx_llm_survey_v1,ordering_based,0
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_003,Age,Bone Mineral Density (BMD),docx_llm_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_004,History of Fracture (personal/parental),5 Times Sit-to-Stand (5TSTS),docx_llm_survey_v1,ordering_based,3
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_005,Age,History of Fracture (personal/parental),docx_llm_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_006,History of Fracture (personal/parental),Gait Speed,docx_llm_survey_v1,ordering_based,3
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_007,Age,Vitamin D Use,docx_llm_survey_v1,ordering_based,4
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_008,History of Fracture (personal/parental),History of Falls,docx_llm_survey_v1,ordering_based,4
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_009,Age,Chronic Diseases,docx_llm_survey_v1,ordering_based,9
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_010,History of Fracture (personal/parental),Hip Fracture,docx_llm_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_011,Age,Glucocorticoid (GC) Use,docx_llm_survey_v1,ordering_based,3
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_012,Vitamin D Use,Chronic Diseases,docx_llm_survey_v1,ordering_based,0
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_013,Age,Psychotropic Drug Use,docx_llm_survey_v1,ordering_based,4
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_014,Vitamin D Use,Glucocorticoid (GC) Use,docx_llm_survey_v1,ordering_based,0
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_015,Age,5 Times Sit-to-Stand (5TSTS),docx_llm_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_016,Vitamin D Use,Psychotropic Drug Use,docx_llm_survey_v1,ordering_based,0
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_017,Age,Gait Speed,docx_llm_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_018,Vitamin D Use,5 Times Sit-to-Stand (5TSTS),docx_llm_survey_v1,ordering_based,2
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_019,Age,History of Falls,docx_llm_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_020,Vitamin D Use,Gait Speed,docx_llm_survey_v1,ordering_based,2
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_021,Age,Hip Fracture,docx_llm_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_022,Vitamin D Use,History of Falls,docx_llm_survey_v1,ordering_based,2
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_023,BMI (Body Mass Index),Bone Mineral Density (BMD),docx_llm_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_024,Vitamin D Use,Hip Fracture,docx_llm_survey_v1,ordering_based,3
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_025,BMI (Body Mass Index),History of Fracture (personal/parental),docx_llm_survey_v1,ordering_based,4
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_026,Chronic Diseases,Glucocorticoid (GC) Use,docx_llm_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_027,BMI (Body Mass Index),Vitamin D Use,docx_llm_survey_v1,ordering_based,1
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_028,Chronic Diseases,Psychotropic Drug Use,docx_llm_survey_v1,ordering_based,4
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_029,BMI (Body Mass Index),Chronic Diseases,docx_llm_survey_v1,ordering_based,5
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_030,Chronic Diseases,5 Times Sit-to-Stand (5TSTS),docx_llm_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_031,BMI (Body Mass Index),Glucocorticoid (GC) Use,docx_llm_survey_v1,ordering_based,0
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_032,Chronic Diseases,Gait Speed,docx_llm_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_033,BMI (Body Mass Index),Psychotropic Drug Use,docx_llm_survey_v1,ordering_based,0
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_034,Chronic Diseases,History of Falls,docx_llm_survey_v1,ordering_based,5
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_035,BMI (Body Mass Index),5 Times Sit-to-Stand (5TSTS),docx_llm_survey_v1,ordering_based,5
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_036,Chronic Diseases,Hip Fracture,docx_llm_survey_v1,ordering_based,5
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_037,BMI (Body Mass Index),Gait Speed,docx_llm_survey_v1,ordering_based,5
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_038,Glucocorticoid (GC) Use,Psychotropic Drug Use,docx_llm_survey_v1,ordering_based,0
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_039,BMI (Body Mass Index),History of Falls,docx_llm_survey_v1,ordering_based,3
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_040,Glucocorticoid (GC) Use,5 Times Sit-to-Stand (5TSTS),docx_llm_survey_v1,ordering_based,3
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_041,BMI (Body Mass Index),Hip Fracture,docx_llm_survey_v1,ordering_based,4
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_042,Glucocorticoid (GC) Use,Gait Speed,docx_llm_survey_v1,ordering_based,3
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_043,Bone Mineral Density (BMD),History of Fracture (personal/parental),docx_llm_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_044,Glucocorticoid (GC) Use,History of Falls,docx_llm_survey_v1,ordering_based,3
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_045,Bone Mineral Density (BMD),Vitamin D Use,docx_llm_survey_v1,ordering_based,-3
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_046,Glucocorticoid (GC) Use,Hip Fracture,docx_llm_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_047,Bone Mineral Density (BMD),Chronic Diseases,docx_llm_survey_v1,ordering_based,0
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_048,Psychotropic Drug Use,5 Times Sit-to-Stand (5TSTS),docx_llm_survey_v1,ordering_based,4
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_049,Bone Mineral Density (BMD),Glucocorticoid (GC) Use,docx_llm_survey_v1,ordering_based,0
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_050,Psychotropic Drug Use,Gait Speed,docx_llm_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_051,Bone Mineral Density (BMD),Psychotropic Drug Use,docx_llm_survey_v1,ordering_based,0
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_052,Psychotropic Drug Use,History of Falls,docx_llm_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_053,Bone Mineral Density (BMD),5 Times Sit-to-Stand (5TSTS),docx_llm_survey_v1,ordering_based,2
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_054,Psychotropic Drug Use,Hip Fracture,docx_llm_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_055,Bone Mineral Density (BMD),Gait Speed,docx_llm_survey_v1,ordering_based,2
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_056,5 Times Sit-to-Stand (5TSTS),Gait Speed,docx_llm_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_057,Bone Mineral Density (BMD),History of Falls,docx_llm_survey_v1,ordering_based,1
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_058,5 Times Sit-to-Stand (5TSTS),History of Falls,docx_llm_survey_v1,ordering_based,7
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_059,Bone Mineral Density (BMD),Hip Fracture,docx_llm_survey_v1,ordering_based,10
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_060,5 Times Sit-to-Stand (5TSTS),Hip Fracture,docx_llm_survey_v1,ordering_based,6
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_061,History of Fracture (personal/parental),Vitamin D Use,docx_llm_survey_v1,ordering_based,3
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_062,Gait Speed,History of Falls,docx_llm_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_063,History of Fracture (personal/parental),Chronic Diseases,docx_llm_survey_v1,ordering_based,0
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_064,Gait Speed,Hip Fracture,docx_llm_survey_v1,ordering_based,8
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_065,History of Fracture (personal/parental),Glucocorticoid (GC) Use,docx_llm_survey_v1,ordering_based,0
+hip_fracture,Hip Fracture,2.2,ChatGPT 4.0,llm_simulated_expert,run_001,hip_fracture_pair_066,History of Falls,Hip Fracture,docx_llm_survey_v1,ordering_based,9
